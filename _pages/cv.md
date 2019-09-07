@@ -45,6 +45,12 @@ Professional Activities
   
 Academic Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks
+  * Samsung Electronics, Suwon, Korea,July 2019
+* NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks
+  * NAVER Corporation, Seongnam, Korea,Aug 2018
+  * Samsung Advanced Institute of Technology, Suwon, Korea,July 2018
+  * SK Telecom, Seoul, Korea,May 2018
+* Robust Subspace Learning and Clustering:  Sparse and Low-Rank Representations
+  * Samsung Advanced Institute of Technology, Suwon, Korea,Feb 2017
+  * Watcha, Seoul, Korea,Oct 2016

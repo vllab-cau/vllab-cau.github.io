@@ -15,7 +15,7 @@ Education
 * M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013 (Best Paper Award)
 * Ph.D in the Electrical Engineering and Computer Science, Seoul National University, 2017 (Best Paper Award)
 
-Work experience
+Research experience
 ======
 * Postdoctoral Researcher (Aug 2018 - Aug 2019)
   * Department of Engineering Science, University of Oxford
@@ -24,6 +24,10 @@ Work experience
 * Postdoctoral Researcher (Mar 2017 - July 2018)
   * Department of EECS, Seoul National Univeristy
   * Advisor: Professor Songhwai Oh
+  
+* Graduate Researcher (Mar 2011 - Feb 2017)
+  * Department of EECS, Seoul National Univeristy
+  * Advisor: Professor Songhwai Oh, Chong-Ho Choi
   
 Awards and Honors
 ======

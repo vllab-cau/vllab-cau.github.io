@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in the Electrical and Electronics Engineering at Chung-Ang University, 2011
-* M.S. in the Electrical Engineering and Computer Science at Seoul National University, 2013 (\textit{Best Paper Award})
+* M.S. in the Electrical Engineering and Computer Science at Seoul National University, 2013 (Best Paper Award)
 * Ph.D in the Electrical Engineering and Computer Science at Seoul National University, 2017 (Best Paper Award)
 
 Work experience

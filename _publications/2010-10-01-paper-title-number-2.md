@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2019-06
+venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
@@ -13,3 +13,7 @@ This paper is about the number 2. The number 3 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh, “Deep Virtual Net-
+works for Memory Efficient Inference of Multiple Tasks”, in Proc. of the IEEE Con-
+ference on Computer Vision and Patter Recognition (CVPR), Jun. 2019.

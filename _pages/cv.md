@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in the Electrical and Electronics Engineering at Chung-Ang University, 2011
+* M.S. in the Electrical Engineering and Computer Science at Seoul National University, 2013 (Best Paper Award)
+* Ph.D in the Electrical Engineering and Computer Science at Seoul National University, 2017 (Best Paper Award)
 
 Work experience
 ======

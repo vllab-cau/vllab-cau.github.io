@@ -12,7 +12,7 @@ I am currently an assistant professor in the School of Computer Science and Engi
 
 Recent News
 ======
-- Sep 2019  - I join Chung-Ang University as an assistant professor.
+- Sep 2019  - I join the School of Computer Science and Engineering at Chung-Ang University as an assistant professor.
 - July 2019 - One paper is accepted to ICCV 2019.
 - July 2019 - One paper is accepted to Pattern Recognition Letters.
 - Mar 2019 - One paper is accepted to CVPR 2019.

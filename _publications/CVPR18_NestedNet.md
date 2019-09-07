@@ -1,7 +1,7 @@
 ---
 title: "NestedNet: Learning Nested Sparse Structures in Deep Neural Networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/CVPR18_NestedNet
 excerpt: 'Authors: **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh'
 date: 2018-06-01
 venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'

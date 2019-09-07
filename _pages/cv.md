@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in the Electrical and Electronics Engineering at Chung-Ang University, 2011
-* M.S. in the Electrical Engineering and Computer Science at Seoul National University, 2013 (Best Paper Award)
-* Ph.D in the Electrical Engineering and Computer Science at Seoul National University, 2017 (Best Paper Award)
+* B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
+* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013 (Best Paper Award)
+* Ph.D in the Electrical Engineering and Computer Science, Seoul National University, 2017 (Best Paper Award)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher (Aug 2018 - Aug 2019)
+  * Department of Engineering Science, University of Oxford
+  * Advisor: Professor Philip H.S. Torr
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Researcher (Mar 2017 - July 2018)
+  * Department of EECS, Seoul National Univeristy
+  * Advisor: Professor Songhwai Oh
   
 Skills
 ======
@@ -36,12 +34,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}

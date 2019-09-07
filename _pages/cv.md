@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
-* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013 (Best Paper Award)
-* Ph.D in the Electrical Engineering and Computer Science, Seoul National University, 2017 (Best Paper Award)
+* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013 (*Best Paper Award*)
+* Ph.D in the Electrical Engineering and Computer Science, Seoul National University, 2017 (*Best Paper Award*)
 
 
 Research experience
 ======
 * Postdoctoral Researcher (Aug 2018 - Aug 2019)
   * Department of Engineering Science, University of Oxford
-  * Advisor: Professor Philip H.S. Torr
+  * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)
 
 * Postdoctoral Researcher (Mar 2017 - July 2018)
   * Department of EECS, Seoul National Univeristy
-  * Advisor: Professor Songhwai Oh
+  * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh)
   
 * Graduate Researcher (Mar 2011 - Feb 2017)
   * Department of EECS, Seoul National Univeristy

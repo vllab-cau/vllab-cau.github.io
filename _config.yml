@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunwoo Kim"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Eunwoo Kim"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=CqH9hzYAAAAJ&hl=en"
-  email            :
+  email            : "eunwoo@cau.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

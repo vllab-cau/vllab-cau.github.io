@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunwoo Kim"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Eunwoo Kim"
 description              : &description "personal description"
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Eunwoo Kim"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "niceday15"
   google_plus      :
   keybase          :
   instagram        :

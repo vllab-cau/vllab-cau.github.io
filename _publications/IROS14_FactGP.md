@@ -1,5 +1,5 @@
 ---
-title: "A Robust Autoregressive Gaussian Process Motion Model Using l_1-Norm Based Low-Rank Kernel Matrix Approximation"
+title: "A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation"
 collection: publications
 permalink: /publication/IROS14_FactGP
 excerpt: 'Authors: **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh'

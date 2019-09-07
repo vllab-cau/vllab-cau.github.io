@@ -38,7 +38,7 @@ Awards and Honors
 
 Professional Activities
 ======
-Technical Reviewer
+**Technical Reviewer**
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
 * IEEE International Conference on Computer Vision (ICCV) 2017, 2019
 * International Conference on Machine Learning (ICML) 2019
@@ -52,7 +52,8 @@ Technical Reviewer
 * Sensors 2019
 * Applied Sciences 2019
 * Applied Soft Computing 2019
-Program Committee
+
+**Program Committee**
 * ICCV Workshop on Robust Subspace Learning and Computer Vision 2017, 2019
   
   

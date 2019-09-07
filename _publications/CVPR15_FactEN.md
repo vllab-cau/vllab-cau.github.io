@@ -1,5 +1,5 @@
 ---
-title: "Elastic-Net Regularization of SingularValues for Robust Subspace Learning"
+title: "Elastic-Net Regularization of Singular Values for Robust Subspace Learning"
 collection: publications
 permalink: /publication/CVPR15_FactEN
 excerpt: 'Authors: **Eunwoo Kim**, Minsik Lee, and Songhwai Oh'

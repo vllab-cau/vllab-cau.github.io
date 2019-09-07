@@ -25,7 +25,7 @@ Work experience
   * Department of EECS, Seoul National Univeristy
   * Advisor: Professor Songhwai Oh
   
-Skills
+Awards and Honors
 ======
 * Skill 1
 * Skill 2
@@ -34,18 +34,16 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+Professional Activities
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+  
+Academic Talks
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>

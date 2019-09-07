@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Navigation in CrowdedDynamic  Environments  Using  Gaussian  Process  Motion  Control"
+title: "Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control"
 collection: publications
 permalink: /publication/ICRA14_coauthor
 excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'

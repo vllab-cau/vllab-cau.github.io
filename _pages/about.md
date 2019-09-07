@@ -12,5 +12,10 @@ I am currently an assistant professor in the School of Computer Science and Engi
 
 News
 ======
-test
+- Sep 2019  - I join Chung-Ang University as an assistant professor.
+- July 2019 - One paper is accepted to ICCV 2019.
+- July 2019 - One paper is accepted to Pattern Recognition Letters.
+- Mar 2019 - One paper is accepted to CVPR 2019.
+- Aug 2018  - I join University of Oxford as a postdoctoral researcher and a member of Torr Vision Group.
+- Mar 2018 - One paper is accepted to CVPR 2018 as a spotlight presentation.
 

@@ -1,5 +1,5 @@
 ---
-title: "Leveraged Non-Stationary Gaus-sian Process Regression for Autonomous Robot Navigation"
+title: "Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation"
 collection: publications
 permalink: /publication/ICRA15_coauthor
 excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'

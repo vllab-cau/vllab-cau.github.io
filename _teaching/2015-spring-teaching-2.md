@@ -1,7 +1,7 @@
 ---
 title: "Programming"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of CSE, Chung-Ang University"
 date: 2019-09-01

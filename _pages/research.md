@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Research"
-permalink: /portpolio/
+permalink: /portfolio/
 author_profile: true
 ---

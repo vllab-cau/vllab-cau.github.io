@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Programming"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of CSE, Chung-Ang University"
+date: 2019-09-01
+location: "Seoul, Korea"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======

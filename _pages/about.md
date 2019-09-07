@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the School of Computer Science and Engineering at Chung-Ang University, Seoul, Korea. Before that, I was a postdoctoral researcher at University of Oxford and a member of [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) working with Prof. [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/). Prior to this, I was a postdoctoral researcher at Seoul National University working with Prof. [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh). I received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University, Korea in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University, Korea in 2013 and 2017, respectively. 
+I am an assistant professor in the School of Computer Science and Engineering at Chung-Ang University, Seoul, Korea. Before that, I was a postdoctoral researcher at University of Oxford and a member of [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) working with Prof. [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/). Prior to this, I was a postdoctoral researcher at Seoul National University working with Prof. [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh). I received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University in 2013 and 2017, respectively. 
 
 My research interests include machine learning, deep learning, subspace representation, neural architecture search, multi-task learning, lifelong learning, and their applications.
 

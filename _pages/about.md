@@ -12,7 +12,8 @@ I am currently an assistant professor in the School of Computer Science and Engi
 
 Research Interests
 =====
-- Statistical Machine Learning: Sparse and Low-Rank Modeling, Subspace Learning and Clustering
+- Statistical Machine Learning
+  - Sparse and Low-Rank Modeling, Subspace Learning and Clustering
 - Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning, On-the-fly Learning
 - Vision-based Applications: Computer Vision, Mobile Vision, Robot Vision 
 

@@ -2,7 +2,7 @@
 title: "Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2019-06-01
 venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

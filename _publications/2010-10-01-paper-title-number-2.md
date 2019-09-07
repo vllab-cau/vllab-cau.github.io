@@ -14,6 +14,3 @@ This paper is about the number 2. The number 3 is left for future work.
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
 
-Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh, “Deep Virtual Net-
-works for Memory Efficient Inference of Multiple Tasks”, in Proc. of the IEEE Con-
-ference on Computer Vision and Patter Recognition (CVPR), Jun. 2019.

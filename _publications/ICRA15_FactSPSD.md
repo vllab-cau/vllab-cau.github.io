@@ -1,5 +1,5 @@
 ---
-title: "Structured Low-Rank Matrix Ap-proximation in Gaussian Process Regression for Autonomous Robot Navigation"
+title: "Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation"
 collection: publications
 permalink: /publication/ICRA15_FactSPSD
 excerpt: 'Authors: **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh'

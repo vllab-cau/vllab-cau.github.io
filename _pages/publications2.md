@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "International Publications"
+title: "Domestic Publications"
 permalink: /publications/
 author_profile: true
 ---

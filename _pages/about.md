@@ -19,3 +19,8 @@ Recent News
 - Aug 2018  - I join University of Oxford as a postdoctoral researcher and a member of Torr Vision Group.
 - Mar 2018 - One paper is accepted to CVPR 2018 as a spotlight presentation.
 
+Research Interests
+=====
+- Statistical Machine Learning: Sparse and Low-Rank Modeling, Subspace Learning and Clustering
+- Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning
+- Vision-based Applications: Computer Vision, Mobile Vision, Robot Vision 

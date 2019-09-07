@@ -10,4 +10,4 @@ Abstract: Recently, there have been increasing demands to construct compact deep
 
 Authors: **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh (Spotlight Presentation, 8.7% Acceptance Rate)
 
-[Paper](https://arxiv.org/abs/1712.03781) [Code](https://github.com/niceday15/nested-network-cifar100)
+[[Paper](https://arxiv.org/abs/1712.03781)] [[Code](https://github.com/niceday15/nested-network-cifar100)]

@@ -12,4 +12,4 @@ Abstract: Deep networks consume a large amount of memory by their nature. A natu
 
 Authors: **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, Songhwai Oh (25.2% Acceptance Rate)
 
-[[Paper](https://arxiv.org/abs/1904.04562)] [Code]
+[[Paper](https://arxiv.org/abs/1904.04562)] [Code](https://github.com/niceday15/deep-virtual-network-cifar)

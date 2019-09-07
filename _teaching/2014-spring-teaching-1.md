@@ -8,12 +8,3 @@ date: 2019-09-01
 location: ""
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

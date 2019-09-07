@@ -38,9 +38,22 @@ Awards and Honors
 
 Professional Activities
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Technical Reviewer
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
+* IEEE International Conference on Computer Vision (ICCV) 2017, 2019
+* International Conference on Machine Learning (ICML) 2019
+* Neural Information Processing Systems (NeurIPS) 2016, 2018, 2019
+* British Machine Vision Conference (BMVC) 2019
+* IEEE International Conference on Intelligent Robots and Systems (IROS) 2019
+* IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems 2017
+* IEEE Transactions on Image Processing 2016, 2017
+* IEEE Journal of Selected Topics in Signal Processing 2018
+* IEEE Access2018•IEEE Transactions on Robotics 2019
+* Sensors 2019
+* Applied Sciences 2019
+* Applied Soft Computing 2019
+Program Committee
+* ICCV Workshop on Robust Subspace Learning and Computer Vision 2017, 2019
   
   
 Academic Talks

@@ -27,12 +27,13 @@ Work experience
   
 Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019
+* Distinguished Doctoral Dissertation Award, EECS, SNU, 2017
+* Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017
+* Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016
+* Microsoft Autonomous Mobile Robot Navigation Contest, Microsoft, 2014
+* Distinguished Master’s Dissertation Award, EECS, SNU, 2013
+* Full Funded Scholarship, Samsung, 2011-2015
 
 
 Professional Activities

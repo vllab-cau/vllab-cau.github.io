@@ -6,6 +6,6 @@ excerpt: 'Deep networks consume a large amount of memory by their nature. A natu
 date: 2019-06-01
 venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh,. (2019). &quot;Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks.&quot; <i>CVPR 1</i>.'
+citation: ''
 ---
 

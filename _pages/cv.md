@@ -52,13 +52,13 @@ Professional Activities
 * British Machine Vision Conference (BMVC) 2019
 * IEEE International Conference on Intelligent Robots and Systems (IROS) 2019
 * IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems 2017
-* IEEE Transactions on Image Processing 2016, 2017
-* IEEE Journal of Selected Topics in Signal Processing 2018
-* IEEE Access 2018
-* IEEE Transactions on Robotics 2019
-* Sensors 2019
-* Applied Sciences 2019
-* Applied Soft Computing 2019
+* IEEE Transactions on Image Processing 
+* IEEE Journal of Selected Topics in Signal Processing 
+* IEEE Access 
+* IEEE Transactions on Robotics 
+* Sensors 
+* Applied Sciences 
+* Applied Soft Computing 
 
 **Program Committee**
 * ICCV Workshop on Robust Subspace Learning and Computer Vision 2017, 2019

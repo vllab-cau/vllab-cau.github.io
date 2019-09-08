@@ -6,7 +6,7 @@ excerpt: 'Authors: Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh (\* indicates
 date: 2019-10-01
 venue: 'IEEE International Conferenceon Computer Vision (ICCV)'
 ---
-<img src='/images/DEN.png'>
+<img src='/images/DEN.png' width="200">
 
 Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh, “Deep Elastic Networks with Model Selection for Multi-Task Learning”, *in Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019. (\* indicates  equal contribution, 25.0% Acceptance Rate)
 

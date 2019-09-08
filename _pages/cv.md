@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+=====
+Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
+
 Education
 ======
 * B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011

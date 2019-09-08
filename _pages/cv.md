@@ -54,7 +54,8 @@ Professional Activities
 * IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems 2017
 * IEEE Transactions on Image Processing 2016, 2017
 * IEEE Journal of Selected Topics in Signal Processing 2018
-* IEEE Access2018•IEEE Transactions on Robotics 2019
+* IEEE Access2018
+* IEEE Transactions on Robotics 2019
 * Sensors 2019
 * Applied Sciences 2019
 * Applied Soft Computing 2019

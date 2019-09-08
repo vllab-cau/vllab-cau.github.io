@@ -3,8 +3,8 @@ title: "Robust Orthogonal Matrix Factorization for Efficient Subspace Learning"
 collection: publications
 permalink: /publication/neurocom_2015
 excerpt: 'Authors: **Eunwoo Kim** and Songhwai Oh'
-date: 2018-06-01
-venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
+date: 2015-11-01
+venue: 'Neurocomputing'
 ---
 **Eunwoo Kim** and Songhwai Oh, “Robust Orthogonal Matrix Factorization for Efficient Subspace Learning”, *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.
 

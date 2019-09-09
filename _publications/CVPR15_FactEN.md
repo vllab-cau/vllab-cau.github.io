@@ -6,7 +6,7 @@ excerpt: 'Authors: **Eunwoo Kim**, Minsik Lee, and Songhwai Oh'
 date: 2015-06-01
 venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
 ---
-<img src='/images/cvpr15.jpg' width="500">
+<img src='/images/cvpr15.jpg' width="600">
 
 **Eunwoo Kim**, Minsik Lee, and Songhwai Oh, “Elastic-Net Regularization of Singular Values for Robust Subspace Learning”, *in Proc. of the IEEE Conference on Computer Vision and Patter Recognition (CVPR)*, Jun.  2015.  (28.4% Acceptance Rate)
 

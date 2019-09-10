@@ -6,7 +6,7 @@ excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'
 date: 2013-08-01
 venue: 'IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)'
 ---
-<img src='/images/roman.gif' width="600">
+<img src='/images/roman.gif' width="700">
 
 Sungjoon  Choi, **Eunwoo Kim**, and Songhwai Oh, “Human Behavior Prediction for Smart Homes Using Deep Learning”, *in Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
 

@@ -6,7 +6,7 @@ excerpt: 'Authors: **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh'
 date: 2014-09-01
 venue: 'IEEE International Conference on Intelligent Robots and Systems (IROS)'
 ---
-<img src='/images/iros.jpg' width="600">
+<img src='/images/iros.jpg' width="700">
 
 **Eunwoo Kim**, Sungjoon  Choi, and Songhwai Oh, “A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation”, *in Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep. 2014.
 

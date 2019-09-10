@@ -6,7 +6,7 @@ excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'
 date: 2014-05-01
 venue: 'IEEE International Conference on Robotics and Applications (ICRA)'
 ---
-<img src='/images/icra14.gif' width="600">
+<img src='/images/icra14.gif' width="500">
 
 Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh, “Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion  Control”, *in Proc. of the IEEE International Conference on Robotics and Applications (ICRA)*, May 2014.
 

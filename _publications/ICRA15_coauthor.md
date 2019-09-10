@@ -6,7 +6,7 @@ excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'
 date: 2015-05-01
 venue: 'IEEE International Conference on Robotics and Applications (ICRA)'
 ---
-<img src='/images/icra15_co.gif' width="600">
+<img src='/images/icra15_co.gif' width="400">
 
 Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh, “Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation”, *in Proc. of the IEEE International Conference on Robotics and Applications (ICRA)*, May 2015.
 

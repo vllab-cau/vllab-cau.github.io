@@ -6,7 +6,7 @@ excerpt: 'Authors: **Eunwoo Kim** and Songhwai Oh'
 date: 2015-11-01
 venue: 'Neurocomputing'
 ---
-<img src='/images/neurocom2.jpg' width="800">
+<img src='/images/neurocom2.jpg' width="700">
 
 **Eunwoo Kim** and Songhwai Oh, “Robust Orthogonal Matrix Factorization for Efficient Subspace Learning”, *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.
 

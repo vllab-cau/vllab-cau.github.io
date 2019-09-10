@@ -38,11 +38,11 @@ Research experience
 Awards and Honors
 ======
 * NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019
-* Distinguished Doctoral Dissertation Award, EECS, SNU, 2017
+* Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017
 * Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017
 * Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016
 * Microsoft Autonomous Mobile Robot Navigation Contest, Microsoft, 2014
-* Distinguished Master’s Dissertation Award, EECS, SNU, 2013
+* Distinguished Master’s Dissertation Award, EECS, Seoul National University, 2013
 * Full Funded Scholarship, Samsung, 2011-2015
 
 

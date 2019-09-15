@@ -14,7 +14,7 @@ My research interests include machine learning, deep learning, neural architectu
 
 Recent News
 ======
-- Sep 2019  - I join Chung-Ang University as an assistant professor.
+- Sep 2019  - I join [Chung-Ang University](https://neweng.cau.ac.kr/index.do) as an assistant professor.
 - July 2019 - One paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/).
 - July 2019 - One paper is accepted to Pattern Recognition Letters.
 - Mar 2019 - One paper is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).

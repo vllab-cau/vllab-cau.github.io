@@ -28,7 +28,7 @@ Projects
   
   
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml.jpeg' width="200" height="100" align="left">
+<img src='/images/ml.jpeg' width="150" height="100" align="left">
   * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
   * This project develops novel algorithms and methods for real-time nonparametric
   learning and prediction of time-varying stochastic processes.
@@ -42,6 +42,7 @@ Projects
    
    
 **Human-Centric Networked Robotics Technology** 
+<img src='/images/human_centric.jpeg' width="150" height="100" align="left">
   * Funded by the National Research Foundation (NRF) (2013-2016).
   * This project develops new methods and prototype applications for human-centric
   networked robots for seamless operations of service robots in our daily lives.

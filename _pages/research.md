@@ -28,13 +28,14 @@ Projects
   
   
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml.jpeg' width="150" align="left">
+<img src='/images/ml.jpeg' width="200" align="left">
   * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
   * This project develops novel algorithms and methods for real-time nonparametric
   learning and prediction of time-varying stochastic processes.
    
    
 **Practical Action Recognition and Prediction Technology** 
+<img src='/images/nrsfm.png' width="150" align="left">
   * Funded by the National Research Foundation (NRF) (2013-2016).
   * This project develops robust non-rigid structure from motion (NRSfM) methods and
   their fundamental robust low-rank factorization algorithms.

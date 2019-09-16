@@ -21,13 +21,14 @@ Projects
   
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otf.jpeg' width="200" align="left">
+<img src='/images/otf.jpeg' width="150" align="left">
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.
   
   
 **Human-Level Lifelong Machine Learning** 
+<img src='/images/ml.jpeg' width="150" align="left">
   * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
   * This project develops novel algorithms and methods for real-time nonparametric
   learning and prediction of time-varying stochastic processes.

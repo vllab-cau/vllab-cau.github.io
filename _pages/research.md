@@ -14,10 +14,10 @@ Research Interests
 Projects
 =====
 **Efficient Multi-Task Learning with Dynamic Model Selection**
-    * Funded by Chung-Ang University (2019-2021).
-    * This project develops novel deep learning model selection algorithms 
-    for instance-wise multi-task learning while reducing memory requirements 
-    and human expert efforts.<br/><br/>
+   * Funded by Chung-Ang University (2019-2021).
+   * This project develops novel deep learning model selection algorithms 
+   for instance-wise multi-task learning while reducing memory requirements 
+   and human expert efforts.<br/><br/>
 
 **StreetWise**
 <img src='/images/streetwise.PNG' width="200" height="160" align="left" style="margin-right:50px"> 

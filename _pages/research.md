@@ -42,7 +42,7 @@ Projects
    
    
 **Human-Centric Networked Robotics Technology** 
-<img src='/images/human_centric.jpeg' width="120" height="200" align="left" style="margin-right:50px">
+<img src='/images/human_centric.jpeg' width="200" height="120" align="left" style="margin-right:50px">
    * Funded by the National Research Foundation (NRF) (2013-2016).
    * This project develops new methods and prototype applications for human-centric
    networked robots for seamless operations of service robots in our daily lives.

@@ -4,13 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Research Interests
-=====
-* Machine Learning: statistical machine learning, subspace representation and clustering, sparse modeling
-* Deep Learning: multi-task learning, lifelong learning, architecture search (autoML), hot topics in DL
-* Computer Vision: general topics in CV
-* Robotics: robot navigation, robot vision, scene understanding
-
 Projects
 =====
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection**

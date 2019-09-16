@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Projects
-=====
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection**
 <img src='/images/den4.png' width="230" align="left" style="margin-right:50px"> 
    * Funded by *Chung-Ang University (CAU)* (2019-2021).

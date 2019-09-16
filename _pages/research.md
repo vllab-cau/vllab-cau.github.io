@@ -35,7 +35,7 @@ Projects
   
   
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml.png' width="200" height="160" align="left" style="margin-right:50px">
+<img src='/images/ml.png' width="200" height="200" align="left" style="margin-right:50px">
    * Funded by the *Ministry of Science, ICT, and Future Planning (MSIP)* (2014-2017).
    * This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.<br/><br/>

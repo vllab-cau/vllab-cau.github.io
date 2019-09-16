@@ -44,7 +44,7 @@ Prof. Philip Torr (Univ. of Oxford),
 Prof. Songhwai Oh (Seoul National Univ.),
 Prof. Nojun Kwak (Seoul National Univ.),
 Prof. Minsik Lee (Hanyang Univ.),
-Namhoon Lee (Univ. of Oxford),
-Chanho Ahn (Seoul National Univ.),
-Nuri Kim (Seoul National Univ.)
+Namhoon Lee (DPhil candidate, Univ. of Oxford),
+Chanho Ahn (PhD candidate, Seoul National Univ.),
+Nuri Kim (PhD candidate, Seoul National Univ.)
 

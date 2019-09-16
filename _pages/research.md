@@ -14,7 +14,7 @@ Research Interests
 Projects
 =====
 **StreetWise**
-<img src='/images/street_wise.png' width="200" height="120" align="left" style="margin-right:50px"> 
+<img src='/images/streetwise.png' width="200" height="160" align="left" style="margin-right:50px"> 
    * Funded by the UK Research and Innovation (UKRI) (2018-2019).
    * The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily

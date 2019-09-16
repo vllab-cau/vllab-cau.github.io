@@ -6,7 +6,7 @@ author_profile: true
 ---
 Research Interests
 =====
-* Machine learning: statistical machine learning, subspace representation and clustering
+* Machine learning: statistical machine learning, subspace representation and clustering, sparse/low-rank modeling
 * Deep learning: multi-task learning, model compression, lifelong learning, architecture search (autoML)
 * Computer Vision: general topics in CV
 * Robotics: robot navigation, robot vision

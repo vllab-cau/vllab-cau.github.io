@@ -21,28 +21,28 @@ Projects
   
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otf.jpeg' width="200" height="150" align="left" style="margin-right:50px" style="border: 1px solid black"> 
+<img src='/images/otf.jpeg' width="300" height="150" align="left" style="margin-right:50px" style="border: 1px solid black"> 
    * Funded by the National Research Foundation (NRF) (2017-2018).
    * This project develops on-the-fly machine learning algorithms using deep learning
    frameworks to realize personalized and environment adaptive learning.
   
   
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml.jpeg' width="200" height="150" align="left" style="margin-right:50px">
+<img src='/images/ml.jpeg' width="300" height="150" align="left" style="margin-right:50px">
    * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
    * This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.
    
    
 **Practical Action Recognition and Prediction Technology** 
-<img src='/images/nrsfm.png' width="200" height="130" align="left" style="margin-right:50px">
+<img src='/images/nrsfm.png' width="300" height="130" align="left" style="margin-right:50px">
    * Funded by the National Research Foundation (NRF) (2013-2016).
    * This project develops robust non-rigid structure from motion (NRSfM) methods and
    their fundamental robust low-rank factorization algorithms.
    
    
 **Human-Centric Networked Robotics Technology** 
-<img src='/images/human_centric.jpeg' width="200" height="150" align="left" style="margin-right:50px">
+<img src='/images/human_centric.jpeg' width="300" height="150" align="left" style="margin-right:50px">
    * Funded by the National Research Foundation (NRF) (2013-2016).
    * This project develops new methods and prototype applications for human-centric
    networked robots for seamless operations of service robots in our daily lives.

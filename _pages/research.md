@@ -20,7 +20,7 @@ Projects
   at individuals that currently drive their commute to and from work.
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otf.jpeg' width="100" align="left">
+<img src='/images/otf.jpeg' width="200" align="left">
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.

@@ -41,16 +41,5 @@ Research Projects
   * This project develops an efficient low-rank factorization algorithm for large-scale
   data analysis.
   
-Collaborators
-=====
-Prof. Philip Torr (Univ. of Oxford),
-Prof. Songhwai Oh (Seoul National Univ.),
-Prof. Nojun Kwak (Seoul National Univ.),
-Prof. Minsik Lee (Hanyang Univ.),
-Prof. Hyungjin Chang (Univ. of Birmingham),
-Prof. Kwang In Kim (UNIST),
-Namhoon Lee (DPhil candidate, Univ. of Oxford),
-Chanho Ahn (PhD candidate, Seoul National Univ.),
-Hwiyeon Yoo (PhD candidate, Seoul National Univ.),
-Nuri Kim (PhD candidate, Seoul National Univ.)
+
 

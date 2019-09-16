@@ -14,7 +14,7 @@ Projects
    and human expert efforts.<br/><br/>
 
 **StreetWise**
-<img src='/images/streetwise2.png' width="230" align="left" style="margin-right:50px"> 
+<img src='/images/streetwise3.png' width="230" align="left" style="margin-right:50px"> 
    * Funded by the *UK Research and Innovation (UKRI)* (2018-2019).
    * The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily

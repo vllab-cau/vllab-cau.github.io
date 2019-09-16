@@ -17,7 +17,7 @@ Projects
 <img src='/images/den4.png' width="230" align="left" style="margin-right:50px"> 
    * Funded by *Chung-Ang University (CAU)* (2019-2021).
    * This project develops novel deep learning model selection algorithms 
-   for instance-wise multi-task learning while reducing memory requirements 
+   for instance-wise multi-task learning while reducing memory resources 
    and human expert efforts.<br/><br/>
 
 **StreetWise**

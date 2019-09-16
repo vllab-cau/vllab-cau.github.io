@@ -14,7 +14,7 @@ Research Interests
 Projects
 =====
 **Efficient Multi-Task Learning with Dynamic Model Selection**
-   * Funded by Chung-Ang University (2019-2021).
+   * Funded by *Chung-Ang University (CAU)* (2019-2021).
    * This project develops novel deep learning model selection algorithms 
    for instance-wise multi-task learning while reducing memory requirements 
    and human expert efforts.<br/><br/>
@@ -57,7 +57,7 @@ Projects
    
 **Efficient Low-Rank Approximation for Big Data Analysis** 
 <img src='/images/bigdata.png' width="200" align="left" style="margin-right:50px">
-   * Funded by the *Seoul National University (SNU)* (2013-2014).
+   * Funded by *Seoul National University (SNU)* (2013-2014).
    * This project develops an efficient low-rank factorization algorithm for large-scale
    data analysis.
   

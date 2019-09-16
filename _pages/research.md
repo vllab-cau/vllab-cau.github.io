@@ -35,7 +35,7 @@ Projects
   * Funded by the National Research Foundation (NRF) (2013-2016).
   * This project develops robust non-rigid structure from motion (NRSfM) methods and
   their fundamental robust low-rank factorization algorithms.
-  * <img src='/images/nrsfm.jpeg' width="300">
+  * <img src='/images/nrsfm.png' width="300">
  
 **Human-Centric Networked Robotics Technology** 
   * Funded by the National Research Foundation (NRF) (2013-2016).

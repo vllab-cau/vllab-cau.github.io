@@ -13,6 +13,10 @@ Research Interests
 
 Projects
 =====
+**Efficient Multi-Task Learning with Dynamic Model Selection**
+    * Funded by Chung-Ang University (2019-2021).
+    * 
+
 **StreetWise**
 <img src='/images/streetwise.PNG' width="200" height="160" align="left" style="margin-right:50px"> 
    * Funded by the *UK Research and Innovation (UKRI)* (2018-2019).

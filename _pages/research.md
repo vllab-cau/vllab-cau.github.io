@@ -17,35 +17,35 @@ Projects
    * Funded by the UK Research and Innovation (UKRI) (2018-2019).
    * The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.<br>
+   at individuals that currently drive their commute to and from work.<br/><br/>
   
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
 <img src='/images/otf.jpeg' width="200" height="120" align="left" style="margin-right:50px"> 
    * Funded by the National Research Foundation (NRF) (2017-2018).
    * This project develops on-the-fly machine learning algorithms using deep learning
-   frameworks to realize personalized and environment adaptive learning.<br> 
+   frameworks to realize personalized and environment adaptive learning.<br/><br/> 
   
   
 **Human-Level Lifelong Machine Learning** 
 <img src='/images/ml.jpeg' width="200" height="120" align="left" style="margin-right:50px">
    * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
    * This project develops novel algorithms and methods for real-time nonparametric
-   learning and prediction of time-varying stochastic processes.<br>
+   learning and prediction of time-varying stochastic processes.<br/><br/>
    
    
 **Practical Action Recognition and Prediction Technology** 
 <img src='/images/nrsfm.png' width="200" height="100" align="left" style="margin-right:50px">
    * Funded by the National Research Foundation (NRF) (2013-2016).
    * This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.<br>
+   their fundamental robust low-rank factorization algorithms.<br/><br/>
    
    
 **Human-Centric Networked Robotics Technology** 
 <img src='/images/human_centric.jpeg' width="200" height="120" align="left" style="margin-right:50px">
    * Funded by the National Research Foundation (NRF) (2013-2016).
    * This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.<br>
+   networked robots for seamless operations of service robots in our daily lives.<br/><br/>
     
    
 **Efficient Low-Rank Approximation for Big Data Analysis** 

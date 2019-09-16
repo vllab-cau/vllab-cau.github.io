@@ -23,6 +23,7 @@ Projects
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.
+  * <img src='/images/otf.jpg' width="600">
 
 **Human-Level Lifelong Machine Learning** 
   * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).

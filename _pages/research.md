@@ -40,4 +40,11 @@ Research Projects
   
 Collaborators
 =====
+Prof. Philip Torr (Univ. of Oxford)
+Prof. Songhwai Oh (Seoul National Univ.)
+Prof. Nojun Kwak (Seoul National Univ.)
+Prof. Minsik Lee (Hanyang Univ.)
+Namhoon Lee (Univ. of Oxford)
+Chanho Ahn (Seoul National Univ.)
+Nuri Kim (Seoul National Univ.)
 

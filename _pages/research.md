@@ -20,29 +20,29 @@ Projects
   at individuals that currently drive their commute to and from work.
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
+  <img src='/images/otf.jpeg' width="300">
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.
-  <img src='/images/otf.jpeg' width="300">
-
+  
 **Human-Level Lifelong Machine Learning** 
+  <img src='/images/ml.jpeg' width="300">
   * Funded by the Ministry of Science, ICT, and Future Planning (MSIP) (2014-2017).
   * This project develops novel algorithms and methods for real-time nonparametric
   learning and prediction of time-varying stochastic processes.
-  <img src='/images/ml.jpeg' width="300">
- 
+   
 **Practical Action Recognition and Prediction Technology** 
+  <img src='/images/nrsfm.png' width="300">
   * Funded by the National Research Foundation (NRF) (2013-2016).
   * This project develops robust non-rigid structure from motion (NRSfM) methods and
   their fundamental robust low-rank factorization algorithms.
-  <img src='/images/nrsfm.png' width="300">
- 
+   
 **Human-Centric Networked Robotics Technology** 
+  <img src='/images/human_centric.jpeg' width="300">
   * Funded by the National Research Foundation (NRF) (2013-2016).
   * This project develops new methods and prototype applications for human-centric
   networked robots for seamless operations of service robots in our daily lives.
-  <img src='/images/human_centric.jpeg' width="300">
- 
+   
 **Efficient Low-Rank Approximation for Big Data Analysis** 
   * Funded by the Seoul National University (SNU) (2013-2014).
   * This project develops an efficient low-rank factorization algorithm for large-scale

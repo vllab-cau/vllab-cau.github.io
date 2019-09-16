@@ -6,7 +6,10 @@ author_profile: true
 ---
 Research Interests
 =====
-TBD
+* Machine learning 
+* Deep learning
+* Computer Vision
+* Robotics
 
 Projects
 =====

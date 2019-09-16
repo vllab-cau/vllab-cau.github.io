@@ -21,7 +21,7 @@ Projects
   
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otf.jpeg' width="150" height="100" align="left" style="margin-right: 100px"> 
+<img src='/images/otf.jpeg' width="150" height="100" align="left" style="margin-right:100px"> 
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.

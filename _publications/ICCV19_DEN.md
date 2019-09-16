@@ -3,7 +3,6 @@ title: "Deep Elastic Networks with Model Selection for Multi-Task Learning"
 collection: publications
 permalink: /publication/ICCV19_DEN
 excerpt: 'Authors: Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh (\* indicates equal contribution.)'
-<img src='/images/cvpr15.jpg' width="600" align="left">
 date: 2019-10-01
 venue: 'IEEE International Conferenceon Computer Vision (ICCV)'
 ---

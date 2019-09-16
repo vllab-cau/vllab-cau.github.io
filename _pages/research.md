@@ -8,7 +8,7 @@ Research Interests
 =====
 TBD
 
-Research Projects
+Projects
 =====
 **StreetWise**
   * Funded by the UK Research and Innovation (UKRI) (2018-2019).

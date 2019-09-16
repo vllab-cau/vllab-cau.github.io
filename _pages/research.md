@@ -7,7 +7,7 @@ author_profile: true
 
 Research Projects
 =====
-* StreetWise 
+* #StreetWise 
   * Funded by the UK Research and Innovation (UKRI) (2018-2019).
   * The overall project aims to develop the technology and service needed to operate
   autonomous cars on normal public roads in an urban environment, aimed primarily
@@ -37,3 +37,7 @@ Research Projects
   * Funded by the Seoul National University (SNU) (2013-2014).
   * This project develops an efficient low-rank factorization algorithm for large-scale
   data analysis.
+  
+Collaborators
+=====
+

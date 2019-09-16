@@ -6,12 +6,12 @@ author_profile: true
 ---
 Projects
 =====
-<img src='/images/den4.png' width="230" align="left" style="margin-right:50px"> 
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection**
    * Funded by *Chung-Ang University (CAU)* (2019-2021).
    * This project develops novel deep learning model selection algorithms 
    for instance-wise multi-task learning while reducing memory resources 
    and human expert efforts.<br/><br/>
+   <img src='/images/den4.png' width="230" align="left" style="margin-right:50px"> 
 
 **StreetWise**
 <img src='/images/streetwise3.png' width="230" align="left" style="margin-right:50px"> 

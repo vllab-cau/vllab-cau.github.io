@@ -14,6 +14,7 @@ Research Interests
 Projects
 =====
 **Efficient Multi-Task Learning with Dynamic Model Selection**
+<img src='/images/den2.png' width="200" height="160" align="left" style="margin-right:50px"> 
    * Funded by *Chung-Ang University (CAU)* (2019-2021).
    * This project develops novel deep learning model selection algorithms 
    for instance-wise multi-task learning while reducing memory requirements 

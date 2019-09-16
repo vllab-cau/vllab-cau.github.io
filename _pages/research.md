@@ -51,5 +51,6 @@ Prof. Hyungjin Chang (Univ. of Birmingham),
 Prof. Kwang In Kim (UNIST),
 Namhoon Lee (DPhil candidate, Univ. of Oxford),
 Chanho Ahn (PhD candidate, Seoul National Univ.),
+Hwiyeon Yoo (PhD candidate, Seoul National Univ.),
 Nuri Kim (PhD candidate, Seoul National Univ.)
 

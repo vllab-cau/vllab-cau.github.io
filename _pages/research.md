@@ -49,7 +49,7 @@ Projects
    
    
 **Efficient Low-Rank Approximation for Big Data Analysis** 
-<img src='/images/tnnls.jpg' width="200" height="120" align="left" style="margin-right:50px">
+<img src='/images/tnnls.jpg' width="200" height="100" align="left" style="margin-right:50px">
    * Funded by the Seoul National University (SNU) (2013-2014).
    * This project develops an efficient low-rank factorization algorithm for large-scale
    data analysis.

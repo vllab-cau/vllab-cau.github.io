@@ -19,8 +19,8 @@ Projects
   autonomous cars on normal public roads in an urban environment, aimed primarily
   at individuals that currently drive their commute to and from work.
   
-<img src='/images/otf.jpeg' width="300" align="left">
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
+<img src='/images/otf.jpeg' width="100" align="left">
   * Funded by the National Research Foundation (NRF) (2017-2018).
   * This project develops on-the-fly machine learning algorithms using deep learning
   frameworks to realize personalized and environment adaptive learning.

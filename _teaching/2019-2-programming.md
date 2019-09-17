@@ -1,5 +1,5 @@
 ---
-title: "Programming"
+title: "Programming (Fall 2019)"
 collection: teaching
 type: "47710-03 Undergraduate course"
 permalink: /teaching/2019-2-programming

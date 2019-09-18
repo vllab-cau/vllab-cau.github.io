@@ -15,9 +15,9 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
 Education
 ======
-* B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
-* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013
 * Ph.D. in the Electrical Engineering and Computer Science, Seoul National University, 2017
+* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013
+* B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
 
 
 Research experience

@@ -7,10 +7,10 @@ author_profile: false
 
 Vision and Learning Laboratory (VLLAB) @ CAU
 =====
-Location
+Location  
 TBA
 
-Members
+Members  
 TBA
 
 

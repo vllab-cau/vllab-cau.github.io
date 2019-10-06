@@ -21,9 +21,9 @@ Major Interests
 
 Contact Information
 =====
-- Address:
-- Phone:
-- Email:
+- Address
+- Phone
+- Email
 
 Members  
 =====

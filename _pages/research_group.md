@@ -7,10 +7,14 @@ author_profile: false
 
 Vision and Learning Laboratory (VLLAB) @ CAU
 =====
-Location  
+We are looking to hire talented and highly motivated MS, PhD, Postdoc researchers.   
+Please send an email to Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
+
+Location
+=====
 TBA
 
 Members  
+=====
 TBA
-
 

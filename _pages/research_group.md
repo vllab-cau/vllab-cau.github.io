@@ -13,9 +13,11 @@ The major interests in VLLAB include Machine Learning, Deep Learning, Computer V
 We are looking to hire talented and highly motivated MS, PhD, Postdoc researchers.   
 Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
 
-Location
+Contact Information
 =====
-Room 501 (tentative), Bldg 208, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.
+Address: Room 501 (tentative), Bldg 208, Chung-Ang University, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.
+Phone: TBA
+Email: TBA
 
 Members  
 =====

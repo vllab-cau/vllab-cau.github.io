@@ -15,7 +15,7 @@ Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in join
 
 Location
 =====
-Room 501, Bldg 208, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.
+Room 501 (tentative), Bldg 208, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.
 
 Members  
 =====

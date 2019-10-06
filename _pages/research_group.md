@@ -11,7 +11,7 @@ The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.
 The major interests in VLLAB include Machine Learning, Deep Learning, Computer Vision, and Robot Learning.
 
 We are looking to hire talented and highly motivated MS, PhD, Postdoc researchers.   
-Please send an email to Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
+Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
 
 Location
 =====

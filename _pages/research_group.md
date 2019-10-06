@@ -15,8 +15,8 @@ Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in join
 
 Contact Information
 =====
-Address: Room 501 (tentative), Bldg 208, Chung-Ang University, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.
-Phone: TBA
+Address: Room 501 (tentative), Bldg 208, Chung-Ang University, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea.  
+Phone: TBA  
 Email: TBA
 
 Members  

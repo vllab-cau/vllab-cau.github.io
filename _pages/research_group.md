@@ -21,13 +21,9 @@ Major Interests
 
 Contact Information
 =====
-- Address
-- Phone
-- Email
+
 
 Members  
 =====
-- Graduate Students
-- Undergraduate Students
-- Collaborators
+
 

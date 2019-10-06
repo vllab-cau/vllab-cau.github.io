@@ -11,7 +11,7 @@ redirect_from:
 
 Contact
 =====
-Office: Building 208, Room 508  
+Office: Building 208, Room 508, Chung-Ang University, Seoul, South Korea  
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
 Education

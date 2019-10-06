@@ -14,6 +14,10 @@ Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in join
 
 Major Interests
 =====
+- Machine Learning: Subspace Representation, Subspace Clustering, Sparse modeling
+- Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning
+- Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
+- Robot Learning: Autonomous Navigation, Visual Navigation and Control
 
 Contact Information
 =====

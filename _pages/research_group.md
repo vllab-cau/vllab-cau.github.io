@@ -21,6 +21,10 @@ Major Interests
 
 Contact Information
 =====
+Vision and Learning Laboratory (208-508)
+Department of Computer Science and Engineering 
+Chung-Ang University
+84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea
 
 
 Members  

@@ -9,8 +9,8 @@ Vision and Learning Laboratory (VLLAB) @ CAU
 =====
 The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.  
 
-[We are looking to hire talented and highly motivated MS, PhD, Postdoc researchers.   
-Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.]
+We are looking to hire talented and highly motivated MS, PhD, Postdoc researchers.   
+Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
 
 Major Interests
 =====
@@ -26,7 +26,7 @@ Department of Computer Science and Engineering
 Chung-Ang University  
 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea
 
-
+ 
 Members  
 =====
 

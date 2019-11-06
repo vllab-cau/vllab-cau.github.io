@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CVPR18_NestedNet
 excerpt: 'Authors: **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh'
 date: 2018-06-01
-venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
+venue: 'IEEE Conference on Computer Vision and Patter Recognition (**CVPR**)'
 ---
 <img src='/images/nestednet.png' width="500">
 

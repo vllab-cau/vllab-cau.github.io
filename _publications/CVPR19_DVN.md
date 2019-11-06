@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CVPR19_DVN
 excerpt: 'Authors: **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, Songhwai Oh'
 date: 2019-06-01
-venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
+venue: 'IEEE Conference on Computer Vision and Patter Recognition (**CVPR**)'
 ---
 <img src='/images/cvpr19_deep_virtualnet.png'>
 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Contact
+Contact information
 =====
 Office: Building 208, Room 508   
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk

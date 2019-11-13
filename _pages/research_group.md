@@ -27,7 +27,5 @@ Major Interests
 - Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
 - Robot Learning: Autonomous Navigation, Visual Navigation and Control
 
-Members  
-=====
 
 

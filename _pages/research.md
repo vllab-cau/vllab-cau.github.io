@@ -19,7 +19,7 @@ author_profile: false
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.<br/><br/>
+   at individuals that currently drive their commute to and from work.<br/><br/><br/>
   
   
 **On-the-fly Machine Learning for Evolving Intelligent CPS**

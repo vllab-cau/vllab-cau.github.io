@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/CVPR15_FactEN
 excerpt: 'Authors: **Eunwoo Kim**, Minsik Lee, and Songhwai Oh'
 date: 2015-06-01
-venue: IEEE Conference on Computer Vision and Patter Recognition (**CVPR**)
+venue: IEEE Conference on Computer Vision and Patter Recognition (CVPR)
+
 ---
 <img src='/images/cvpr15.jpg' width="600">
 

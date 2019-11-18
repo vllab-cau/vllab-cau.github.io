@@ -27,7 +27,7 @@ author_profile: false
    Funded by the *National Research Foundation (NRF)* (2017-2018).  
    
    This project develops on-the-fly machine learning algorithms using deep learning
-   frameworks to realize personalized and environment adaptive learning.<br/><br/> 
+   frameworks to realize personalized and environment adaptive learning.<br/> 
   
   
 **Human-Level Lifelong Machine Learning** 

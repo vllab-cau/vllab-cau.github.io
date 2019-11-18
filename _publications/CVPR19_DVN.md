@@ -2,7 +2,7 @@
 title: "Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks"
 collection: publications
 permalink: /publication/CVPR19_DVN
-excerpt: Published in IEEE Conference on Computer Vision and Patter Recognition (CVPR)  'Authors: **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, Songhwai Oh'
+excerpt: 'Authors: **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, Songhwai Oh'
 date: 2019-06-01
 venue: 'IEEE Conference on Computer Vision and Patter Recognition (CVPR)'
 ---

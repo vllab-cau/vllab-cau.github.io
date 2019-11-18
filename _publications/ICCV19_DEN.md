@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ICCV19_DEN
 excerpt: 'Authors: Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh (\* indicates equal contribution.)'
 date: 2019-10-01
-venue: IEEE International Conferenceon Computer Vision (**ICCV**)
+venue: IEEE International Conferenceon Computer Vision (ICCV)
 
 ---
 <img src='/images/DEN.png' width="500">

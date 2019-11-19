@@ -76,6 +76,7 @@ Academic Talks
 * NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks
   * NAVER Corporation, Seongnam, Korea, Aug 2018
   * Samsung Advanced Institute of Technology, Suwon, Korea, July 2018
+  * CVPR Spotlight, June 2018
   * SK Telecom, Seoul, Korea, May 2018
 * Robust Subspace Learning and Clustering:  Sparse and Low-Rank Representations
   * Samsung Advanced Institute of Technology, Suwon, Korea, Feb 2017

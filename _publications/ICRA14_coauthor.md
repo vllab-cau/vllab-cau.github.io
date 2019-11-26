@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ICRA14_coauthor
 excerpt: 'Authors: Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh'
 date: 2014-05-01
-venue: 'IEEE International Conference on Robotics and Applications (ICRA)'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 ---
 <img src='/images/icra14.gif' width="500">
 

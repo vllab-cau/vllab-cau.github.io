@@ -72,8 +72,9 @@ Professional Activities
   
 Academic Talks
 ======
-* Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks
+* Resource-Efficient Multi-Task Deep Learning
   * Samsung Electronics, Suwon, Korea, July 2019
+  * KCVS, KAIST, Daejeon, Dec 2019.
 * NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks
   * NAVER Corporation, Seongnam, Korea, Aug 2018
   * Samsung Advanced Institute of Technology, Suwon, Korea, July 2018

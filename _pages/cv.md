@@ -73,7 +73,7 @@ Professional Activities
 Academic Talks
 ======
 * Resource-Efficient Multi-Task Deep Learning
-  * KCVS, KAIST, Daejeon, Dec 2019
+  * Korean Computer Vision Society, KAIST, Daejeon, Dec 2019
   * Samsung Electronics, Suwon, Korea, July 2019  
 * NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks
   * NAVER Corporation, Seongnam, Korea, Aug 2018

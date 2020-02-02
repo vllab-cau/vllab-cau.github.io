@@ -31,5 +31,12 @@ Major Interests
 Members
 =====
 - Graduate Students
+  Soyeon Park  
+  Hyundong Jin  
+  Wonhee Cho    
+  
 - Undergraduate Students
-
+  Gyeonghyeon Kim
+  Yunseong Kim
+  Jiho Lee
+  Yoonhee Kim

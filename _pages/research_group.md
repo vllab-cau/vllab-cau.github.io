@@ -40,3 +40,5 @@ Members
   Yunseong Kim  
   Jiho Lee  
   Yoonhee Kim  
+
+- Alumni  

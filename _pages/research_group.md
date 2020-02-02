@@ -28,4 +28,8 @@ Major Interests
 - Robot Learning: Autonomous Navigation, Visual Navigation and Control
 
 
+Members
+=====
+- Graduate Students
+- Undergraduate Students
 

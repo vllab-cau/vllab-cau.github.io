@@ -31,12 +31,12 @@ Major Interests
 Members
 =====
 - Graduate Students  
-  Soyeon Park (iamsso0530@gmail.com)  
-  Hyundong Jin (jude0316@cau.ac.kr)     
-  Wonhee Cho (wonhee4274@cau.ac.kr)       
+  Soyeon Park   
+  Hyundong Jin      
+  Wonhee Cho        
   
 - Undergraduate Interns  
-  Gyeonghyeon Kim (leonardkkh@gmail.com)  
-  Yunseong Kim (kimhighstar@gmail.com)  
-  Jiho Lee (leejiho5047@gmail.com)  
-  Yoonhee Kim (yoooni.kim2@gmail.com)  
+  Gyeonghyeon Kim   
+  Yunseong Kim   
+  Jiho Lee   
+  Yoonhee Kim   

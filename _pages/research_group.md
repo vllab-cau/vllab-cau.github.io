@@ -36,7 +36,7 @@ Members
   Wonhee Cho (wonhee4274@cau.ac.kr)       
   
 - Undergraduate Interns  
-  Gyeonghyeon Kim  
-  Yunseong Kim  
-  Jiho Lee  
-  Yoonhee Kim  
+  Gyeonghyeon Kim (leonardkkh@gmail.com)  
+  Yunseong Kim (kimhighstar@gmail.com)  
+  Jiho Lee (leejiho5047@gmail.com)  
+  Yoonhee Kim (yoooni.kim2@gmail.com)  

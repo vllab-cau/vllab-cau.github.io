@@ -31,11 +31,11 @@ Major Interests
 Members
 =====
 - Graduate Students  
-  Soyeon Park (MS Student)  
-  Hyundong Jin (MS Student)   
-  Wonhee Cho (MS Student)    
+  Soyeon Park (Master Student)  
+  Hyundong Jin (Master Student)   
+  Wonhee Cho (Master Student)    
   
-- Undergraduate Students  
+- Undergraduate Interns  
   Gyeonghyeon Kim  
   Yunseong Kim  
   Jiho Lee  

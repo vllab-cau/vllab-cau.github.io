@@ -20,12 +20,7 @@ Chung-Ang University
 
 ## Members
 - Graduate Students  
-  Soyeon Park   
-  Hyundong Jin      
-  Wonhee Cho        
+  Soyeon Park, Hyundong Jin, Wonhee Cho        
   
 - Undergraduate Interns  
-  Gyeonghyeon Kim   
-  Yunseong Kim   
-  Jiho Lee   
-  Yoonhee Kim   
+  Gyeonghyeon Kim, Yunseong Kim, Jiho Lee, Yoonhee Kim   

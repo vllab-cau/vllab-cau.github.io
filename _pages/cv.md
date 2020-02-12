@@ -8,25 +8,22 @@ redirect_from:
 ---
 {% include base_path %}
 
-CV
-=====
-
-## Contact information
+# Contact information
 Office: Building 208, Room 508   
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
-## Education
+# Education
 * Ph.D. in the Electrical Engineering and Computer Science, Seoul National University, 2017
 * M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013
 * B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
 
-## Major Interests
+# Major Interests
 - Machine Learning: Subspace Representation, Subspace Clustering, Sparse modeling
 - Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning
 - Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
 - Robot Learning: Autonomous Navigation, Visual Navigation and Control
 
-## Research experience
+# Research experience
 * Postdoctoral Researcher (Aug 2018 - Aug 2019)
   * Department of Engineering Science, University of Oxford
   * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)
@@ -40,7 +37,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
   * Advisor: Professor Songhwai Oh, Chong-Ho Choi
   
  
-## Awards and Honors
+# Awards and Honors
 * NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019
 * Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017
 * Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017
@@ -50,7 +47,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 * Full Funded Scholarship, Samsung, 2011-2015
 
 
-## Professional Activities
+# Professional Activities
 **Technical Reviewer**
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2020
 * IEEE International Conference on Computer Vision (ICCV) 2017-2019
@@ -72,7 +69,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 * ICCV Workshop on Robust Subspace Learning and Computer Vision 2017-2019
   
   
-## Academic Talks
+# Academic Talks
 * Resource-Efficient Multi-Task Deep Learning
   * ECE Special Seminar, UNIST, Ulsan, Korea, Jan 2020
   * Korean Computer Vision Society, KAIST, Daejeon, Korea, Dec 2019

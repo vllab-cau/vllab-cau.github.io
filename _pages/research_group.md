@@ -9,8 +9,8 @@ Vision and Learning Laboratory (VLLAB) @ CAU
 ==
 The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.  
 
-*<font color="black">We are looking to hire talented and self-motivated MS, PhD, Postdoc researchers.</font>*      
-*<font color="black">Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.</font>*
+*<font color="blue">We are looking to hire talented and self-motivated MS, PhD, Postdoc researchers.</font>*      
+*<font color="blue">Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.</font>*
 
 ## Contact Information
 Vision and Learning Laboratory (Building 208 Room 501)  

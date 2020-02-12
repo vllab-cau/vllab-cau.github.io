@@ -19,13 +19,6 @@ Chung-Ang University
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea
 
 
-## Major Interests
-- Machine Learning: Subspace Representation, Subspace Clustering, Sparse modeling
-- Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning
-- Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
-- Robot Learning: Autonomous Navigation, Visual Navigation and Control
-
-
 ## Members
 - Graduate Students  
   Soyeon Park   

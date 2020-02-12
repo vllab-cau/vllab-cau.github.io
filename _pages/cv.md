@@ -6,9 +6,7 @@ author_profile: false
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
 ## Contact information
 Office: Building 208, Room 508   
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk

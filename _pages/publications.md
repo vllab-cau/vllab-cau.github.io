@@ -2,6 +2,7 @@
 layout: archive
 title: "International Publications"
 permalink: /publications/
+fontsize: 10
 author_profile: false
 ---
 

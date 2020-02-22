@@ -23,4 +23,7 @@ Chung-Ang University
   Soyeon Park, Hyundong Jin, Wonhee Cho        
   
 - Undergraduate Interns  
-  Gyeonghyeon Kim, Yunseong Kim, Jiho Lee, Yoonhee Kim   
+  Yunseong Kim, Jiho Lee, Yoonhee Kim   
+  
+- Former members   
+  Gyeonghyeon Kim (2020)

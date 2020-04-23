@@ -28,4 +28,4 @@ Chung-Ang University
   Gyeonghyeon Kim, Jiho Lee, Yoonhee Kim   
   
 - Former members   
-  Yunseong Kim (Intern, 2020)
+  Yunseong Kim

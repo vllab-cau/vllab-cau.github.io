@@ -78,8 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vision and Learning Laboratory"
-  avatar           : "profile.png"
+  name             : "Vision and Learning Laboratory"  
   bio              : "Chung-Ang University"
   location         : "Seoul, Korea"
   employer         : 

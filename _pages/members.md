@@ -8,15 +8,15 @@ author_profile: true
 ## Graduate Students
 Soyeon Park      
 Research Area:     
-Email:     
+Email: lolmn55 (at) cau.ac.kr    
 
 Hyundong Jin    
 Research Area:   
-Email:     
+Email: jude0316 (at) cau.ac.kr    
 
 Wonhee Cho         
 Research Area:   
-Email:     
+Email: wonhee4274 (at) cau.ac.kr     
 
   
 ## Undergraduate Students  

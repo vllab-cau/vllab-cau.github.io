@@ -10,9 +10,6 @@ redirect_from:
 
 The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.  
 
-*We are looking to hire talented and self-motivated BS, MS, PhD researchers.*      
-*Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.*     
-
 The aim of Vision and Learning Laboratory is to push the boundary of machine learning research by exploiting and developing efficient, versatile, and optimal machine learning models.
 We engage in research to develop a model that understands and learns any intellectual task that human beings can do.
 

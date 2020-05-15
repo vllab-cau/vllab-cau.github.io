@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vision and Learning Laboratory"
+title: "Vision and Learning Laboratory (VLLAB) @ CAU"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Vision and Learning Laboratory (VLLAB) @ CAU
-======
 The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.  
 
 *<font color="blue">We are looking to hire talented and self-motivated BS, MS, PhD researchers.</font>*      

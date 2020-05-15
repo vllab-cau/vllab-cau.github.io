@@ -6,9 +6,18 @@ author_profile: true
 ---
 
 ## Graduate Students
-- Soyeon Park   
-- Hyundong Jin   
-- Wonhee Cho         
+Soyeon Park 
+Research Area:     
+Email:     
+
+Hyundong Jin    
+Research Area:   
+Email:     
+
+Wonhee Cho         
+Research Area:   
+Email:     
+
   
 ## Undergraduate Students  
 - Gyeonghyeon Kim

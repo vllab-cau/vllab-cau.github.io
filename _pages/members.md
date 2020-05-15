@@ -5,9 +5,9 @@ permalink: /members/
 author_profile: true
 ---
 *We are looking to hire talented and self-motivated BS, MS, PhD researchers.*      
-*Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.*    
--------
+*Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.*
 
+-------
 ## Graduate Students
 **Soyeon Park**      
 Research Area: Deep Learning, Multi-Task Learning, Model Compression     

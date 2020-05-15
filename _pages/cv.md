@@ -68,16 +68,8 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 * Applied Soft Computing 
 
   
-# Academic Talks
-* Resource-Efficient Multi-Task Deep Learning
-  * ECE Special Seminar, UNIST, Ulsan, Korea, Jan 2020
-  * Korean Computer Vision Society, KAIST, Daejeon, Korea, Dec 2019
-  * Samsung Electronics, Suwon, Korea, July 2019  
-* NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks
-  * NAVER Corporation, Seongnam, Korea, Aug 2018
-  * Samsung Advanced Institute of Technology, Suwon, Korea, July 2018
-  * CVPR Spotlight, June 2018
-  * SK Telecom, Seoul, Korea, May 2018
-* Robust Subspace Learning and Clustering:  Sparse and Low-Rank Representations
-  * Samsung Advanced Institute of Technology, Suwon, Korea, Feb 2017
-  * Watcha, Seoul, Korea, Oct 2016
+# Teaching
+* Algorithms Spring 2020
+* CAU Seminar Spring 2020  
+* Discrete Mathematics Fall 2019
+* Programming Fall 2019

@@ -69,7 +69,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
   
 # Teaching
-* Algorithms Spring 2020
-* CAU Seminar Spring 2020  
-* Discrete Mathematics Fall 2019
-* Programming Fall 2019
+* (Spring 2020) Algorithms
+* (Spring 2020) CAU Seminar
+* (Fall 2019) Discrete Mathematics
+* (Fall 2019) Programming

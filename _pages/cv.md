@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Eunwoo Kim, Ph.D.
-<img src='/images/IMG_0126-수정2s.jpg' width="150" align="left" style="margin-right:50px">      
+<img src='/images/IMG_0126-수정2s.jpg' width="170" align="left" style="margin-right:50px">      
 
 Assistant Professor      
 School of Computer Science and Engineering    

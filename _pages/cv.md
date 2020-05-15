@@ -18,6 +18,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 -------
 Eunwoo Kim is an assistant professor in the School of Computer Science and Engineering at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford and a member of Torr Vision Group. He received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University in 2013 and 2017, respectively.
 
+-------
 
 ## Education
 * Ph.D. in the Electrical Engineering and Computer Science, Seoul National University, 2017

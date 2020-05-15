@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Graduate Students
-Soyeon Park 
+Soyeon Park      
 Research Area:     
 Email:     
 

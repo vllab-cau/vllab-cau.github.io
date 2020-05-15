@@ -7,17 +7,14 @@ author_profile: true
 
 ## Graduate Students
 **Soyeon Park**      
-Master Student      
 Research Area: Deep Learning, Multi-Task Learning, Model Compression     
 Email: lolmn55 (at) cau.ac.kr    
 
 **Hyundong Jin**    
-Master Student      
 Research Area: Deep Learning, Multi-Task Learning, Lifelong Learning   
 Email: jude0316 (at) cau.ac.kr    
 
 **Wonhee Cho**      
-Master Student      
 Research Area: Deep Learning, Meta Learning, Few-Shot Learning      
 Email: wonhee4274 (at) cau.ac.kr     
 

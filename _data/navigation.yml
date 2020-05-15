@@ -4,11 +4,10 @@ main:
     url: /professor/
   
   - title: "Members"
-    url: /members/  
-  
+    url: /members/     
+    
+  - title: "Research"
+    url: /research/         
+    
   - title: "Publications"
     url: /publications/
-
-  - title: "Research"
-    url: /research/                 
-     

@@ -20,12 +20,6 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
 -------
 
-## Education
-* Ph.D. in the Electrical Engineering and Computer Science, Seoul National University, 2017
-* M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013
-* B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
-
-
 ## Major Interests
 - Machine Learning: Subspace Representation, Subspace Clustering, Sparse modeling
 - Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning

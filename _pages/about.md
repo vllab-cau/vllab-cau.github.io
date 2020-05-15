@@ -10,9 +10,8 @@ redirect_from:
 
 The laboratory was formed in Sep. 2019, and is led by Prof. Eunwoo Kim.  
 
-*<font color="blue">We are looking to hire talented and self-motivated BS, MS, PhD researchers.</font>*      
-*<font color="blue">Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.</font>*     
-<font color="green">(*BS: Open for 3rd and 4th year students)</font>
+*<font color="black">We are looking to hire talented and self-motivated BS, MS, PhD researchers.</font>*      
+*<font color="black">Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.</font>*     
 
 ## Contact Information
 Vision and Learning Laboratory (Building 208 Room 501)  

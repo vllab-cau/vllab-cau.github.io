@@ -20,9 +20,17 @@ Email: wonhee4274 (at) cau.ac.kr
 
   
 ## Undergraduate Students  
-- Gyeonghyeon Kim
-- Jiho Lee
-- Yoonhee Kim   
+**Gyeonghyeon Kim**      
+Research Area: Deep Learning       
+Email: leonardkkh (at) gmail.com     
+
+**Jiho Lee**        
+Research Area: Deep Learning     
+Email: leejiho5047 (at) gmail.com      
+
+**Yoonhee Kim**       
+Research Area: Deep Learning     
+Email: yoooni.kim2 (at) gmail.com      
   
 ## Former Members   
 - Yunseong Kim

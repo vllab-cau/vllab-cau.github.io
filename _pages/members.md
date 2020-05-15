@@ -15,5 +15,5 @@ author_profile: true
 - Jiho Lee
 - Yoonhee Kim   
   
-## Former members   
+## Former Members   
 - Yunseong Kim

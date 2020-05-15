@@ -33,7 +33,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 - Robot Learning: Autonomous Navigation, Visual Navigation and Control
 
 
-## Research experience
+## Research Experience
 * Postdoctoral Researcher (Aug 2018 - Aug 2019)
   * Department of Engineering Science, University of Oxford
   * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)

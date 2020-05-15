@@ -1,16 +1,19 @@
 ---
 layout: archive
-title: ""
+title: "Members"
 permalink: /members/
 author_profile: true
 ---
 
-## Members
-- Graduate Students  
-  Soyeon Park, Hyundong Jin, Wonhee Cho        
+## Graduate Students
+- Soyeon Park   
+- Hyundong Jin   
+- Wonhee Cho         
   
-- Undergraduate Interns  
-  Gyeonghyeon Kim, Jiho Lee, Yoonhee Kim   
+## Undergraduate Students  
+- Gyeonghyeon Kim
+- Jiho Lee
+- Yoonhee Kim   
   
-- Former members   
-  Yunseong Kim
+## Former members   
+- Yunseong Kim

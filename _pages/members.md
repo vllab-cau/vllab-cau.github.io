@@ -7,15 +7,15 @@ author_profile: true
 
 ## Graduate Students
 Soyeon Park      
-Research Area:     
+Research Area: Deep Learning, Multi-Task Learning, Model Compression     
 Email: lolmn55 (at) cau.ac.kr    
 
 Hyundong Jin    
-Research Area:   
+Research Area: Deep Learning, Multi-Task Learning, Lifelong Learning   
 Email: jude0316 (at) cau.ac.kr    
 
 Wonhee Cho         
-Research Area:   
+Research Area: Deep Learning, Meta Learning, Few-Shot Learning      
 Email: wonhee4274 (at) cau.ac.kr     
 
   

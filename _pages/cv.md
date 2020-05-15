@@ -10,13 +10,11 @@ redirect_from:
 # Contact information
 Office: Building 208, Room 508   
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
--------
 
 # Education
 * Ph.D. in the Electrical Engineering and Computer Science, Seoul National University, 2017
 * M.S. in the Electrical Engineering and Computer Science, Seoul National University, 2013
 * B.S. in the Electrical and Electronics Engineering, Chung-Ang University, 2011
--------
 
 # Major Interests
 - Machine Learning: Subspace Representation, Subspace Clustering, Sparse modeling

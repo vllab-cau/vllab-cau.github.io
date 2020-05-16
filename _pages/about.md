@@ -12,7 +12,7 @@ I am an assistant professor in the School of Computer Science and Engineering at
 
 My research interests include machine learning, deep learning, neural architecture search, multi-task learning, subspace representation, lifelong learning, and their applications.
 
-Our research group page: [Vision and Learning Lab](https://vllab-cau.github.io/)
+Our research group page: [Vision and Learning Laboratory](https://vllab-cau.github.io/)
 
 Recent News
 ======

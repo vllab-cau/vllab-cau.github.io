@@ -17,7 +17,7 @@ Research Area: Deep Learning, Lifelong Learning
 Email: jude0316 (at) cau.ac.kr    
 
 **Wonhee Cho**      
-Research Area: Deep Learning, Meta Learning
+Research Area: Deep Learning, Meta Learning        
 Email: wonhee4274 (at) cau.ac.kr     
 
   
@@ -27,11 +27,11 @@ Research Area: Deep Learning
 Email: leonardkkh (at) gmail.com     
 
 **Jiho Lee**        
-Research Area: Deep Learning     
+Research Area: Deep Learning, Multi-Task Learning            
 Email: leejiho5047 (at) gmail.com      
 
 **Yoonhee Kim**       
-Research Area: Deep Learning     
+Research Area: Deep Learning, Lifelong Learning           
 Email: yoooni.kim2 (at) gmail.com      
   
 ## Former Members   

@@ -9,15 +9,15 @@ author_profile: true
 
 ## Graduate Students
 **Soyeon Park**      
-Research Area: Machine Learning, Deep Learning, Computer Vision       
+Research Area: Deep Learning, Multi-Task Learning       
 Email: lolmn55 (at) cau.ac.kr    
 
 **Hyundong Jin**    
-Research Area: Machine Learning, Deep Learning, Computer Vision       
+Research Area: Deep Learning, Lifelong Learning       
 Email: jude0316 (at) cau.ac.kr    
 
 **Wonhee Cho**      
-Research Area: Machine Learning, Deep Learning, Computer Vision       
+Research Area: Deep Learning, Meta Learning
 Email: wonhee4274 (at) cau.ac.kr     
 
   

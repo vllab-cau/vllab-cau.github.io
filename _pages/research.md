@@ -2,7 +2,7 @@
 layout: archive
 title: "Research Projects"
 permalink: /research/
-author_profile: false
+author_profile: true
 ---
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
 <img src='/images/den4.png' width="230" align="left" style="margin-right:50px">      

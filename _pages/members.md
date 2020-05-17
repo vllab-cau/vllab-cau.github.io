@@ -4,10 +4,6 @@ title: "Members"
 permalink: /members/
 author_profile: true
 ---
-*We are looking to hire talented and self-motivated BS, MS, PhD researchers.*      
-*Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.*
-
-------
 ## Graduate Students
 <img src='/images/profile.png' width="120" align="left" style="margin-right:50px">      
 **Soyeon Park**      

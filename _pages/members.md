@@ -14,10 +14,12 @@ author_profile: true
 Research Area: Deep Learning, Multi-Task Learning       
 Email: lolmn55 (at) cau.ac.kr    
 
+
 **Hyundong Jin**    
 <img src='/images/profile.png' width="130" align="left" style="margin-right:50px">    
 Research Area: Deep Learning, Lifelong Learning       
 Email: jude0316 (at) cau.ac.kr    
+
 
 **Wonhee Cho**      
 <img src='/images/profile.png' width="130" align="left" style="margin-right:50px">    
@@ -31,15 +33,18 @@ Email: wonhee4274 (at) cau.ac.kr
 Research Area: Deep Learning       
 Email: leonardkkh (at) gmail.com     
 
+
 **Jiho Lee**        
 <img src='/images/profile.png' width="130" align="left" style="margin-right:50px">    
 Research Area: Deep Learning, Multi-Task Learning            
 Email: leejiho5047 (at) gmail.com      
 
+
 **Yoonhee Kim**       
 <img src='/images/profile.png' width="130" align="left" style="margin-right:50px">    
 Research Area: Deep Learning, Lifelong Learning           
 Email: yoooni.kim2 (at) gmail.com      
+  
   
 ------  
 ## Former Members   

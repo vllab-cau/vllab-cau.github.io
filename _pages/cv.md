@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Eunwoo Kim, Ph.D.
+# [Eunwoo Kim](https://niceday15.github.io/), Ph.D.
 <img src='/images/IMG_0126-수정2s.jpg' width="160" align="left" style="margin-right:50px">      
 
 Assistant Professor      
@@ -16,8 +16,8 @@ Chung-Ang University
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea 
 
 Office: Building 208, Room 508   
+Phone: +82-2-820-5302
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk      
-Personal Page: [https://niceday15.github.io/](https://niceday15.github.io/)       
 
 -------
 Eunwoo Kim is an assistant professor in the School of Computer Science and Engineering at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford and Seoul National University. He received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University in 2013 and 2017, respectively.

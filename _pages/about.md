@@ -15,11 +15,3 @@ We engage in research to explore methods that understand and learn any intellect
 
 Our research interests include machine learning, deep learning, automated machine learning, multi-task learning, subspace learning, lifelong learning, and their applications to computer vision and robotics, but not limited to.
 
-
-## Contact Information
-Vision and Learning Laboratory (Building 208 Room 501)  
-School of Computer Science and Engineering   
-Chung-Ang University  
-84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea     
-Email: eunwoo (at) cau.ac.kr
-

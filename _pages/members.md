@@ -36,7 +36,7 @@ Research Area: Deep Learning, Multi-Task Learning
 Email: leejiho5047 (at) gmail.com      
 
 -----
-<img src='/images/profile.png' width="130" align="left" style="margin-right:50px">       
+<img src='/images/Yoonhee Kim.jpg' width="130" align="left" style="margin-right:50px">       
 **Yoonhee Kim**       
 Research Area: Deep Learning, Lifelong Learning           
 Email: yoooni.kim2 (at) gmail.com      

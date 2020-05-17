@@ -5,6 +5,7 @@ permalink: /contact/
 author_profile: True
 ---
 
+## VLLAB @ CAU
 <img src='/images/cau_map.png' width="700" align="left" style="margin-right:50px">      
 
 ## Contact Information

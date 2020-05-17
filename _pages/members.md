@@ -16,13 +16,13 @@ Email: lolmn55 (at) cau.ac.kr
 
 -----
 **Hyundong Jin**    
-<img src='/images/profile.png' width="120" align="left" style="margin-right:50px">      
+<img src='/images/profile.png' width="120" align="left" style="margin-right:50px" style="margin-bottom:30px">      
 Research Area: Deep Learning, Lifelong Learning       
 Email: jude0316 (at) cau.ac.kr    
 
 -----
 **Wonhee Cho**      
-<img src='/images/profile.png' width="120" align="left" style="margin-right:50px">       
+<img src='/images/profile.png' width="120" align="left" style="margin-right:50px" style="margin-bottom:30px">      
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr     
 

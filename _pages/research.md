@@ -6,7 +6,6 @@ author_profile: true
 ---
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
 <img src='/images/den4.png' width="230" align="left" style="margin-right:50px">      
-   Funded by Chung-Ang University.
    
    This project develops novel deep learning model selection algorithms 
    for instance-wise multi-task learning while reducing memory resources 
@@ -14,8 +13,7 @@ author_profile: true
    
 -----
 **StreetWise**
-<img src='/images/streetwise3.png' width="230" align="left" style="margin-right:50px">         
-   Funded by UK Research and Innovation (UKRI).
+<img src='/images/streetwise3.png' width="230" align="left" style="margin-right:50px">    
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily

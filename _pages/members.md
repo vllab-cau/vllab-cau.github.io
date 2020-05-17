@@ -9,6 +9,7 @@ author_profile: true
 
 ------
 ## Graduate Students
+<img src='/images/profile.png' width="200" align="left" style="margin-right:50px">    
 **Soyeon Park**      
 Research Area: Deep Learning, Multi-Task Learning       
 Email: lolmn55 (at) cau.ac.kr    

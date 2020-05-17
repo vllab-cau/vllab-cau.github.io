@@ -11,7 +11,7 @@ redirect_from:
 <img src='/images/IMG_0126-수정2s.jpg' width="160" align="left" style="margin-right:50px">      
 
 Assistant Professor      
-School of Computer Science and Engineering    
+[School of Computer Science and Engineering](https://cse.cau.ac.kr/main.php)       
 Chung-Ang University    
 84, Heukseok-ro, Dongjak-gu    
 Seoul 06974, Republic of Korea 

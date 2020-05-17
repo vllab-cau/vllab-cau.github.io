@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# [Eunwoo Kim](https://niceday15.github.io/), Ph.D.
+# Eunwoo Kim, Ph.D.
 <img src='/images/IMG_0126-수정2s.jpg' width="160" align="left" style="margin-right:50px">      
 
 Assistant Professor      

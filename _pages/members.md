@@ -24,7 +24,7 @@ Email: wonhee4274 (at) cau.ac.kr
 
 ------
 ## Undergraduate Students  
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">      
 **Gyeonghyeon Kim**      
 Research Area: Deep Learning       
 Email: leonardkkh (at) gmail.com     

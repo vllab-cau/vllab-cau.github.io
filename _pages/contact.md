@@ -8,6 +8,6 @@ author_profile: True
 School of Computer Science and Engineering   
 Chung-Ang University  
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea      
-Email: eunwoo (at) aicampus.cau.ac.kr
+Email: eunwoo (at) cau.ac.kr
 
 <img src='/images/cau_map.png' width="700" align="left" style="margin-right:50px">

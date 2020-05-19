@@ -30,7 +30,7 @@ Research Area: Deep Learning, Super-Resolution
 Email: leonardkkh (at) gmail.com     
 
 -----
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Jiho Lee.png' width="140" align="left" style="margin-right:40px">      
 **Jiho Lee**        
 Research Area: Deep Learning, Multi-Task Learning            
 Email: leejiho5047 (at) gmail.com      

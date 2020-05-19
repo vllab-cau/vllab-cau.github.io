@@ -9,7 +9,7 @@ redirect_from:
 
 # Eunwoo Kim, Ph.D.
 
-<img src='/images/Eunwoo Kim.jpg' width="220" align="left" style="margin-right:40px">      
+<img src='/images/Eunwoo Kim.jpg' width="140" align="left" style="margin-right:40px">      
 
 Assistant Professor      
 School of Computer Science and Engineering        

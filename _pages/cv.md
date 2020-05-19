@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 # Eunwoo Kim, Ph.D.
+
 <img src='/images/Eunwoo Kim.jpg' width="220" align="left" style="margin-right:50px">      
 
 Assistant Professor      

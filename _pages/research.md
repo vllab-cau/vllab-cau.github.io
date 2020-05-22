@@ -9,7 +9,7 @@ author_profile: true
    
    This project aims to develop versatile deep learning approaches 
    needed to perform multiple tasks on devices of low-capacity 
-   while avoding task interference and model redundancy.<br/><br/><br/>
+   while avoding task interference and model redundancy.<br/>
 
 ------
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 

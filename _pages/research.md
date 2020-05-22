@@ -8,7 +8,8 @@ author_profile: true
 <img src='/images/overall_framework3.png' width="220" align="left" style="margin-right:50px">    
    
    This project aims to develop lightweight and versatile deep learning approaches 
-   needed to perform multiple tasks on devices of low-capacity for a wide use.<br/><br/><br/>
+   needed to perform multiple tasks on devices of low-capacity 
+   while avoding task interference and model redundancy.<br/><br/><br/>
 
 ------
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 

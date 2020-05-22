@@ -8,7 +8,7 @@ author_profile: true
 <img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">    
    
    This project aims to develop versatile deep learning approaches 
-   needed to perform multiple tasks on devices of low-capacity 
+   employed to perform multiple tasks on devices of low-capacity 
    while avoding task interference and model redundancy.<br/><br/>
 
 ------

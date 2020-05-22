@@ -46,7 +46,7 @@ author_profile: true
 <img src='/images/nrsfm.png' width="230" align="left" style="margin-right:40px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.<br/><br/><br/>
+   their fundamental robust low-rank factorization algorithms.<br/><br/><br/><br/>
    
 -----   
 **Human-Centric Networked Robotics Technology** 

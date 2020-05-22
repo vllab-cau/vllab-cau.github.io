@@ -4,12 +4,12 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-<!--**Automated Deep Learning Technology for Multi-Task Learning**
+\\<!--**Automated Deep Learning Technology for Multi-Task Learning**
 <img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">    
-<!--    
+
    This project aims to develop versatile deep learning approaches 
    employed to perform multiple tasks on devices of limited capacity 
-   while avoding task interference and model redundancy.<br/><br/>
+   while avoding task interference and model redundancy.<br/><br/> -->
 
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
 <img src='/images/den4.png' width="240" align="left" style="margin-right:40px">      

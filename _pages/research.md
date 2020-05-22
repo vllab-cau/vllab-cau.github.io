@@ -43,7 +43,7 @@ author_profile: true
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
-<img src='/images/nrsfm.png' width="230" align="left" style="margin-right:40px">        
+<img src='/images/nrsfm.png' width="230" align="left" style="margin-right:45px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
    their fundamental robust low-rank factorization algorithms.<br/><br/><br/><br/>

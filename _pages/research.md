@@ -11,7 +11,6 @@ author_profile: true
    employed to perform multiple tasks on devices of limited capacity 
    while avoding task interference and model redundancy.<br/><br/>
 
-<!-- ------ 
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
 <img src='/images/den4.png' width="240" align="left" style="margin-right:40px">      
    

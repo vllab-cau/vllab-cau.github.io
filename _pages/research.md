@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 **Automated Deep Learning Technology for Multi-Task Learning**
-<img src='/images/overall_framework3.png' width="220" align="left" style="margin-right:50px">    
+<img src='/images/ADM.PNG' width="220" align="left" style="margin-right:50px">    
    
    This project aims to develop versatile deep learning approaches 
    needed to perform multiple tasks on devices of low-capacity 

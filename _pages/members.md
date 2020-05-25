@@ -44,4 +44,4 @@ Email: yoooni.kim2 (at) gmail.com
   
 ------  
 ## Former Members   
-- Yunseong Kim
+- Yunseong Kim (BS, 2020 Spring)

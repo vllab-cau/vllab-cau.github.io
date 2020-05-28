@@ -30,7 +30,7 @@ Eunwoo Kim is an assistant professor in the [School of Computer Science and Engi
 - Machine Learning: Subspace Learning, Subspace Clustering, Sparse/Low-Rank Modeling
 - Deep Learning: Model Compression, Neural Architecture Search, Multi-Task Learning, Lifelong Learning
 - Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
-- Robot Learning: Robot Vision, Autonomous Navigation, Visual Navigation and Control
+- Robot Learning: Robot Vision, Autonomous Navigation, Visual Navigation, Behavior Understanding
 
 
 ## Research Experience

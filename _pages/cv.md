@@ -60,8 +60,8 @@ Eunwoo Kim is an assistant professor in the [School of Computer Science and Engi
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2020
 * IEEE International Conference on Computer Vision (ICCV) 2017-2019
 * European Conference on Computer Vision (ECCV) 2020
-* International Conference on Machine Learning (ICML) 2019
 * Neural Information Processing Systems (NeurIPS) 2016-2020
+* International Conference on Machine Learning (ICML) 2019
 * British Machine Vision Conference (BMVC) 2019-2020
 * IEEE International Conference on Intelligent Robots and Systems (IROS) 2019
 * ICCV Workshop on Robust Subspace Learning and Computer Vision 2017-2019
@@ -70,8 +70,8 @@ Eunwoo Kim is an assistant professor in the [School of Computer Science and Engi
 **Reviewer**
 * IEEE Transactions on Image Processing 
 * IEEE Journal of Selected Topics in Signal Processing 
-* IEEE Access 
 * IEEE Transactions on Robotics 
+* IEEE Access 
 * Sensors 
 * Applied Sciences 
 * Applied Soft Computing 

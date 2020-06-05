@@ -71,7 +71,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
   
 # Academic Talks
 * Resource-Efficient Multi-Task Deep Learning
-  * Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea, June 2020
+  * ETRI, Daejeon, Korea, June 2020
   * ECE Special Seminar, UNIST, Ulsan, Korea, Jan 2020
   * Korean Computer Vision Society, KAIST, Daejeon, Korea, Dec 2019
   * Samsung Electronics, Suwon, Korea, July 2019  

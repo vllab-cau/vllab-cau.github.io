@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Projects
 
+-----
 **Automated Deep Learning Technology for Multi-Task Learning** 
 <img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">      
    

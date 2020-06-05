@@ -32,6 +32,7 @@ Eunwoo Kim is an assistant professor in the [School of Computer Science and Engi
 - Computer Vision: Object Classification, Detection, Segmentation, Reconstruction, Mobile Vision
 - Robot Learning: Robot Vision, Autonomous Navigation, Visual Navigation, Behavior Understanding
 
+## Research Projects: [List of Projects](https://vllab-cau.github.io/research/)
 
 ## Research Experience
 * Postdoctoral Researcher - University of Oxford (2018-2019)    

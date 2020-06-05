@@ -4,6 +4,8 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
+## Projects
+
 **Automated Deep Learning Technology for Multi-Task Learning** 
 <img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">      
    
@@ -18,6 +20,8 @@ author_profile: true
    This project develops novel deep learning model selection algorithms 
    for instance-wise multi-task learning while reducing memory resources 
    and human expert efforts.<br/><br/>
+   
+## Past Projects
    
 -----
 **StreetWise**

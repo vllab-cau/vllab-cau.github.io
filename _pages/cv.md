@@ -22,7 +22,7 @@ Phone: +82-2-820-5302
 Email: eunwoo (at) cau.ac.kr / eunwoo (at) aicampus.cau.ac.kr      
 
 -------
-Eunwoo Kim is an assistant professor in the [School of Computer Science and Engineering](https://cse.cau.ac.kr/main.php) at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford and Seoul National University. He received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University in 2013 and 2017, respectively.
+Eunwoo Kim is an assistant professor in the [School of Computer Science and Engineering](https://cse.cau.ac.kr/eng/main.php) at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford and Seoul National University. He received the B.S. degree in the Department of Electrical and Electronics Engineering from Chung-Ang University in 2011, and the M.S. and Ph.D. degrees in the Department of Electrical Engineering and Computer Science at Seoul National University in 2013 and 2017, respectively.
 
 -------
 

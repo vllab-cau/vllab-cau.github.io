@@ -4,7 +4,6 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
-## Projects
 
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 

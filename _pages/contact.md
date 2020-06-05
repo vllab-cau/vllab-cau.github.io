@@ -11,8 +11,11 @@ Chung-Ang University
 Email: eunwoo (at) cau.ac.kr
 
 **Openings**
-> VLLAB currently has multiple graduate (MS, PhD) student positions and a postdoctoral position. 
-> VLLAB also has multiple undergraduate intern positions every semester for 3rd- or 4th-year students.
-> Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
+MS/PhD/Postdoc Positions      
+VLLAB currently has multiple graduate student positions and a postdoctoral position. 
+
+BS Positions
+VLLAB also has multiple undergraduate intern positions every semester for 3rd- or 4th-year students.
+Please contact Prof. Eunwoo Kim (eunwoo@cau.ac.kr) if you are interested in joining our group.
 
 <img src='/images/cau_map.png' width="700" align="left" style="margin-right:50px">

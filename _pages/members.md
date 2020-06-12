@@ -19,7 +19,7 @@ Email: jude0316 (at) cau.ac.kr
 -----
 <img src='/images/Wonhee Cho.jpg' width="140" align="left" style="margin-right:40px">      
 **Wonhee Cho**      
-Research Area: Deep Learning, Few-Shot Learning        
+Research Area: Deep Learning, Few-Shot Learning, AutoML        
 Email: wonhee4274 (at) cau.ac.kr     
 
 ------

@@ -1,8 +1,5 @@
 # main links links
-main:  
-  - title: "Professor"
-    url: /professor/
-  
+main:   
   - title: "Members"
     url: /members/     
     

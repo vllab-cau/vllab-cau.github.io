@@ -7,7 +7,6 @@ author_profile: true
 ## Professor
 <img src='/images/Eunwoo Kim.jpg' width="140" align="left" style="margin-right:40px">      
 **[Eunwoo Kim](https://vllab-cau.github.io/professor/)**, Ph.D.    
-
 Office: Building 208, Room 508   
 Phone: +82-2-820-5302     
 Email: eunwoo (at) cau.ac.kr / eunwoo (at) aicampus.cau.ac.kr  

@@ -12,6 +12,8 @@ author_profile: true
    This project aims to develop versatile deep learning approaches 
    employed to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy.<br/><br/>
+   
+   Funded by the National Research Foundation (NRF).
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 

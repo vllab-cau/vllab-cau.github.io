@@ -11,7 +11,7 @@ author_profile: true
    
    This project aims to develop a safety management system 
    in construction sites by analyzing potential risks and hazards, collecting image data, 
-   and developing a deep-learning based risk-detection algorithm.<br/><br/>
+   and developing a deep learning based risk-detection algorithm.<br/><br/>
 
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 

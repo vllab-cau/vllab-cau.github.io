@@ -28,13 +28,6 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.<br/><br/>
 
------
-**Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
-<img src='/images/den4.png' width="240" align="left" style="margin-right:40px">      
-   
-   This project develops novel deep learning model selection algorithms 
-   for instance-wise multi-task learning while reducing memory resources 
-   and human expert efforts.<br/><br/>
    
 ## Past Projects
    

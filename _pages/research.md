@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 -----
+**Automated Deep Learning Technology for Multi-Task Learning** 
+<img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">      
+   
+   This project aims to develop versatile deep learning approaches 
+   employed to perform multiple tasks on devices of limited capacity 
+   while avoiding task interference and model redundancy.<br/><br/>
+
+-----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="240" align="left" style="margin-right:40px">      
    
@@ -13,14 +21,6 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.<br/><br/>
 
------
-**Automated Deep Learning Technology for Multi-Task Learning** 
-<img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">      
-   
-   This project aims to develop versatile deep learning approaches 
-   employed to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy.<br/><br/>
-   
 -----
 **Efficient Multi-Task Deep Learning with Dynamic Model Selection** 
 <img src='/images/den4.png' width="240" align="left" style="margin-right:40px">      

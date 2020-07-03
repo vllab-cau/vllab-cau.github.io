@@ -31,6 +31,8 @@ author_profile: true
    This project aims to develop a safety management system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.<br/><br/>
+   
+   Funded by the National Research Foundation (NRF).
 
    
 ## Past Projects

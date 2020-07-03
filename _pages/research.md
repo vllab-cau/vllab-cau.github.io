@@ -17,8 +17,8 @@ author_profile: true
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
 <img src='/images/etri.PNG' width="240" align="left" style="margin-right:40px">      
    
-   This project investigates similarity of visual memory of similar tasks 
-   based on machine learning based embedding algorithms.<br/><br/>
+   This project investigates the similarity of visual memory of similar tasks 
+   based on machine learning-based embedding algorithms.<br/><br/>
 
 -----
 **Vision Intelligence based Construction Safety Management System** 

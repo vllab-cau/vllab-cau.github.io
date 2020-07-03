@@ -17,7 +17,7 @@ author_profile: true
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
-<img src='/images/etri.PNG' width="300" align="left" style="margin-right:30px">    
+<img src='/images/etri.PNG' width="300" align="left" style="margin-right:20px">    
 
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms.     

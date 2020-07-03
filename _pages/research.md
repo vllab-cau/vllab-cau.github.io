@@ -76,7 +76,7 @@ author_profile: true
    
 -----   
 **Human-Centric Networked Robotics Technology** 
-<img src='/images/human_centric.jpeg' width="240" height="120" align="left" style="margin-right:40px">     
+<img src='/images/human_centric.jpeg' width="270" height="120" align="left" style="margin-right:40px">     
    
    This project develops new methods and prototype applications for human-centric
    networked robots for seamless operations of service robots in our daily lives.
@@ -85,7 +85,7 @@ author_profile: true
     
 -----   
 **Efficient Low-Rank Approximation for Big Data Analysis** 
-<img src='/images/bigdata.png' width="240" align="left" style="margin-right:40px">        
+<img src='/images/bigdata.png' width="270" align="left" style="margin-right:40px">        
    
    This project develops an efficient low-rank factorization algorithm for large-scale
    data analysis.

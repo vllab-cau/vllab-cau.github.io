@@ -49,31 +49,39 @@ author_profile: true
   
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otfml.png' width="240" align="left" style="margin-right:40px">       
+<img src='/images/otfml.png' width="270" align="left" style="margin-right:40px">       
    
    This project develops on-the-fly machine learning algorithms using deep learning
-   frameworks to realize personalized and environment adaptive learning.<br/><br/> 
+   frameworks to realize personalized and environment adaptive learning.
+   
+   Funded by the National Research Foundation (NRF).<br/><br/> 
   
 -----  
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml2.png' width="240" align="left" style="margin-right:40px">      
+<img src='/images/ml2.png' width="270" align="left" style="margin-right:40px">      
    
    This project develops novel algorithms and methods for real-time nonparametric
-   learning and prediction of time-varying stochastic processes.<br/><br/>
+   learning and prediction of time-varying stochastic processes.
+   
+   Funded by the Ministry of Science, ICT, and Future Planning (MSIP).<br/><br/>
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
-<img src='/images/nrsfm.png' width="230" align="left" style="margin-right:50px">        
+<img src='/images/nrsfm.png' width="270" align="left" style="margin-right:50px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.<br/><br/><br/><br/>
+   their fundamental robust low-rank factorization algorithms.
+   
+   Funded by the National Research Foundation (NRF).<br/><br/><br/><br/>
    
 -----   
 **Human-Centric Networked Robotics Technology** 
 <img src='/images/human_centric.jpeg' width="240" height="120" align="left" style="margin-right:40px">     
    
    This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.<br/><br/><br/>
+   networked robots for seamless operations of service robots in our daily lives.
+   
+   Funded by the National Research Foundation (NRF).<br/><br/><br/>
     
 -----   
 **Efficient Low-Rank Approximation for Big Data Analysis** 
@@ -81,6 +89,8 @@ author_profile: true
    
    This project develops an efficient low-rank factorization algorithm for large-scale
    data analysis.
+   
+   Funded by Seoul National University (SNU).
   
 
 

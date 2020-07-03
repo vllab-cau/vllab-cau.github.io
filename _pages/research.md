@@ -21,6 +21,8 @@ author_profile: true
    
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms.<br/><br/>
+   
+   Funded by Electronics and Telecommunications Research Institute (ETRI).
 
 -----
 **Vision Intelligence based Construction Safety Management System** 

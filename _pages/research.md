@@ -17,7 +17,7 @@ author_profile: true
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
-<img src='/images/etri.PNG' width="300" align="left" style="margin-right:40px">    
+<img src='/images/etri.PNG' width="300" align="left" style="margin-right:30px">    
 
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms.     
@@ -67,7 +67,7 @@ author_profile: true
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
-<img src='/images/nrsfm.png' width="270" align="left" style="margin-right:50px">        
+<img src='/images/nrsfm.png' width="270" align="left" style="margin-right:40px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
    their fundamental robust low-rank factorization algorithms.

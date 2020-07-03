@@ -17,16 +17,16 @@ author_profile: true
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
-   
+<img src='/images/etri.PNG' width="300" align="left" style="margin-right:40px">    
+
    This project investigates the similarity of visual memory of similar tasks 
-   based on machine learning-based embedding algorithms.
-   <img src='/images/etri.PNG' width="270" align="left" style="margin-right:40px">      
+   based on machine learning-based embedding algorithms.     
    
    Funded by Electronics and Telecommunications Research Institute (ETRI).<br/><br/>
 
 -----
 **Vision Intelligence based Construction Safety Management System** 
-<img src='/images/brl.PNG' width="270" align="left" style="margin-right:40px">      
+<img src='/images/brl.PNG' width="280" align="left" style="margin-right:40px">      
    
    This project aims to develop a safety management system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 

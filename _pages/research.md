@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 -----
+**Vision Intelligence based Construction Safety Management System** 
+<img src='/images/brl.PNG' width="240" align="left" style="margin-right:40px">      
+   
+   This project aims to develop a safety management system 
+   in construction sites by analyzing potential risks and hazards, collecting image data, 
+   and developing a deep-learning based risk-detection algorithm.<br/><br/>
+
+-----
 **Automated Deep Learning Technology for Multi-Task Learning** 
 <img src='/images/ADM.png' width="240" align="left" style="margin-right:40px">      
    

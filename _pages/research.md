@@ -10,7 +10,7 @@ author_profile: true
 <img src='/images/brl.PNG' width="240" align="left" style="margin-right:40px">      
    
    This project aims to develop a safety management system 
-   in construction sites by analyzing potential risks and hazards, collecting image data, 
+   in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing a deep learning based risk-detection algorithm.<br/><br/>
 
 -----

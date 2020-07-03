@@ -14,6 +14,13 @@ author_profile: true
    while avoiding task interference and model redundancy.<br/><br/>
 
 -----
+**Deep Embedding Technology for Analysis of Visual Memory Similarity** 
+<img src='/images/etri.PNG' width="240" align="left" style="margin-right:40px">      
+   
+   This project investigates similarity of visual memory of similar tasks 
+   based on machine learning based embedding algorithms.<br/><br/>
+
+-----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="240" align="left" style="margin-right:40px">      
    

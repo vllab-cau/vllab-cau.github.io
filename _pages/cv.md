@@ -61,6 +61,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
 **Reviewer**
 * IEEE Transactions on Image Processing 
+* IEEE Transactions on Neural Networks and Learning Systems  
 * IEEE Journal of Selected Topics in Signal Processing 
 * IEEE Access 
 * IEEE Transactions on Robotics 

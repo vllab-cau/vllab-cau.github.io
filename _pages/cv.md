@@ -69,6 +69,7 @@ Eunwoo Kim is an assistant professor in the [School of Computer Science and Engi
 
 **Reviewer**
 * IEEE Transactions on Image Processing 
+* IEEE Transactions on Neural Networks and Learning Systems  
 * IEEE Journal of Selected Topics in Signal Processing 
 * IEEE Transactions on Robotics 
 * IEEE Access 

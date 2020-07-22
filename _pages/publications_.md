@@ -23,8 +23,7 @@ author_profile: true
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.
    
 -----
-[**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)
-
+[**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
    (Spotlight Presentation, 8.7% Acceptance Rate)   
@@ -55,28 +54,19 @@ author_profile: true
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.
 
 -----
-**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation** 
-
+[**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
    Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh      
-   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.      
-   [[Paper](https://ieeexplore.ieee.org/document/7139222)]
-
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
 
 -----
-**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation** 
-
+[**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
    **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh    
-   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.     
-   [[Paper](https://ieeexplore.ieee.org/document/7138982)]
-   
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
    
 -----
-**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method** 
-
+[**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method**](https://ieeexplore.ieee.org/abstract/document/6784021)       
    **Eunwoo Kim**, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
-   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.     
-   [[Paper](https://ieeexplore.ieee.org/abstract/document/6784021)] [Code]
-   
+   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
    
 -----
 **Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control** 

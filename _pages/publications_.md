@@ -9,7 +9,7 @@ author_profile: true
 -----
 **Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**       
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh       
-   *IEEE Access*, 2020.  
+   *IEEE Access*, 2020. (Accepted)
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           

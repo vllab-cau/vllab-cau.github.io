@@ -125,13 +125,17 @@ author_profile: true
 **Multi-Path Network for Resource-Efficient Multi-Task Learning** 
 
    Jiho Lee, Soyeon Park, and **Eunwoo Kim**       
-   in Summar Annual Conference of IEIE, Aug. 2020.
+   *In Summar Annual Conference of IEIE, Aug. 2020.*
    
 -----
 **Continual Deep Learning with Parameter Selection** 
 
    Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
-   in Summar Annual Conference of IEIE, Aug. 2020.   
+   *In Summar Annual Conference of IEIE, Aug. 2020.*   
    
-   
+-----
+**Hierarchical Semantic Segmentation with Nested Sparse Networks** 
+
+   Hwiyeon Yoo, **Eunwoo Kim**, and Songhwai Oh       
+   *In The 29th Joint Conference on Communications and Information, May 2019.*
    

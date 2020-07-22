@@ -86,12 +86,12 @@ author_profile: true
 ## Domenstic Publications
    
 -----
-**Multi-Path Network for Resource-Efficient Multi-Task Learning**     
+**다중 태스크 학습에서의 효율적인 자원 사용을 위한 다중 경로 네트워크**     
    Jiho Lee, Soyeon Park, and **Eunwoo Kim**       
    *In Summar Annual Conference of IEIE*, Aug. 2020.
    
 -----
-**선택적 파라메터 이용 기법을 통한 연속적인 딥 러닝 학습 (Continual Deep Learning with Parameter Selection)**     
+**선택적 파라메터 이용 기법을 통한 연속적인 딥 러닝 학습**     
    Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
    *In Summar Annual Conference of IEIE*, Aug. 2020.   
    

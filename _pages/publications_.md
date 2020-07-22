@@ -91,7 +91,7 @@ author_profile: true
    *In Summar Annual Conference of IEIE*, Aug. 2020.
    
 -----
-**Continual Deep Learning with Parameter Selection**     
+**선택적 파라메터 이용 기법을 통한 연속적인 딥 러닝 학습 (Continual Deep Learning with Parameter Selection)**     
    Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
    *In Summar Annual Conference of IEIE*, Aug. 2020.   
    

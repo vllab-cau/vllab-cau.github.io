@@ -18,13 +18,14 @@ author_profile: true
    [[Paper](https://arxiv.org/abs/1909.04860)] [[Code](https://github.com/rllab-snu/Deep-Elastic-Network)]
 
 -----
-**Deep Embedding Technology for Analysis of Visual Memory Similarity** 
-<img src='/images/etri.PNG' width="300" align="left" style="margin-right:20px">    
+**A Scalable Framework for Data-Driven Subspace Representation and Clustering** 
+<img src='/images/prl.jpg' width="150" align="left" style="margin-right:20px">    
 
-   This project investigates the similarity of visual memory of similar tasks 
-   based on machine learning-based embedding algorithms.     
+   **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
+   “A Scalable Framework for Data-Driven Subspace Representation and Clustering”      
+   *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.  
    
-   Funded by Electronics and Telecommunications Research Institute (ETRI).<br/><br/>
+   [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865519302107)] 
 
    
 ## Domenstic Publications

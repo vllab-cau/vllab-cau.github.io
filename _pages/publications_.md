@@ -74,9 +74,17 @@ author_profile: true
 
    **Eunwoo Kim** and Songhwai Oh      
    “Robust Orthogonal Matrix Factorization for Efficient Subspace Learning”     
-   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015. 
+   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.      
    [[Paper](https://www.sciencedirect.com/science/article/pii/S092523121500555X)] 
    
+   
+-----
+**Elastic-Net Regularization of Singular Values for Robust Subspace Learning** 
+
+   **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
+   “Elastic-Net Regularization of Singular Values for Robust Subspace Learning”      
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.        
+   [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)] [Code]
    
    
    

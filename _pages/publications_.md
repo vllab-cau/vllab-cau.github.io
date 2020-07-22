@@ -117,9 +117,21 @@ author_profile: true
    *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.     
    [[Paper](https://ieeexplore.ieee.org/document/6628440)]
    
-   
-   
-   
+    
    
 ## Domenstic Publications
+   
+-----
+**Multi-Path Network for Resource-Efficient Multi-Task Learning** 
+
+   Jiho Lee, Soyeon Park, and **Eunwoo Kim**       
+   in Summar Annual Conference of IEIE, Aug. 2020.
+   
+-----
+**Continual Deep Learning with Parameter Selection** 
+
+   Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
+   in Summar Annual Conference of IEIE, Aug. 2020.   
+   
+   
    

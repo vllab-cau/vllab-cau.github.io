@@ -94,6 +94,18 @@ author_profile: true
    “Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation”     
    *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.      
    [[Paper](https://ieeexplore.ieee.org/document/7139222)]
+
+
+-----
+**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation** 
+
+   **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh    
+   “Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation”     
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.     
+   [[Paper](https://ieeexplore.ieee.org/document/7138982)]
+   
+   
+   
    
    
 ## Domenstic Publications

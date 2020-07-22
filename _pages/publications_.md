@@ -32,6 +32,16 @@ author_profile: true
    [[Paper](https://arxiv.org/abs/1904.04562)] [[Code](https://github.com/niceday15/deep-virtual-network-cifar)]
 
    
+-----
+**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks** 
+
+   **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh      
+   “NestedNet:  Learning Nested Sparse Structures in Deep Neural Networks”      
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
+   (**Spotlight Presentation, 8.7% Acceptance Rate**)     
+   [[Paper](https://arxiv.org/abs/1712.03781)] [[Code](https://github.com/niceday15/nested-network-cifar100)]
+   
+   
 ## Domenstic Publications
    
 -----

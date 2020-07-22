@@ -8,7 +8,7 @@ author_profile: true
 ## International Publications
 -----
 **Deep Elastic Networks with Model Selection for Multi-Task Learning** 
-<img src='/images/DEN.png' height="270" align="left" style="margin-right:50px">      
+<img src='/images/DEN.png' height="150" align="left" style="margin-right:50px">      
    
    Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh     
    “Deep Elastic Networks with Model Selection for Multi-Task Learning”    

@@ -96,22 +96,22 @@ author_profile: true
    *In Summar Annual Conference of IEIE*, Aug. 2020.   
    
 -----
-**Hierarchical Semantic Segmentation with Nested Sparse Networks**     
+**중첩 희소 네트워크를 이용한 계층적인 이미지 의미론적 분할 네트워크**     
    Hwiyeon Yoo, **Eunwoo Kim**, and Songhwai Oh       
    *In The 29th Joint Conference on Communications and Information*, May 2019.
    
 -----
-**Fast Multiple Graph Matching via Alternating Optimization**     
+**교대 최적화 기법을 통한 빠른 다중 그래프 매칭**     
    Chanho Ahn, **Eunwoo Kim**, and Songhwai Oh       
    *In KIISE Winter Conference*, Dec. 2016.
 
 -----
-**ICRA 2015: Robot Learning Research Trend**     
+**ICRA 2015: 로봇 학습 연구 동향**     
    **Eunwoo Kim**, Sungjoon Choi, Yoonseon Oh, and Songhwai Oh       
    *In Korea Robotics Society Review*, 12(3), 21-29, Aug. 2015.
    
 -----
-**Cascade Face Detection using Biased Discriminant Analysis**     
+**편향된 판별 분석기법을 이용한 효과적인 얼굴 검출**     
    **Eunwoo Kim**, Jiyong Oh, and Chong-Ho Choi       
    *In Workshop on Image Processing and Image Understanding*, Feb. 2012.
    

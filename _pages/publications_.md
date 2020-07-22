@@ -86,7 +86,14 @@ author_profile: true
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.        
    [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)] [Code]
    
-   
+
+-----
+**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation** 
+
+   Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh      
+   “Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation”     
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.      
+   [[Paper](https://ieeexplore.ieee.org/document/7139222)]
    
    
 ## Domenstic Publications

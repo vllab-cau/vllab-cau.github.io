@@ -25,7 +25,7 @@ author_profile: true
    
    [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865519302107)] 
 
-
+-----
 **Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks** 
 
    **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     

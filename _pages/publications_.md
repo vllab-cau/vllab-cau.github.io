@@ -55,7 +55,7 @@ author_profile: true
 **Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments** 
 
    Sungjoon Choi, **Eunwoo Kim**, Kyungjae Lee, and Songhwai Oh     
-   Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments”      
+   "Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments”      
    *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.      
    [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889016300392)]
    
@@ -113,6 +113,14 @@ author_profile: true
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.     
    [[Paper](https://ieeexplore.ieee.org/abstract/document/6784021)] [Code]
    
+   
+-----
+**Human Behavior Prediction for Smart Homes Using Deep Learning** 
+
+   Sungjoon  Choi, **Eunwoo Kim**, and Songhwai Oh      
+   “Human Behavior Prediction for Smart Homes Using Deep Learning”      
+   *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.     
+   [[Paper](https://ieeexplore.ieee.org/document/6628440)]
    
    
    

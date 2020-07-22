@@ -7,14 +7,14 @@ author_profile: true
 
 ## International Publications
 -----
-**Automated Deep Learning Technology for Multi-Task Learning** 
-<img src='/images/ADM.png' width="270" align="left" style="margin-right:50px">      
+**Deep Elastic Networks with Model Selection for Multi-Task Learning** 
+<img src='/images/DEN.png' width="270" align="left" style="margin-right:50px">      
    
-   This project aims to develop versatile deep learning approaches 
-   employed to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy.
-   
-   Funded by the National Research Foundation (NRF).<br/><br/>
+   Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh, “Deep Elastic Networks with Model Selection for Multi-Task Learning”, 
+   *in Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019. 
+   (\* indicates  equal contribution, 25.0% Acceptance Rate)
+
+   [[Paper](https://arxiv.org/abs/1909.04860)] [[Code](https://github.com/rllab-snu/Deep-Elastic-Network)]
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 

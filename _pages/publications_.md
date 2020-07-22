@@ -18,7 +18,7 @@ author_profile: true
    *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.
 
 -----
-[**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)
+[**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
    **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.
    
@@ -69,20 +69,14 @@ author_profile: true
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
    
 -----
-**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control** 
-
+[**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
    Sungjoon Choi, **Eunwoo Kim**, and Songhwai Oh      
-   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.       
-   [[Paper](https://ieeexplore.ieee.org/document/6907322)]
-   
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
    
 -----
-**Human Behavior Prediction for Smart Homes Using Deep Learning** 
-
+[**Human Behavior Prediction for Smart Homes Using Deep Learning**](https://ieeexplore.ieee.org/document/6628440)       
    Sungjoon  Choi, **Eunwoo Kim**, and Songhwai Oh      
-   *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.     
-   [[Paper](https://ieeexplore.ieee.org/document/6628440)]
-   
+   *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
     
    
 ## Domenstic Publications

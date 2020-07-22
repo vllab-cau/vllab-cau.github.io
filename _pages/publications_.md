@@ -42,6 +42,16 @@ author_profile: true
    [[Paper](https://arxiv.org/abs/1712.03781)] [[Code](https://github.com/niceday15/nested-network-cifar100)]
    
    
+-----
+**Structured Kernel Subspace Learning for Autonomous Robot Navigation** 
+
+   **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh     
+   “Structured Kernel Subspace Learning for Autonomous Robot Navigation”     
+   *Sensors*, vol. 18, no. 2, Feb. 2018.     
+   [[Paper](https://www.mdpi.com/1424-8220/18/2/582)]
+   
+   
+   
 ## Domenstic Publications
    
 -----

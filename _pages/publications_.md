@@ -50,6 +50,16 @@ author_profile: true
    *Sensors*, vol. 18, no. 2, Feb. 2018.     
    [[Paper](https://www.mdpi.com/1424-8220/18/2/582)]
    
+
+-----
+**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments** 
+
+   Sungjoon Choi, **Eunwoo Kim**, Kyungjae Lee, and Songhwai Oh     
+   Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments”      
+   *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.      
+   [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889016300392)]
+   
+   
    
    
 ## Domenstic Publications

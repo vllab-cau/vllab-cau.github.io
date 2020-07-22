@@ -15,24 +15,19 @@ author_profile: true
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
-   *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.  
+   *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.
 
 -----
-**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks** 
-
+[**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)
    **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.     
-   [[Paper](https://arxiv.org/abs/1904.04562)] [[Code](https://github.com/niceday15/deep-virtual-network-cifar)]
-
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.
    
 -----
-**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks** 
+[**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)
 
    **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
-   (**Spotlight Presentation, 8.7% Acceptance Rate**)     
-   [[Paper](https://arxiv.org/abs/1712.03781)] [[Code](https://github.com/niceday15/nested-network-cifar100)]
-   
+   (**Spotlight Presentation, 8.7% Acceptance Rate**)   
    
 -----
 **Structured Kernel Subspace Learning for Autonomous Robot Navigation** 

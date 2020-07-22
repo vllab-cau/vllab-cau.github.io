@@ -69,6 +69,15 @@ author_profile: true
    [[Paper](https://ieeexplore.ieee.org/document/7506231)] [Code]
    
    
+-----
+**Robust Orthogonal Matrix Factorization for Efficient Subspace Learning** 
+
+   **Eunwoo Kim** and Songhwai Oh      
+   “Robust Orthogonal Matrix Factorization for Efficient Subspace Learning”     
+   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015. 
+   [[Paper](https://www.sciencedirect.com/science/article/pii/S092523121500555X)] 
+   
+   
    
    
    

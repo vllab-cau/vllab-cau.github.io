@@ -82,6 +82,9 @@ author_profile: true
    Sungjoon  Choi, **Eunwoo Kim**, and Songhwai Oh      
    *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
     
-   
+-----   
 ## [Domenstic Publications](http://vllab-cau.github.io/publications/domestic-publications)
+-----
 ## Patents   
+
+

@@ -107,7 +107,7 @@ author_profile: true
 
 -----
 **ICRA 2015: Robot Learning Research Trend**     
-   **Eunwoo Kim**, Sungjoon Choi, Yoonseon Oh, and Songhwai Oh,       
+   **Eunwoo Kim**, Sungjoon Choi, Yoonseon Oh, and Songhwai Oh       
    *In Korea Robotics Society Review, 12(3), 21-29, Aug. 2015.*
    
 -----

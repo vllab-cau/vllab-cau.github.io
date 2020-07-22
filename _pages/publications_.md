@@ -11,7 +11,7 @@ author_profile: true
    
    Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh     
    “Deep Elastic Networks with Model Selection for Multi-Task Learning”    
-   *In Proc. of the IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2019.     
+   *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
    (\* indicates  equal contribution, 25.0% Acceptance Rate)     
    [[Paper](https://arxiv.org/abs/1909.04860)] [[Code](https://github.com/rllab-snu/Deep-Elastic-Network)]
 
@@ -103,6 +103,16 @@ author_profile: true
    “Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation”     
    *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.     
    [[Paper](https://ieeexplore.ieee.org/document/7138982)]
+   
+   
+-----
+**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method** 
+
+   **Eunwoo Kim**, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
+   “Efficient l1-Norm-Based Low-Rank Matrix Approximations for  Large-Scale Problems Using Alternating Rectified Gradient Method”      
+   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.     
+   [[Paper](https://ieeexplore.ieee.org/abstract/document/6784021)] [Code]
+   
    
    
    

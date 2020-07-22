@@ -1,4 +1,11 @@
+---
+layout: archive
+title: "Domestic Publications"
+permalink: /publications/domestic-publications
+author_profile: true
+---
 
+## Domestic Publications
 
 -----
 **다중 태스크 학습에서의 효율적인 자원 사용을 위한 다중 경로 네트워크**     

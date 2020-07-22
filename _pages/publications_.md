@@ -10,7 +10,7 @@ author_profile: true
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
    Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh     
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
-   (\* indicates  equal contribution, 25.0% Acceptance Rate)     
+   (\* indicates  equal contribution)     
 
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
@@ -30,20 +30,14 @@ author_profile: true
    (**Spotlight Presentation, 8.7% Acceptance Rate**)   
    
 -----
-**Structured Kernel Subspace Learning for Autonomous Robot Navigation** 
-
+[**Structured Kernel Subspace Learning for Autonomous Robot Navigation**](https://www.mdpi.com/1424-8220/18/2/582)       
    **Eunwoo Kim**, Sungjoon Choi, and Songhwai Oh     
-   *Sensors*, vol. 18, no. 2, Feb. 2018.     
-   [[Paper](https://www.mdpi.com/1424-8220/18/2/582)]
-   
+   *Sensors*, vol. 18, no. 2, Feb. 2018.
 
 -----
-**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments** 
-
+[**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments**](https://www.sciencedirect.com/science/article/pii/S0921889016300392)      
    Sungjoon Choi, **Eunwoo Kim**, Kyungjae Lee, and Songhwai Oh     
-   *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.      
-   [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889016300392)]
-   
+   *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.
    
 -----
 **Robust Elastic-Net Subspace Representation** 

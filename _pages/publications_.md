@@ -27,7 +27,7 @@ author_profile: true
 
    **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
-   (**Spotlight Presentation, 8.7% Acceptance Rate**)   
+   (Spotlight Presentation, 8.7% Acceptance Rate)   
    
 -----
 [**Structured Kernel Subspace Learning for Autonomous Robot Navigation**](https://www.mdpi.com/1424-8220/18/2/582)       
@@ -40,28 +40,19 @@ author_profile: true
    *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.
    
 -----
-**Robust Elastic-Net Subspace Representation** 
-
+[**Robust Elastic-Net Subspace Representation**](https://ieeexplore.ieee.org/document/7506231)       
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
-   *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.     
-   [[Paper](https://ieeexplore.ieee.org/document/7506231)] [Code]
-   
+   *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.
    
 -----
-**Robust Orthogonal Matrix Factorization for Efficient Subspace Learning** 
-
+[**Robust Orthogonal Matrix Factorization for Efficient Subspace Learning**](https://www.sciencedirect.com/science/article/pii/S092523121500555X)       
    **Eunwoo Kim** and Songhwai Oh      
-   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.      
-   [[Paper](https://www.sciencedirect.com/science/article/pii/S092523121500555X)] 
-   
+   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.
    
 -----
-**Elastic-Net Regularization of Singular Values for Robust Subspace Learning** 
-
+[**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.        
-   [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)] [Code]
-   
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.
 
 -----
 **Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation** 

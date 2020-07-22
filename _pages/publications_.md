@@ -88,30 +88,30 @@ author_profile: true
 -----
 **Multi-Path Network for Resource-Efficient Multi-Task Learning**     
    Jiho Lee, Soyeon Park, and **Eunwoo Kim**       
-   *In Summar Annual Conference of IEIE, Aug. 2020.*
+   *In Summar Annual Conference of IEIE*, Aug. 2020.
    
 -----
 **Continual Deep Learning with Parameter Selection**     
    Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
-   *In Summar Annual Conference of IEIE, Aug. 2020.*   
+   *In Summar Annual Conference of IEIE*, Aug. 2020.   
    
 -----
 **Hierarchical Semantic Segmentation with Nested Sparse Networks**     
    Hwiyeon Yoo, **Eunwoo Kim**, and Songhwai Oh       
-   *In The 29th Joint Conference on Communications and Information, May 2019.*
+   *In The 29th Joint Conference on Communications and Information*, May 2019.
    
 -----
 **Fast Multiple Graph Matching via Alternating Optimization**     
    Chanho Ahn, **Eunwoo Kim**, and Songhwai Oh       
-   *In KIISE Winter Conference, Dec. 2016.*
+   *In KIISE Winter Conference*, Dec. 2016.
 
 -----
 **ICRA 2015: Robot Learning Research Trend**     
    **Eunwoo Kim**, Sungjoon Choi, Yoonseon Oh, and Songhwai Oh       
-   *In Korea Robotics Society Review, 12(3), 21-29, Aug. 2015.*
+   *In Korea Robotics Society Review*, 12(3), 21-29, Aug. 2015.
    
 -----
 **Cascade Face Detection using Biased Discriminant Analysis**     
    **Eunwoo Kim**, Jiyong Oh, and Chong-Ho Choi       
-   *In Workshop on Image Processing and Image Understanding, Feb. 2012.*   
+   *In Workshop on Image Processing and Image Understanding*, Feb. 2012.
    

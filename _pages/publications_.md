@@ -7,8 +7,8 @@ author_profile: true
 
 ## International Publications
 -----
-**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**
-   **Eunwoo Kim**, Minsik Lee, and Songhwai Oh
+**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**       
+   **Eunwoo Kim**, Minsik Lee, and Songhwai Oh       
    *IEEE Access*, 2020.  
 
 -----

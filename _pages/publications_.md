@@ -60,6 +60,16 @@ author_profile: true
    [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889016300392)]
    
    
+-----
+**Robust Elastic-Net Subspace Representation** 
+
+   **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
+   “Robust Elastic-Net Subspace Representation”      
+   *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.     
+   [[Paper](https://ieeexplore.ieee.org/document/7506231)] [Code]
+   
+   
+   
    
    
 ## Domenstic Publications

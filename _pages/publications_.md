@@ -122,22 +122,22 @@ author_profile: true
 ## Domenstic Publications
    
 -----
-**Multi-Path Network for Resource-Efficient Multi-Task Learning** 
+**Multi-Path Network for Resource-Efficient Multi-Task Learning**     
    Jiho Lee, Soyeon Park, and **Eunwoo Kim**       
    *In Summar Annual Conference of IEIE, Aug. 2020.*
    
 -----
-**Continual Deep Learning with Parameter Selection** 
+**Continual Deep Learning with Parameter Selection**     
    Yoonhee Kim, Hyundong Jin, and **Eunwoo Kim**       
    *In Summar Annual Conference of IEIE, Aug. 2020.*   
    
 -----
-**Hierarchical Semantic Segmentation with Nested Sparse Networks** 
+**Hierarchical Semantic Segmentation with Nested Sparse Networks**     
    Hwiyeon Yoo, **Eunwoo Kim**, and Songhwai Oh       
    *In The 29th Joint Conference on Communications and Information, May 2019.*
    
 -----
-**Fast Multiple Graph Matching via Alternating Optimization** 
+**Fast Multiple Graph Matching via Alternating Optimization**     
    Chanho Ahn, **Eunwoo Kim**, and Songhwai Oh       
    *In KIISE Winter Conference, Dec. 2016.*
 

@@ -141,3 +141,13 @@ author_profile: true
    Chanho Ahn, **Eunwoo Kim**, and Songhwai Oh       
    *In KIISE Winter Conference, Dec. 2016.*
 
+-----
+**ICRA 2015: Robot Learning Research Trend**     
+   **Eunwoo Kim**, Sungjoon Choi, Yoonseon Oh, and Songhwai Oh,       
+   *In Korea Robotics Society Review, 12(3), 21-29, Aug. 2015.*
+   
+-----
+**Cascade Face Detection using Biased Discriminant Analysis**     
+   **Eunwoo Kim**, Jiyong Oh, and Chong-Ho Choi       
+   *In Workshop on Image Processing and Image Understanding, Feb. 2012.*   
+   

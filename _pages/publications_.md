@@ -83,7 +83,7 @@ author_profile: true
    *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
     
    
-## Domenstic Publications
+## [Domenstic Publications](http://vllab-cau.github.io/publications/domestic-publications)
    
 -----
 **다중 태스크 학습에서의 효율적인 자원 사용을 위한 다중 경로 네트워크**     

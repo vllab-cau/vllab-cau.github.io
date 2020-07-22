@@ -21,7 +21,6 @@ author_profile: true
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
    “A Scalable Framework for Data-Driven Subspace Representation and Clustering”      
    *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.  
-   
    [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865519302107)] 
 
 -----
@@ -30,7 +29,6 @@ author_profile: true
    **Eunwoo Kim**, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
    “Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks”     
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.
-   
    [[Paper](https://arxiv.org/abs/1904.04562)] [[Code](https://github.com/niceday15/deep-virtual-network-cifar)]
 
    

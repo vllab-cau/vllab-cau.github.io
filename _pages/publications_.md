@@ -8,9 +8,8 @@ author_profile: true
 ## International Publications
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
-   Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh     
+   Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh (\* indicates  equal contribution)      
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
-   (\* indicates  equal contribution)     
 
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
@@ -26,7 +25,7 @@ author_profile: true
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    **Eunwoo Kim**, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
-   (Spotlight Presentation, 8.7% Acceptance Rate)   
+   (Spotlight Presentation)   
    
 -----
 [**Structured Kernel Subspace Learning for Autonomous Robot Navigation**](https://www.mdpi.com/1424-8220/18/2/582)       

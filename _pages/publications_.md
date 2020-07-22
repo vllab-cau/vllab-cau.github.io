@@ -11,14 +11,11 @@ author_profile: true
    Chanho Ahn\*, **Eunwoo Kim**\*, and Songhwai Oh     
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
    (\* indicates  equal contribution, 25.0% Acceptance Rate)     
-   [[Paper](https://arxiv.org/abs/1909.04860)] [[Code](https://github.com/rllab-snu/Deep-Elastic-Network)]
 
 -----
-**A Scalable Framework for Data-Driven Subspace Representation and Clustering** 
-
+[**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
    *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.  
-   [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865519302107)] 
 
 -----
 **Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks** 

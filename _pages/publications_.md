@@ -19,7 +19,7 @@ author_profile: true
 
 -----
 **A Scalable Framework for Data-Driven Subspace Representation and Clustering** 
-<img src='/images/prl.jpg' width="150" align="left" style="margin-right:20px">    
+<img src='/images/prl.jpg' height="150" align="left" style="margin-right:20px">    
 
    **Eunwoo Kim**, Minsik Lee, and Songhwai Oh      
    “A Scalable Framework for Data-Driven Subspace Representation and Clustering”      

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /professor/
+permalink: /members/professor/
 author_profile: true
 redirect_from:
   - /resume

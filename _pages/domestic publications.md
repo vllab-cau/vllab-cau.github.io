@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 **다중 태스크 학습에서의 효율적인 자원 사용을 위한 다중 경로 네트워크**     
-   Jiho Lee, Soyeon Park, and Eunwoo Kim*      
+   Jiho Lee, Soyeon Park, and Eunwoo Kim      
    *대한전자공학회 하계학술대회*, Aug. 2020.
    
 -----

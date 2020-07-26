@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       
-   *IEEE Access*, vol. 8, pp. 132489-132501, Jul. 2020.
+   *IEEE Access*, vol. 8, pp. 132489-132501, July 2020.
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
@@ -24,7 +24,7 @@ author_profile: true
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
    Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2019.
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2019.
    
 -----
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       

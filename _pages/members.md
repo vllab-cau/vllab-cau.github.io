@@ -71,7 +71,7 @@ Research Area: Deep Learning, Robust Learning
 Email: tizm1347 (at) gmail.com   
 
 -----
-<img src='/images/Sehwan Joo.png' width="140" align="left" style="margin-right:40px">       
+<img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">       
 **Sehwan Joo**       
 Research Area: Deep Learning           
 Email: famer3625 (at) gmail.com   

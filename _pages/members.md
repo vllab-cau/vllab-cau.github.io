@@ -59,7 +59,7 @@ Email: rominju (at) gmail.com
 
 -----
 <img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
-**Byun Youngmu**       
+**Youngmu Byun**       
 Research Area: Deep Learning           
 Email: tyg04308 (at) gmail.com   
 

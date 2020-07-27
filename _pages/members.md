@@ -70,6 +70,19 @@ Email: tyg04308 (at) gmail.com
 Research Area: Deep Learning           
 Email: tizm1347 (at) gmail.com   
 
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+**Sehwan Joo**       
+Research Area: Deep Learning           
+Email: famer3625 (at) gmail.com   
+
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+**Seowon Yoon**       
+Research Area: Deep Learning           
+Email: 20111seowon (at) gmail.com   
+
 ------  
 ## Former Members   
 - Yunseong Kim (BS, 2020 Spring)

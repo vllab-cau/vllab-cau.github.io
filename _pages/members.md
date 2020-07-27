@@ -35,7 +35,7 @@ Email: wonhee4274 (at) cau.ac.kr
 ## Undergraduate Students  
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">      
 **Gyeonghyeon Kim**      
-Research Area: Deep Learning, Low-Level Vision       
+Research Area: Deep Learning, Neural Architecture Search       
 Email: leonardkkh (at) gmail.com     
 
 -----
@@ -53,21 +53,21 @@ Email: yoooni.kim2 (at) gmail.com
 -----
 <img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
 **Minju Ro**       
-Research Area: Deep Learning           
+Research Area: Deep Learning, Object Detection           
 Email: rominju (at) gmail.com   
 
 
 -----
 <img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
 **Youngmu Byun**       
-Research Area: Deep Learning           
+Research Area: Deep Learning, Object Detection           
 Email: tyg04308 (at) gmail.com   
 
 
 -----
 <img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
 **Byongwoo Park**       
-Research Area: Deep Learning           
+Research Area: Deep Learning, Robust Learning           
 Email: tizm1347 (at) gmail.com   
 
 -----

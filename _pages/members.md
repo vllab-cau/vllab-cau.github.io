@@ -78,7 +78,7 @@ Email: famer3625 (at) gmail.com
 
 
 -----
-<img src='/images/Seowon Yoon.jpg.png' width="140" align="left" style="margin-right:40px">       
+<img src='/images/Seowon Yoon.jpg' width="140" align="left" style="margin-right:40px">       
 **Seowon Yoon**       
 Research Area: Deep Learning           
 Email: 20111seowon (at) gmail.com   

@@ -58,7 +58,7 @@ Email: rominju (at) gmail.com
 
 
 -----
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+<img src='/images/Youngmu Byun.jpg' width="140" align="left" style="margin-right:40px">       
 **Youngmu Byun**       
 Research Area: Deep Learning, Object Detection           
 Email: tyg04308 (at) gmail.com   

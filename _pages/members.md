@@ -49,7 +49,12 @@ Email: leejiho5047 (at) gmail.com
 **Yoonhee Kim**       
 Research Area: Deep Learning, Lifelong Learning           
 Email: yoooni.kim2 (at) gmail.com      
-  
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+**Minju Ro**       
+Research Area: Deep Learning           
+Email: rominju (at) gmail.com   
   
 ------  
 ## Former Members   

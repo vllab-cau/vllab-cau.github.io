@@ -55,7 +55,21 @@ Email: yoooni.kim2 (at) gmail.com
 **Minju Ro**       
 Research Area: Deep Learning           
 Email: rominju (at) gmail.com   
-  
+
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+**Byun Youngmu**       
+Research Area: Deep Learning           
+Email: tyg04308 (at) gmail.com   
+
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+**Byongwoo Park**       
+Research Area: Deep Learning           
+Email: tizm1347 (at) gmail.com   
+
 ------  
 ## Former Members   
 - Yunseong Kim (BS, 2020 Spring)

@@ -51,7 +51,7 @@ Research Area: Deep Learning, Lifelong Learning
 Email: yoooni.kim2 (at) gmail.com      
 
 -----
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
+<img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">       
 **Minju Ro**       
 Research Area: Deep Learning, Object Detection           
 Email: rominju (at) gmail.com   

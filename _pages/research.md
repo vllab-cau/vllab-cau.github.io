@@ -11,14 +11,14 @@ author_profile: true
    
    This project aims to develop versatile deep learning approaches 
    employed to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy.
+   while avoiding task interference and model redundancy.<br><br>
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
 <img src='/images/etri.PNG' width="270" align="left" style="margin-right:20px">    
 
    This project investigates the similarity of visual memory of similar tasks 
-   based on machine learning-based embedding algorithms. 
+   based on machine learning-based embedding algorithms. <br><br>
 
 -----
 **Vision Intelligence based Construction Safety Management System** 
@@ -26,7 +26,7 @@ author_profile: true
    
    This project aims to develop a safety management system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
-   and developing deep learning based risk-detection algorithms.
+   and developing deep learning based risk-detection algorithms.<br><br>
 
    
 ## Past Projects

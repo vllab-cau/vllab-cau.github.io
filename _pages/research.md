@@ -37,7 +37,7 @@ author_profile: true
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.<br><br>
+   at individuals that currently drive their commute to and from work.<br><br><br>
   
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
@@ -58,14 +58,14 @@ author_profile: true
 <img src='/images/nrsfm.png' width="250" align="left" style="margin-right:50px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.<br><br>
+   their fundamental robust low-rank factorization algorithms.<br><br><br>
    
 -----   
 **Human-Centric Networked Robotics Technology** 
 <img src='/images/human_centric.jpeg' width="250" height="120" align="left" style="margin-right:50px">     
    
    This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.<br><br>
+   networked robots for seamless operations of service robots in our daily lives.<br><br><br>
     
 -----   
 **Efficient Low-Rank Approximation for Big Data Analysis** 

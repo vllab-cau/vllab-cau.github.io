@@ -65,7 +65,7 @@ author_profile: true
 <img src='/images/human_centric.jpeg' width="250" height="120" align="left" style="margin-right:50px">     
    
    This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.
+   networked robots for seamless operations of service robots in our daily lives.<br><br>
     
 -----   
 **Efficient Low-Rank Approximation for Big Data Analysis** 

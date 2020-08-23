@@ -24,7 +24,7 @@ author_profile: true
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="260" align="left" style="margin-right:40px">      
    
-   This project aims to develop a safety management system 
+   This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.<br><br>
 

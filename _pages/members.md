@@ -73,7 +73,7 @@ Email: tizm1347 (at) gmail.com
 -----
 <img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">       
 **Sehwan Joo**       
-Research Area: Deep Learning           
+Research Area: Deep Learning, Object Detection           
 Email: famer3625 (at) gmail.com   
 
 

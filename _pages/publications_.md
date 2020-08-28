@@ -83,7 +83,7 @@ author_profile: true
    *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
     
 -----   
-## [Domenstic Publications](http://vllab-cau.github.io/publications/domestic-publications)
+## [Domestic Publications](http://vllab-cau.github.io/publications/domestic-publications)
 -----
 
 

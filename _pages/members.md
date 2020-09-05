@@ -65,12 +65,6 @@ Email: tyg04308 (at) gmail.com
 
 
 -----
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">       
-**Byongwoo Park**       
-Research Area: Deep Learning, Robust Learning           
-Email: tizm1347 (at) gmail.com   
-
------
 <img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">       
 **Sehwan Joo**       
 Research Area: Deep Learning, Object Detection           

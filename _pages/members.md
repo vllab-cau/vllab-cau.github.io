@@ -74,7 +74,7 @@ Email: famer3625 (at) gmail.com
 -----
 <img src='/images/Seowon Yoon.jpg' width="140" align="left" style="margin-right:40px">       
 **Seowon Yoon**       
-Research Area: Deep Learning           
+Research Area: Deep Learning, Natural Language Processing           
 Email: 20111seowon (at) gmail.com   
 
 ------  

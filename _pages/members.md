@@ -10,7 +10,7 @@ author_profile: true
 School of CSE, Chung-Ang University     
 Office: Building 208, Room 508   
 Phone: +82-2-820-5302     
-Email: eunwoo (at) cau.ac.kr / eunwoo (at) aicampus.cau.ac.kr  
+Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk   
 
 -----
 ## Graduate Students

@@ -53,21 +53,21 @@ Email: yoooni.kim2 (at) gmail.com
 -----
 <img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">       
 **Minju Ro**       
-Research Area: Deep Learning, Object Detection           
+Research Area: Deep Learning, Computer Vision           
 Email: rominju (at) gmail.com   
 
 
 -----
 <img src='/images/Youngmu Byun2.jpg' width="140" align="left" style="margin-right:40px">       
 **Youngmu Byun**       
-Research Area: Deep Learning, Object Detection           
+Research Area: Deep Learning, Computer Vision           
 Email: tyg04308 (at) gmail.com   
 
 
 -----
 <img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">       
 **Sehwan Joo**       
-Research Area: Deep Learning, Object Detection           
+Research Area: Deep Learning, Computer Vision           
 Email: famer3625 (at) gmail.com   
 
 

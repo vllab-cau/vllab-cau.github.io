@@ -28,6 +28,12 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.<br><br>
 
+-----
+**Pose Estimation for Bin-Picking with 3D Models**
+
+   This project develops pose estimation and domain-transferred instance segmentation algorithms 
+   for a bin-picking problem of a robot.<br><br>       
+
    
 ## Past Projects
    

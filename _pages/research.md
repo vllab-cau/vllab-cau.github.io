@@ -30,7 +30,7 @@ author_profile: true
 
 -----
 **Pose Estimation for Bin-Picking with 3D Models**
-<img src='/images/logo.PNG' width="260" align="left" style="margin-right:40px">        
+<img src='/images/logo.png' width="260" align="left" style="margin-right:40px">        
 
    This project develops pose estimation and domain-transferred instance segmentation algorithms 
    for a bin-picking problem of a robot.<br><br>       

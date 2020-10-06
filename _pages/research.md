@@ -29,7 +29,7 @@ author_profile: true
    and developing deep learning based risk-detection algorithms.<br><br>
 
 -----
-**Pose Estimation for Bin-Picking with 3D Models**
+**Pose Estimation for Bin-Picking with a 3D Model**
 <img src='/images/logo.png' width="260" align="left" style="margin-right:40px">        
 
    This project develops pose estimation and domain-transferred instance segmentation algorithms 

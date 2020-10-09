@@ -30,7 +30,7 @@ author_profile: true
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
-<img src='/images/vllab_logo_wide2.png' width="230" align="left" style="margin-right:60px"> 
+<img src='/images/vllab_logo_wide2.png' width="230" align="left" style="margin-right:70px"> 
 
    This project develops pose estimation and domain-transferred instance segmentation algorithms 
    for a bin-picking problem of a robot.<br><br>       

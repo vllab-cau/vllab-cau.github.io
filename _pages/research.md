@@ -35,7 +35,7 @@ author_profile: true
    This project develops pose estimation and domain-transferred instance segmentation algorithms 
    for a bin-picking problem of a robot.<br><br>       
 
-   
+-----   
 ## Past Projects
    
 -----

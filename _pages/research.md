@@ -32,7 +32,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.
    
-   Funded by National Research Foundation (NRF for Basic Research Laboratory). <br>
+   Funded by National Research Foundation (NRF Basic Research Laboratory Program). <br>
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**

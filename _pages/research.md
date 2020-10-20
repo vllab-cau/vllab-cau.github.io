@@ -30,18 +30,18 @@ author_profile: true
         
    This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
-   and developing deep learning based risk-detection algorithms.<br><br>
+   and developing deep learning based risk-detection algorithms.
    
-   Funded by National Research Foundation (NRF-BRL).
+   Funded by National Research Foundation (NRF-BRL). <br><br>
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
 <img src='/images/pose.png' width="260" align="left" style="margin-right:40px"> 
 
    This project develops pose estimation and domain-transferred instance segmentation algorithms 
-   for a bin-picking problem of a robot.<br><br>    
+   for a bin-picking problem of a robot.   
    
-   Funded by Doosan Digital Innovation.
+   Funded by Doosan Digital Innovation. <br><br> 
 
 -----   
 ## Past Projects
@@ -52,42 +52,46 @@ author_profile: true
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.<br><br><br>
+   at individuals that currently drive their commute to and from work.
+   
+   Funded by UK Research and Innovation (UKRI). <br><br><br>
   
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
 <img src='/images/otfml.png' width="250" align="left" style="margin-right:50px">       
    
    This project develops on-the-fly machine learning algorithms using deep learning
-   frameworks to realize personalized and environment adaptive learning.<br><br>
+   frameworks to realize personalized and environment adaptive learning.
+   
+   Funded by Ministry of Science and ICT (MSIT). <br><br>
   
 -----  
 **Human-Level Lifelong Machine Learning** 
 <img src='/images/ml2.png' width="250" align="left" style="margin-right:50px">      
    
    This project develops novel algorithms and methods for real-time nonparametric
-   learning and prediction of time-varying stochastic processes.<br><br>
+   learning and prediction of time-varying stochastic processes.
+   
+   Funded by Ministry of Science, ICT, and Future Planning (MSIP). <br><br>
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
 <img src='/images/nrsfm.png' width="250" align="left" style="margin-right:50px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.<br><br><br>
+   their fundamental robust low-rank factorization algorithms.
+   
+   Funded by National Research Foundation (NRF). <br><br><br>
    
 -----   
 **Human-Centric Networked Robotics Technology** 
 <img src='/images/human_centric.jpeg' width="250" height="120" align="left" style="margin-right:50px">     
    
    This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.<br><br><br>
-    
------   
-**Efficient Low-Rank Approximation for Big Data Analysis** 
-<img src='/images/bigdata.png' width="250" align="left" style="margin-right:50px">        
+   networked robots for seamless operations of service robots in our daily lives.
    
-   This project develops an efficient low-rank factorization algorithm for large-scale
-   data analysis.
+   Funded by National Research Foundation (NRF). <br><br><br>
+    
   
 
 

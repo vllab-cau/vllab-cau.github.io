@@ -17,7 +17,7 @@ author_profile: true
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
-<img src='/images/etri.PNG' width="290" align="left" style="margin-right:30px">       
+<img src='/images/etri.PNG' width="280" align="left" style="margin-right:50px">       
        
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms. 
@@ -26,7 +26,7 @@ author_profile: true
 
 -----
 **Vision Intelligence based Construction Safety Management System** 
-<img src='/images/brl.PNG' width="280" align="left" style="margin-right:40px">        
+<img src='/images/brl.PNG' width="280" align="left" style="margin-right:50px">        
         
    This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
@@ -36,7 +36,7 @@ author_profile: true
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
-<img src='/images/pose.png' width="280" align="left" style="margin-right:40px"> 
+<img src='/images/pose.png' width="300" align="left" style="margin-right:50px"> 
 
    This project develops pose estimation and instance segmentation algorithms 
    for a bin-picking problem of a robot.   

@@ -64,7 +64,7 @@ author_profile: true
    autonomous cars on normal public roads in an urban environment, aimed primarily
    at individuals that currently drive their commute to and from work.
    
-   Funded by UK Research and Innovation (UKRI). <br><br><br>
+   Funded by UK Research and Innovation (UKRI). <br><br>
   
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
@@ -73,7 +73,7 @@ author_profile: true
    This project develops on-the-fly machine learning algorithms using deep learning
    frameworks to realize personalized and environment adaptive learning.
    
-   Funded by Ministry of Science and ICT (MSIT). <br><br>
+   Funded by Ministry of Science and ICT (MSIT). <br>
   
 -----  
 **Human-Level Lifelong Machine Learning** 
@@ -82,7 +82,7 @@ author_profile: true
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.
    
-   Funded by Ministry of Science, ICT, and Future Planning (MSIP). <br><br>
+   Funded by Ministry of Science, ICT, and Future Planning (MSIP). <br>
    
 -----   
 **Practical Action Recognition and Prediction Technology** 

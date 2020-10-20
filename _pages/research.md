@@ -10,7 +10,7 @@ author_profile: true
 <img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        
         
    This project aims to develop versatile deep learning approaches 
-   employed to perform multiple tasks on devices of limited capacity 
+   to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy.
    
    Funded by National Research Foundation (NRF).<br>

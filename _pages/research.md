@@ -43,6 +43,18 @@ author_profile: true
    
    Funded by Doosan Digital Innovation. <br> 
 
+
+-----
+**Learning Transferable Task Knowledge for Social Robots**
+<img src='/images/SRFC.png' width="280" align="left" style="margin-right:50px">
+
+   This project aims to develop an object-oriented framework 
+   to learn transferable knowledge for task planning of a robot, 
+   by learning the hierarchy of subtask models and 
+   grounding the natural language to a learned task knowledge.
+
+   Funded by Samsung Research Funding & Incubation Center of Samsung Electronics.      
+
 -----   
 ## Past Projects
    

@@ -11,18 +11,18 @@ author_profile: true
         
    This project aims to develop versatile deep learning approaches 
    employed to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy.<br><br>
+   while avoiding task interference and model redundancy.
    
-   Funded by National Research Foundation (NRF).
+   Funded by National Research Foundation (NRF).<br><br>
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
 <img src='/images/etri.PNG' width="270" align="left" style="margin-right:30px">       
        
    This project investigates the similarity of visual memory of similar tasks 
-   based on machine learning-based embedding algorithms. <br><br>
+   based on machine learning-based embedding algorithms. 
    
-   Funded by Electronics and Telecommunications Research Institute (ETRI).
+   Funded by Electronics and Telecommunications Research Institute (ETRI). <br><br>
 
 -----
 **Vision Intelligence based Construction Safety Management System** 

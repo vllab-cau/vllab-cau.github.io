@@ -13,7 +13,7 @@ author_profile: true
    employed to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy.
    
-   Funded by National Research Foundation (NRF).<br><br>
+   Funded by National Research Foundation (NRF).<br>
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
@@ -22,7 +22,7 @@ author_profile: true
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms. 
    
-   Funded by Electronics and Telecommunications Research Institute (ETRI). <br><br>
+   Funded by Electronics and Telecommunications Research Institute (ETRI). <br>
 
 -----
 **Vision Intelligence based Construction Safety Management System** 
@@ -32,7 +32,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.
    
-   Funded by National Research Foundation (NRF-BRL). <br><br>
+   Funded by National Research Foundation (NRF-BRL). <br>
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
@@ -41,7 +41,7 @@ author_profile: true
    This project develops pose estimation and instance segmentation algorithms 
    for a bin-picking problem of a robot.   
    
-   Funded by Doosan Digital Innovation. <br><br> 
+   Funded by Doosan Digital Innovation. <br> 
 
 -----   
 ## Past Projects

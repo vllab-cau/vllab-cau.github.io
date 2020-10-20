@@ -12,6 +12,8 @@ author_profile: true
    This project aims to develop versatile deep learning approaches 
    employed to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy.<br><br>
+   
+   Funded by National Research Foundation (NRF).
 
 -----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
@@ -19,6 +21,8 @@ author_profile: true
        
    This project investigates the similarity of visual memory of similar tasks 
    based on machine learning-based embedding algorithms. <br><br>
+   
+   Funded by Electronics and Telecommunications Research Institute (ETRI).
 
 -----
 **Vision Intelligence based Construction Safety Management System** 

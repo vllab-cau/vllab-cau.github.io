@@ -51,7 +51,7 @@ author_profile: true
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge for task planning of a robot.
 
-   Funded by Samsung Research Funding & Incubation Center of Samsung Electronics.<br>   
+   Funded by Samsung Research Funding & Incubation Center.<br>   
 
 -----   
 ## Past Projects

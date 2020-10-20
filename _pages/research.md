@@ -32,7 +32,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing deep learning based risk-detection algorithms.
    
-   Funded by National Research Foundation (NRF-BRL). <br>
+   Funded by National Research Foundation (NRF for Basic Research Laboratory). <br>
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
@@ -53,7 +53,7 @@ author_profile: true
    by learning the hierarchy of subtask models and 
    grounding the natural language to a learned task knowledge.
 
-   Funded by Samsung Research Funding & Incubation Center of Samsung Electronics.      
+   Funded by Samsung Research Funding & Incubation Center of Samsung Electronics.<br>   
 
 -----   
 ## Past Projects

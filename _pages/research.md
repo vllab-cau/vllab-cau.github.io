@@ -49,7 +49,7 @@ author_profile: true
 <img src='/images/SRFC.png' width="300" align="left" style="margin-right:30px">
 
    This project aims to develop an object-oriented framework 
-   to learn transferable knowledge for task planning of a robot.
+   to learn transferable knowledge and task hierarchy for task planning of a robot.
 
    Funded by Samsung Research Funding & Incubation Center.<br>   
 

@@ -38,8 +38,8 @@ author_profile: true
 **Pose Estimation for Bin-Picking with a 3D Model**
 <img src='/images/pose.png' width="300" align="left" style="margin-right:30px"> 
 
-   This project develops pose estimation and instance segmentation algorithms 
-   for a bin-picking problem of a robot.   
+   This project develops deep learning based exact pose estimation and 
+   instance segmentation algorithms for a bin-picking problem of a robot.   
    
    Funded by Doosan Digital Innovation. <br> 
 

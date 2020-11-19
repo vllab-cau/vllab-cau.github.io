@@ -26,7 +26,7 @@ Research Area: Deep Learning, Continual Learning
 Email: jude0316 (at) cau.ac.kr    
 
 -----
-<img src='/images/Wonhee Cho1.PNG' width="140" align="left" style="margin-right:40px">      
+<img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">      
 **Wonhee Cho**      
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr <br><br>

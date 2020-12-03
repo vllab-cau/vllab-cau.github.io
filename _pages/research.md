@@ -64,7 +64,7 @@ author_profile: true
    autonomous cars on normal public roads in an urban environment, aimed primarily
    at individuals that currently drive their commute to and from work.
    
-   Funded by UK Research and Innovation (UKRI). <br><br>
+   Funded by UK Research and Innovation (UKRI), 2018-2019. <br><br>
   
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
@@ -73,7 +73,7 @@ author_profile: true
    This project develops on-the-fly machine learning algorithms using deep learning
    frameworks to realize personalized and environment adaptive learning.
    
-   Funded by Ministry of Science and ICT (MSIT). <br>
+   Funded by Ministry of Science and ICT (MSIT), 2017-2018. <br>
   
 -----  
 **Human-Level Lifelong Machine Learning** 
@@ -82,7 +82,7 @@ author_profile: true
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.
    
-   Funded by Ministry of Science, ICT, and Future Planning (MSIP). <br>
+   Funded by Ministry of Science, ICT, and Future Planning (MSIP), 2014-2017. <br>
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
@@ -91,7 +91,7 @@ author_profile: true
    This project develops robust non-rigid structure from motion (NRSfM) methods and
    their fundamental robust low-rank factorization algorithms.
    
-   Funded by National Research Foundation (NRF). <br><br><br>
+   Funded by National Research Foundation (NRF), 2013-2016. <br><br><br>
    
 -----   
 **Human-Centric Networked Robotics Technology** 
@@ -100,7 +100,7 @@ author_profile: true
    This project develops new methods and prototype applications for human-centric
    networked robots for seamless operations of service robots in our daily lives.
    
-   Funded by National Research Foundation (NRF). <br><br><br>
+   Funded by National Research Foundation (NRF), 2013-2016. <br><br><br>
     
   
 

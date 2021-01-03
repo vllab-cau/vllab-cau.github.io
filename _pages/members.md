@@ -70,6 +70,6 @@ Email: famer3625 (at) gmail.com
 Research Area: Deep Learning, Natural Language Processing           
 Email: 20111seowon (at) gmail.com   
 
-
+------
 ## [Former Members](https://vllab-cau.github.io/alumni/)
 

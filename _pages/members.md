@@ -70,7 +70,5 @@ Email: famer3625 (at) gmail.com
 Research Area: Deep Learning, Natural Language Processing           
 Email: 20111seowon (at) gmail.com   
 
-------  
-## Former Members   
-- Youngmu Byun (BS, 2020 Fall)
-- Yunseong Kim (BS, 2020 Spring)
+
+

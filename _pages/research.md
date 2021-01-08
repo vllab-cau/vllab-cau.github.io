@@ -34,15 +34,6 @@ author_profile: true
    
    Funded by the NRF Basic Research Laboratory Program (NRF-BRL). <br>
 
------
-**Pose Estimation for Bin-Picking with a 3D Model**
-<img src='/images/pose.png' width="300" align="left" style="margin-right:30px"> 
-
-   This project develops exact 6D pose estimation and 
-   instance segmentation algorithms for a bin-picking problem of a robot.   
-   
-   Funded by Doosan Digital Innovation. <br> 
-
 
 -----
 **Learning Transferable Task Knowledge for Social Robots**
@@ -55,7 +46,16 @@ author_profile: true
 
 -----   
 ## Past Projects
+
+-----
+**Pose Estimation for Bin-Picking with a 3D Model**
+<img src='/images/pose.png' width="300" align="left" style="margin-right:30px"> 
+
+   This project develops exact 6D pose estimation and 
+   instance segmentation algorithms for a bin-picking problem of a robot.   
    
+   Funded by Doosan Digital Innovation, 2019. <br> 
+
 -----
 **StreetWise**
 <img src='/images/streetwise3.png' width="280" align="left" style="margin-right:50px">    

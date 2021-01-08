@@ -37,7 +37,7 @@ author_profile: true
 
 -----
 **Learning Transferable Task Knowledge for Social Robots**
-<img src='/images/robot_learning2.png' width="300" align="left" style="margin-right:30px">
+<img src='/images/robot_learning.png' width="300" align="left" style="margin-right:30px">
 
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge and task hierarchy for task planning of a robot.

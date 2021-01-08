@@ -16,6 +16,15 @@ author_profile: true
    Funded by National Research Foundation (NRF).<br>
 
 -----
+**Learning Transferable Task Knowledge for Social Robots**
+<img src='/images/robot_learning.png' width="300" align="left" style="margin-right:30px">
+
+   This project aims to develop an object-oriented framework 
+   to learn transferable knowledge and task hierarchy for task planning of a robot.
+
+   Funded by Samsung Research Funding & Incubation Center.<br>   
+
+-----
 **Deep Embedding Technology for Analysis of Visual Memory Similarity** 
 <img src='/images/etri.PNG' width="280" align="left" style="margin-right:50px">       
        
@@ -34,15 +43,6 @@ author_profile: true
    
    Funded by the NRF Basic Research Laboratory Program (NRF-BRL). <br>
 
-
------
-**Learning Transferable Task Knowledge for Social Robots**
-<img src='/images/robot_learning.png' width="300" align="left" style="margin-right:30px">
-
-   This project aims to develop an object-oriented framework 
-   to learn transferable knowledge and task hierarchy for task planning of a robot.
-
-   Funded by Samsung Research Funding & Incubation Center.<br>   
 
 -----   
 ## Past Projects

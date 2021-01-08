@@ -30,7 +30,7 @@ author_profile: true
         
    This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
-   and developing machine learning based risk-detection algorithms.
+   and developing machine learning based risk-identification algorithms.
    
    Funded by the NRF Basic Research Laboratory Program (NRF-BRL). <br>
 

@@ -12,8 +12,8 @@ redirect_from:
 <img src='/images/IMG_6690_small.jpg' width="140" align="left" style="margin-right:40px">      
 
 Assistant Professor      
-[School of Computer Science and Engineering](https://cse.cau.ac.kr/main.php)        
-[Department of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en)         
+[School of Computer Science and Engineering](https://cse.cau.ac.kr/main.php){:target="_blank"}        
+[Department of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en){:target="_blank"}         
 Chung-Ang University    
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea     
 

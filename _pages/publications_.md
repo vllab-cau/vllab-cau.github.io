@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+[**Clustering-Guided Incremental Learning of Tasks**]       
+   Yoonhee Kim and Eunwoo Kim       
+   *In Proc. of the International Conference on Information Networking*, Jan. 2021.
+
+-----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       
    *IEEE Access*, vol. 8, pp. 132489-132501, July 2020.

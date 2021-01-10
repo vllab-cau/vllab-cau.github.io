@@ -13,6 +13,7 @@ redirect_from:
 
 Assistant Professor      
 School of Computer Science and Engineering        
+Department of Artificial Intelligence         
 Chung-Ang University    
 84, Heukseok-ro, Dongjak-gu       
 Seoul 06974, Republic of Korea 

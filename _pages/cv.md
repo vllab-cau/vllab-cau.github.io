@@ -13,7 +13,7 @@ redirect_from:
 
 Assistant Professor      
 [School of Computer Science and Engineering](https://cse.cau.ac.kr/main.php){:target="_blank"}        
-[Department of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en)        
+[Department of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en){:target="_blank"}            
 Chung-Ang University    
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea     
 
@@ -37,10 +37,10 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
 ## Research Experience
 * Postdoctoral Researcher - University of Oxford (2018-2019)    
-  * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/)
+  * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/){:target="_blank"}    
 
 * Postdoctoral Researcher - Seoul National Univeristy (2017-2018)
-  * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh)
+  * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh){:target="_blank"}    
   
 * Graduate Researcher - Seoul National Univeristy (2011-2017)
   * Advisor: Professor Songhwai Oh, Chong-Ho Choi

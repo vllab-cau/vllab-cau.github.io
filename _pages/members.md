@@ -34,9 +34,6 @@ M.S. Student
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr <br><br>
 
-
-------
-## Undergraduate Students  
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">      
 **Gyeonghyeon Kim**      
 Research Area: Deep Learning, Neural Architecture Search       
@@ -49,10 +46,14 @@ Research Area: Deep Learning, Multi-Task Learning
 Email: leejiho5047 (at) gmail.com      
 
 -----
-<img src='/images/Yoonhee Kim.jpg' width="140" align="left" style="margin-right:40px">       
-**Yoonhee Kim**       
-Research Area: Deep Learning, Continual Learning           
-Email: yoooni.kim2 (at) gmail.com      
+<img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">       
+**Changseong Kim**       
+Research Area: Deep Learning, Computer Vision           
+Email: kcs6568 (at) gmail.com      
+
+
+------
+## Undergraduate Students  
 
 -----
 <img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">       
@@ -67,11 +68,6 @@ Research Area: Deep Learning, Computer Vision
 Email: famer3625 (at) gmail.com   
 
 
------
-<img src='/images/Seowon Yoon.jpg' width="140" align="left" style="margin-right:40px">       
-**Seowon Yoon**       
-Research Area: Deep Learning, Natural Language Processing           
-Email: 20111seowon (at) gmail.com   
 
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)

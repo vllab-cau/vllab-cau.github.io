@@ -58,7 +58,7 @@ Research Area: Deep Learning, Computer Vision
 Email: kcs6568 (at) gmail.com      <br><br>
 
 
-------
+
 ## Undergraduate Students  
 
 -----

@@ -38,7 +38,7 @@ Email: wonhee4274 (at) cau.ac.kr <br><br>
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">      
 **Jiho Lee**       
-M.S./Ph.D. Student      
+M.S.-Ph.D. Integrated Student      
 Research Area: Deep Learning, Multi-Task Learning            
 Email: leejiho5047 (at) gmail.com      
 

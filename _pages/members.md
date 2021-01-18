@@ -67,6 +67,31 @@ Email: rominju (at) gmail.com
 Research Area: Deep Learning, Computer Vision           
 Email: famer3625 (at) gmail.com   
 
+-----
+<img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">       
+**Soyong Park**       
+Research Area: Deep Learning, Computer Vision           
+Email: psy411301 (at) gmail.com  
+
+-----
+<img src='/images/Jaehyun Shin.jpg' width="140" align="left" style="margin-right:40px">       
+**Jaehyun Shin**       
+Research Area: Deep Learning, Computer Vision           
+Email: skwent77 (at) gmail.com  
+
+-----
+<img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">       
+**Hayun Lee**       
+Research Area: Deep Learning, Computer Vision           
+Email: hayun0406 (at) gmail.com  
+
+
+-----
+<img src='/images/Jaewook Lee.jpg' width="140" align="left" style="margin-right:40px">       
+**Jaewook Lee**       
+Research Area: Deep Learning, Computer Vision           
+Email: wodnr079 (at) gmail.com  
+
 
 
 ------

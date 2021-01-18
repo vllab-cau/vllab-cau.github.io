@@ -34,20 +34,25 @@ M.S. Student
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr <br><br>
 
+
+-----
+<img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">      
+**Jiho Lee**       
+M.S./Ph.D. Student      
+Research Area: Deep Learning, Multi-Task Learning            
+Email: leejiho5047 (at) gmail.com      
+
+
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">      
 **Gyeonghyeon Kim**      
+M.S. Student       
 Research Area: Deep Learning, Neural Architecture Search       
 Email: leonardkkh (at) gmail.com     
 
 -----
-<img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">      
-**Jiho Lee**        
-Research Area: Deep Learning, Multi-Task Learning            
-Email: leejiho5047 (at) gmail.com      
-
------
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">       
-**Changseong Kim**       
+**Changseong Kim**      
+M.S. Student   
 Research Area: Deep Learning, Computer Vision           
 Email: kcs6568 (at) gmail.com      
 

@@ -83,7 +83,7 @@ Email: skwent77 (at) gmail.com
 <img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">       
 **Hayun Lee**       
 Research Area: Deep Learning, Computer Vision           
-Email: hayun0406 (at) gmail.com  
+Email: hayun0406 (at) cau.ac.kr
 
 
 -----

@@ -32,8 +32,7 @@ Email: jude0316 (at) cau.ac.kr
 **Wonhee Cho**  
 M.S. Student      
 Research Area: Deep Learning, Few-Shot Learning        
-Email: wonhee4274 (at) cau.ac.kr <br><br>
-
+Email: wonhee4274 (at) cau.ac.kr 
 
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">      
@@ -56,7 +55,7 @@ Email: leonardkkh (at) gmail.com
 **Changseong Kim**      
 M.S. Student   
 Research Area: Deep Learning, Computer Vision           
-Email: kcs6568 (at) gmail.com      
+Email: kcs6568 (at) gmail.com      <br><br>
 
 
 ------

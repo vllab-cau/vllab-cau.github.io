@@ -80,12 +80,6 @@ Research Area: Deep Learning, Computer Vision
 Email: psy411301 (at) gmail.com  
 
 -----
-<img src='/images/Jaehyun Shin.jpg' width="140" align="left" style="margin-right:40px">       
-**Jaehyun Shin**       
-Research Area: Deep Learning, Computer Vision           
-Email: skwent77 (at) gmail.com  
-
------
 <img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">       
 **Hayun Lee**       
 Research Area: Deep Learning, Robotics           
@@ -106,6 +100,11 @@ Research Area: Deep Learning, Computer Vision
 Email: sunghyun772 (at) gmail.com  
 
 
+-----
+<img src='/images/Hyunsoo Kim.jpg' width="140" align="left" style="margin-right:40px">       
+**Hyunsoo Kim**       
+Research Area: Deep Learning, Computer Vision           
+Email: hyunsooklm961019 (at) gmail.com  
 
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)

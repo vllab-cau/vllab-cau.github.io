@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Vision and Learning Laboratory @ CAU"
+title: ""
 excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Vision and Learning Laboratory @ CAU    
 
 The laboratory was formed in Sep. 2019 and is led by Prof. Eunwoo Kim.  
 

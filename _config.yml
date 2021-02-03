@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vision and Learning Lab"
+title                    : "Vision and Learning Lab @ CAU"
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"

@@ -39,7 +39,7 @@ Email: wonhee4274 (at) cau.ac.kr
 **Jiho Lee**       
 M.S.-Ph.D. Integrated Student      
 Research Area: Deep Learning, Neural Architecture Search                
-Email: leejiho5047 (at) gmail.com      
+Email: j2hoooo (at) cau.ac.krm      
 
 
 -----
@@ -47,7 +47,7 @@ Email: leejiho5047 (at) gmail.com
 **Gyeonghyeon Kim**      
 M.S. Student       
 Research Area: Deep Learning, Neural Architecture Search       
-Email: leonardkkh (at) gmail.com     
+Email: leonardkkh (at) cau.ac.kr     
 
 
 -----

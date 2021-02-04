@@ -54,7 +54,7 @@ author_profile: true
    This project develops exact 6D pose estimation and 
    instance segmentation algorithms for a bin-picking problem of a robot.   
    
-   Funded by Doosan Digital Innovation, 2019. <br> 
+   Funded by Doosan Digital Innovation, 2020. <br> 
 
 -----
 **StreetWise**

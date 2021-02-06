@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-**Clustering-Guided Incremental Learning of Tasks**       
+**[Clustering-Guided Incremental Learning of Tasks](https://ieeexplore.ieee.org/abstract/document/9334003)**       
    Yoonhee Kim and Eunwoo Kim       
    *In Proc. of the IEEE International Conference on Information Networking*, Jan. 2021.
 

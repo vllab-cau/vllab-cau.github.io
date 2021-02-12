@@ -80,7 +80,7 @@ author_profile: true
 -----
 [**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**](https://ieeexplore.ieee.org/document/6943184)       
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh       
-   * In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep 2014.
+   *In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep 2014.
 
 -----
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       

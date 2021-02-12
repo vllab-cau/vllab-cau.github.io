@@ -76,7 +76,13 @@ author_profile: true
 [**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method**](https://ieeexplore.ieee.org/abstract/document/6784021)       
    Eunwoo Kim, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
-   
+
+-----
+[**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**]
+(https://ieeexplore.ieee.org/document/6943184)
+   Eunwoo Kim, Sungjoon Choi, and Songhwai Oh       
+   * In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS), Sep 2014.
+
 -----
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
    Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      

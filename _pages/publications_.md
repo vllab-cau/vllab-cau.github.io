@@ -78,7 +78,7 @@ author_profile: true
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
 
 -----
-[**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**](https://ieeexplore.ieee.org/document/6943184)
+[**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**](https://ieeexplore.ieee.org/document/6943184)       
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh       
    * In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS), Sep 2014.
 

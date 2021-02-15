@@ -25,10 +25,10 @@ author_profile: true
    Funded by Samsung Research Funding & Incubation Center.<br>   
 
 -----
-**Deep Embedding Technology for Analysis of Visual Memory Similarity** 
+**Deep Embedding Technology for Incremental Learning of Tasks** 
 <img src='/images/etri.PNG' width="280" align="left" style="margin-right:50px">       
        
-   This project investigates the similarity of visual memory of similar tasks 
+   This project investigates the similarity from visual memory of sequential tasks 
    based on machine learning-based embedding algorithms. 
    
    Funded by Electronics and Telecommunications Research Institute (ETRI). <br>

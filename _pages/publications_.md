@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**       
+   Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
+   *Neurocomputing*, 2021. (Accepted)
+
+-----
 **[Clustering-Guided Incremental Learning of Tasks](https://ieeexplore.ieee.org/abstract/document/9334003)**       
    Yoonhee Kim and Eunwoo Kim       
    *In Proc. of the IEEE International Conference on Information Networking*, Jan. 2021.

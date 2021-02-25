@@ -55,7 +55,7 @@ Email: leonardkkh (at) cau.ac.kr
 **Changseong Kim**      
 M.S. Student   
 Research Area: Deep Learning, Computer Vision           
-Email: kcs6568 (at) gmail.com      <br><br>
+Email: kcs6568 (at) cau.ac.kr      <br><br>
 
 
 

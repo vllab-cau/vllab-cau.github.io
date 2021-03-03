@@ -40,7 +40,7 @@ author_profile: true
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 
    
-   Funded by Samsung SDS (in collobaration with SDS AI center). <br>
+   Funded by Samsung SDS (in collobaration with Samsung SDS AI Center). <br>
 
 
 -----

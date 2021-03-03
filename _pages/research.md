@@ -23,7 +23,7 @@ author_profile: true
    to learn transferable knowledge and task hierarchy for task planning of a robot.
 
    Funded by Samsung Research Funding & Incubation Center     
-   (in collaboration with KIST). <br>   
+   (joint work with KIST). <br>   
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
@@ -41,7 +41,7 @@ author_profile: true
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 
    
-   Funded by Samsung SDS (in collobaration with Samsung SDS AI Research Center). <br>
+   Funded by Samsung SDS (joint research). <br>
 
 
 -----

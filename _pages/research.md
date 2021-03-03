@@ -27,7 +27,7 @@ author_profile: true
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
-<img src='/images/etri.PNG' width="300" align="left" style="margin-right:50px">       
+<img src='/images/etri.PNG' width="300" align="left" style="margin-right:30px">       
        
    This project investigates the similarity from visual memory of sequential tasks 
    based on machine learning-based embedding algorithms. 

@@ -34,6 +34,15 @@ author_profile: true
    Funded by Electronics and Telecommunications Research Institute (ETRI). <br>
 
 -----
+**Customized Neural Architecture Search and Proposal**
+<img src='/images/nas.PNG' width="280" align="left" style="margin-right:50px">       
+       
+   This project aims to develop customized neural architecture search technology for visual tasks. 
+   
+   Funded by Samsung SDS. <br>
+
+
+-----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="280" align="left" style="margin-right:50px">        
         

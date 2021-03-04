@@ -7,7 +7,7 @@ author_profile: true
 ## Professor
 <img src='/images/IMG_6690_small.jpg' width="140" align="left" style="margin-right:40px">
 **[Eunwoo Kim](https://vllab-cau.github.io/members/professor/)**, Ph.D.    
-School of CSE / Department of AI       
+School of CSE / Graduate School of AI       
 Chung-Ang University         
 Office: Building 208, Room 508   
 Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk   

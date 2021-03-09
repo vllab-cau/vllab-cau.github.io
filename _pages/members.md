@@ -21,21 +21,21 @@ Research Area: Deep Learning, Multi-Task Learning
 Email: lolmn55 (at) cau.ac.kr    
 
 -----
-<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin**    
 M.S. Student      
 Research Area: Deep Learning, Continual Learning       
 Email: jude0316 (at) cau.ac.kr    
 
 -----
-<img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">      
+<img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
 **Wonhee Cho**  
 M.S. Student      
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr 
 
 -----
-<img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **Jiho Lee**       
 M.S.-Ph.D. Integrated Student      
 Research Area: Deep Learning, Neural Architecture Search                
@@ -43,7 +43,7 @@ Email: j2hoooo (at) cau.ac.kr
 
 
 -----
-<img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim**      
 M.S. Student       
 Research Area: Deep Learning, Neural Architecture Search       
@@ -51,7 +51,7 @@ Email: leonardkkh (at) cau.ac.kr
 
 
 -----
-<img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">       
+<img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
 M.S. Student   
 Research Area: Deep Learning, Computer Vision           

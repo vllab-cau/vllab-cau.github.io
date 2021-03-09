@@ -14,7 +14,7 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 
 -----
 ## Graduate Students
-<img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">      
+<img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">
 **Soyeon Park**      
 M.S. Student      
 Research Area: Deep Learning, Multi-Task Learning       

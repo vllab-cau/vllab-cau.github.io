@@ -62,46 +62,46 @@ Email: kcs6568 (at) cau.ac.kr      <br><br>
 ## Undergraduate Students  
 
 -----
-<img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">
+<img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">      
 **Minju Ro**       
 Research Area: Deep Learning, Computer Vision           
 Email: rominju (at) gmail.com   
 
 -----
-<img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">      
 **Sehwan Joo**       
 Research Area: Deep Learning, Computer Vision           
 Email: famer3625 (at) gmail.com   
 
 -----
-<img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
 **Soyong Park**       
 Research Area: Deep Learning, Computer Vision           
 Email: psy411301 (at) gmail.com  
 
 -----
-<img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">      
 **Hayun Lee**       
 Research Area: Deep Learning, Robotics           
 Email: hayun0406 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Jaewook Lee.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Jaewook Lee.jpg' width="140" align="left" style="margin-right:40px">      
 **Jaewook Lee**       
 Research Area: Deep Learning, Computer Vision           
 Email: wodnr079 (at) gmail.com  
 
 
 -----
-<img src='/images/Myunghyun Sung.jpg' width="140" align="left" style="margin-right:40px"> 
+<img src='/images/Myunghyun Sung.jpg' width="140" align="left" style="margin-right:40px">      
 **Myunghyun Sung**       
 Research Area: Deep Learning, Computer Vision           
 Email: sunghyun772 (at) gmail.com  
 
 
 -----
-<img src='/images/Hyunsoo Kim.jpg' width="140" align="left" style="margin-right:40px"> 
+<img src='/images/Hyunsoo Kim.jpg' width="140" align="left" style="margin-right:40px">      
 **Hyunsoo Kim**       
 Research Area: Deep Learning, Computer Vision           
 Email: hyunsooklm961019 (at) gmail.com  

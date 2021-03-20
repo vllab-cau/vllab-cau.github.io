@@ -50,28 +50,28 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
 
 ## Awards and Honors
-* NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019
-* Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017
-* Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017
-* Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016
-* Microsoft Autonomous Mobile Robot Navigation Contest, Microsoft, 2014
-* Distinguished Master’s Dissertation Award, EECS, Seoul National University, 2013
-* Full Funded Scholarship, Samsung, 2011-2015
+* NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019.
+* Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017.
+* Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017.
+* Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016.
+* Microsoft Autonomous Mobile Robot Navigation Contest, Microsoft, 2014.
+* Distinguished Master’s Dissertation Award, EECS, Seoul National University, 2013.
+* Full Funded Scholarship, Samsung, 2011-2015.
 
 
 ## Professional Activities
 **Technical Program Committee Member**
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2021
-* IEEE International Conference on Computer Vision (ICCV) 2017-2021
-* European Conference on Computer Vision (ECCV) 2020
-* Neural Information Processing Systems (NeurIPS) 2016-2020
-* International Conference on Machine Learning (ICML) 2019
-* International Conference on Learning Representations (ICLR) 2021
-* AAAI Conference on Artificial Intelligence (AAAI) 2021
-* British Machine Vision Conference (BMVC) 2019-2020
-* IEEE International Conference on Intelligent Robots and Systems (IROS) 2019
-* ICCV Workshop on Robust Subspace Learning and Computer Vision 2017-2019
-* IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems 2017
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2021.
+* IEEE International Conference on Computer Vision (ICCV) 2017-2021.
+* European Conference on Computer Vision (ECCV) 2020.
+* Neural Information Processing Systems (NeurIPS) 2016-2020.
+* International Conference on Machine Learning (ICML) 2019.
+* International Conference on Learning Representations (ICLR) 2021.
+* AAAI Conference on Artificial Intelligence (AAAI) 2021.
+* British Machine Vision Conference (BMVC) 2019-2020.
+* IEEE International Conference on Intelligent Robots and Systems (IROS) 2019.
+* ICCV Workshop on Robust Subspace Learning and Computer Vision 2017-2019.
+* IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems 2017.
 
 **Reviewer**
 * IEEE Transactions on Image Processing 

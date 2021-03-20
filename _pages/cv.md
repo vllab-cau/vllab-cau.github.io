@@ -36,13 +36,13 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * [List of Projects](https://vllab-cau.github.io/research/) 
 
 ## Research Experience
-* Postdoctoral Researcher - University of Oxford (2018-2019)    
+* Postdoctoral Researcher - University of Oxford, 2018-2019.    
   * Advisor: Professor [Philip H.S. Torr](http://www.robots.ox.ac.uk/~phst/){:target="_blank"}    
 
-* Postdoctoral Researcher - Seoul National Univeristy (2017-2018)
+* Postdoctoral Researcher - Seoul National Univeristy, 2017-2018.
   * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/people/songhwai-oh){:target="_blank"}    
   
-* Graduate Researcher - Seoul National Univeristy (2011-2017)
+* Graduate Researcher - Seoul National Univeristy, 2011-2017.
   * Advisor: Professor Songhwai Oh, Chong-Ho Choi
 
 ## Publications

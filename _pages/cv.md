@@ -86,7 +86,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
   
 ## Teaching
-* (Spring 2021) Algorithms
-* (Fall 2020) Discrete Mathematics, Advanced AI (Graduate Course)
-* (Spring 2020) Algorithms
-* (Fall 2019) Discrete Mathematics, Programming
+* (2021 Spring) Algorithms
+* (2020 Fall) Discrete Mathematics, Advanced AI (Graduate Course)
+* (2020 Spring) Algorithms
+* (2019 Fall) Discrete Mathematics, Programming

@@ -44,7 +44,11 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
   
 * Graduate Researcher - Seoul National Univeristy (2011-2017)
   * Advisor: Professor Songhwai Oh, Chong-Ho Choi
-   
+
+## Publications
+* [List of Publications](https://vllab.cau.ac.kr/publications/) 
+
+
 ## Awards and Honors
 * NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019
 * Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017

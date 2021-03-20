@@ -34,12 +34,12 @@ author_profile: true
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
    Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2019.
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2019.
    
 -----
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh      
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun. 2018.   
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2018.   
    (Spotlight Presentation)   
    
 -----
@@ -65,7 +65,7 @@ author_profile: true
 -----
 [**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Jun.  2015.
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June  2015.
 
 -----
 [**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       

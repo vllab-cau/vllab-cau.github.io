@@ -23,7 +23,7 @@ author_profile: true
    to learn transferable knowledge and task hierarchy for task planning of a robot.
 
    Funded by Samsung Research Funding & Incubation Center     
-   (joint work with KIST). <br>   
+   (joint research with KIST). <br>   
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 

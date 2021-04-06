@@ -78,10 +78,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * IEEE Transactions on Neural Networks and Learning Systems  
 * IEEE Journal of Selected Topics in Signal Processing 
 * IEEE Transactions on Robotics 
-* IEEE Access 
 * Automation in Construction
-* Sensors 
-* Applied Sciences 
 * Applied Soft Computing 
 
   

@@ -17,7 +17,7 @@ We engage in research to explore methods that understand and learn any intellect
 Our research interests include machine learning, deep learning, automated machine learning, multi-task learning, lifelong learning, subspace learning, and their applications to computer vision and robotics, but not limited to.
 
 
-**Openings**
+**Openings**      
 VLLAB has a couple of open graduate student positions and a postdoc position.       
 VLLAB also has multiple open undergraduate intern positions every semester.       
 Please contact Prof. Kim with your CV if you are interested in working with our group.

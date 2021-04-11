@@ -18,6 +18,6 @@ Our research interests include machine learning, deep learning, automated machin
 
 
 **Openings**     
-VLLAB has a couple of open graduate student positions and a postdoc position.       
-VLLAB also has multiple open undergraduate intern positions every semester.       
-Please contact Prof. Kim with your CV if you are interested in working with our group.
+- VLLAB has a couple of open graduate student positions and a postdoc position.       
+- VLLAB also has multiple open undergraduate intern positions every semester.       
+- Please contact Prof. Kim with your CV if you are interested in working with our group.

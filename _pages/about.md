@@ -18,6 +18,6 @@ Our research interests include machine learning, deep learning, automated machin
 
 
 **Openings**     
-VLLAB currently has a couple of open graduate student (M.S./Ph.D./M.S.-Ph.D. integrated) positions and a Postdoc position.       
+VLLAB has a couple of open graduate student (M.S./Ph.D./M.S.-Ph.D. integrated) positions and a Postdoc position.       
 VLLAB also has multiple open undergraduate intern positions every semester.       
 Please contact Prof. Kim (eunwoo@cau.ac.kr) if you are interested in working with our group.

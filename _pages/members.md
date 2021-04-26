@@ -37,7 +37,7 @@ Email: wonhee4274 (at) cau.ac.kr
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **Jiho Lee**       
-M.S.-Ph.D. Integrated Student (CSE)      
+M.S.-Ph.D. Integrated Student at CSE      
 Research Area: Deep Learning, Neural Architecture Search                
 Email: j2hoooo (at) cau.ac.kr
 
@@ -45,7 +45,7 @@ Email: j2hoooo (at) cau.ac.kr
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim**      
-M.S. Student (CSE)       
+M.S. Student at CSE       
 Research Area: Deep Learning, Neural Architecture Search       
 Email: leonardkkh (at) cau.ac.kr
 
@@ -53,7 +53,7 @@ Email: leonardkkh (at) cau.ac.kr
 -----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
-M.S. Student (AI)   
+M.S. Student at AIGS   
 Research Area: Deep Learning, Computer Vision           
 Email: kcs6568 (at) cau.ac.kr      <br><br>
 

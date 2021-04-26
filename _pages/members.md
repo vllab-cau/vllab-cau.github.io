@@ -75,7 +75,7 @@ Email: famer3625 (at) gmail.com
 
 -----
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
-**Soyong Park**       
+**Soyoung Park**       
 Research Area: Deep Learning, Computer Vision           
 Email: psy411301 (at) gmail.com  
 

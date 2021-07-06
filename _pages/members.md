@@ -54,7 +54,7 @@ Email: leonardkkh (at) cau.ac.kr
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
 M.S. Student at AIGS   
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Human Pose Estimation           
 Email: kcs6568 (at) cau.ac.kr      <br><br>
 
 

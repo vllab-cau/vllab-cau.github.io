@@ -87,11 +87,17 @@ Email: hayun0406 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Jaewook Lee.jpg' width="140" align="left" style="margin-right:40px">      
-**Jaewook Lee**       
+<img src='/images/Bolim Lee.jpg' width="140" align="left" style="margin-right:40px">      
+**Bolim Lee**       
 Research Area: Deep Learning, Computer Vision           
-Email: wodnr079 (at) gmail.com  
+Email: leebolim0701 (at) cau.ac.kr  
 
+
+-----
+<img src='/images/Gyeongbin Han.jpg' width="140" align="left" style="margin-right:40px">      
+**Gyeongbin Han**       
+Research Area: Deep Learning, Computer Vision           
+Email: gangbean (at) cau.ac.kr
 
 
 ------

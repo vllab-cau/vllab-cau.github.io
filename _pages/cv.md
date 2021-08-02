@@ -61,7 +61,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
 ## Professional Activities
 **Technical Program Committee Member**
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019-2021.
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019-2022.
 * IEEE International Conference on Computer Vision (ICCV), 2017-2021.
 * European Conference on Computer Vision (ECCV), 2020.
 * Neural Information Processing Systems (NeurIPS), 2016-2021.

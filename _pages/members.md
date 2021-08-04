@@ -55,7 +55,7 @@ Email: leonardkkh (at) cau.ac.kr
 **Changseong Kim**      
 M.S. Student at AIGS   
 Research Area: Deep Learning, Human Pose Estimation           
-Email: kcs6568 (at) cau.ac.kr      <br><br>
+Email: kcs6568 (at) cau.ac.kr      
 
 
 -----
@@ -63,7 +63,7 @@ Email: kcs6568 (at) cau.ac.kr      <br><br>
 **Kiseong Hong**      
 M.S. Student at AIGS   
 Research Area: Deep Learning, Computer Vision           
-Email: kiseong0753 (at) gmail.com      <br><br>
+Email: kiseong0753 (at) gmail.com      
 
 
 -----
@@ -71,7 +71,7 @@ Email: kiseong0753 (at) gmail.com      <br><br>
 **Chanjong Park**      
 M.S. Student at AIGS   
 Research Area: Deep Learning, Computer Vision           
-Email: cjpark0309 (at) gmail.com      <br><br>
+Email: cjpark0309 (at) gmail.com      
 
 
 -----

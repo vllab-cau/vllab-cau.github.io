@@ -61,7 +61,7 @@ Email: kcs6568 (at) cau.ac.kr
 -----
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Kiseong Hong**      
-M.S. Student at AIGS   
+M.S.-Ph.D. Integrated Student at AIGS   
 Research Area: Deep Learning, Computer Vision           
 Email: kiseong0753 (at) gmail.com      
 

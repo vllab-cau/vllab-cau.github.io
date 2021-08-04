@@ -58,6 +58,31 @@ Research Area: Deep Learning, Human Pose Estimation
 Email: kcs6568 (at) cau.ac.kr      <br><br>
 
 
+-----
+<img src='/images/Kiseong Hong.png' width="140" align="left" style="margin-right:40px">
+**Kiseong Hong**      
+M.S. Student at AIGS   
+Research Area: Deep Learning, Computer Vision           
+Email: kiseong0753 (at) gmail.com      <br><br>
+
+
+-----
+<img src='/images/Chanjong Park.png' width="140" align="left" style="margin-right:40px">
+**Chanjong Park**      
+M.S. Student at AIGS   
+Research Area: Deep Learning, Computer Vision           
+Email: cjpark0309 (at) gmail.com      <br><br>
+
+
+-----
+<img src='/images/Sujin Choi.png' width="140" align="left" style="margin-right:40px">
+**Sujin Choi**      
+M.S. Student at AIGS   
+Research Area: Deep Learning, Computer Vision           
+Email: popo981013 (at) gmail.com      <br><br>
+
+
+
 
 ## Undergraduate Students  
 

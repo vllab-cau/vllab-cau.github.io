@@ -63,7 +63,7 @@ Email: kcs6568 (at) cau.ac.kr
 **Kiseong Hong**      
 M.S.-Ph.D. Integrated Student at AI   
 Research Area: Deep Learning, Computer Vision           
-Email: kiseong0753 (at) gmail.com      
+Email: ghdrltjd (at) cau.ac.kr      
 
 
 -----
@@ -71,7 +71,7 @@ Email: kiseong0753 (at) gmail.com
 **Chanjong Park**      
 M.S. Student at AI   
 Research Area: Deep Learning, Computer Vision           
-Email: cjpark0309 (at) gmail.com      
+Email: cjpark137 (at) cau.ac.kr      
 
 
 -----
@@ -79,7 +79,7 @@ Email: cjpark0309 (at) gmail.com
 **Sujin Choi**      
 M.S. Student at AI   
 Research Area: Deep Learning, Computer Vision           
-Email: popo981013 (at) gmail.com      <br><br>
+Email: popo1013 (at) cau.ac.kr      <br><br>
 
 
 

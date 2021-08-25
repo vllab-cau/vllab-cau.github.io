@@ -125,6 +125,14 @@ Research Area: Deep Learning, Computer Vision
 Email: gangbean (at) cau.ac.kr
 
 
+-----
+<img src='/images/Suhyun Shin.jpg' width="140" align="left" style="margin-right:40px">      
+**Suhyun Shin**       
+Research Area: Deep Learning, Computer Vision           
+Email: shinsuhyun1210 (at) gmail.com
+
+
+
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)
 

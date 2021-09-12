@@ -92,11 +92,6 @@ Email: popo1013 (at) cau.ac.kr      <br><br>
 Research Area: Deep Learning, Computer Vision           
 Email: rominju (at) gmail.com   
 
------
-<img src='/images/Sehwan Joo.jpg' width="140" align="left" style="margin-right:40px">      
-**Sehwan Joo**       
-Research Area: Deep Learning, Computer Vision           
-Email: famer3625 (at) gmail.com   
 
 -----
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      

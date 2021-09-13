@@ -87,13 +87,6 @@ Email: popo1013 (at) cau.ac.kr      <br><br>
 ## Undergraduate Students  
 
 -----
-<img src='/images/Minju Ro.png' width="140" align="left" style="margin-right:40px">      
-**Minju Ro**       
-Research Area: Deep Learning, Computer Vision           
-Email: rominju (at) gmail.com   
-
-
------
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
 **Soyoung Park**       
 Research Area: Deep Learning, Computer Vision           

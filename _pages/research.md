@@ -43,6 +43,11 @@ author_profile: true
    Funded by Samsung SDS (joint research). <br>
 
 
+
+-----   
+## Past Projects
+
+
 -----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="280" align="left" style="margin-right:50px">        
@@ -52,10 +57,7 @@ author_profile: true
    and developing machine learning based risk-identification algorithms.
    
    Funded by the NRF Basic Research Laboratory Program (NRF-BRL). <br>
-
-
------   
-## Past Projects
+   
 
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**

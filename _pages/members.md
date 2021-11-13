@@ -16,28 +16,28 @@ Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk
 ## Graduate Students
 <img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">
 **Soyeon Park**      
-M.S. Student at CSE     
+M.S. Student
 Research Area: Deep Learning, Multi-Task Learning       
 Email: lolmn55 (at) cau.ac.kr    
 
 -----
 <img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin**    
-M.S. Student at CSE      
+M.S. Student
 Research Area: Deep Learning, Continual Learning       
 Email: jude0316 (at) cau.ac.kr    
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
 **Wonhee Cho**  
-M.S. Student at CSE      
+M.S. Student
 Research Area: Deep Learning, Few-Shot Learning        
 Email: wonhee4274 (at) cau.ac.kr 
 
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **Jiho Lee**       
-M.S.-Ph.D. Integrated Student at CSE      
+M.S.-Ph.D. Integrated Student
 Research Area: Neural Architecture Search, Robotics                
 Email: j2hoooo (at) cau.ac.kr
 
@@ -45,7 +45,7 @@ Email: j2hoooo (at) cau.ac.kr
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim**      
-M.S. Student at CSE       
+M.S. Student
 Research Area: Neural Architecture Search, Computer Vision       
 Email: leonardkkh (at) cau.ac.kr
 
@@ -53,7 +53,7 @@ Email: leonardkkh (at) cau.ac.kr
 -----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
-M.S. Student at AI   
+M.S. Student
 Research Area: Deep Learning, Human Pose Estimation           
 Email: kcs6568 (at) cau.ac.kr      
 
@@ -61,7 +61,7 @@ Email: kcs6568 (at) cau.ac.kr
 -----
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Kiseong Hong**      
-M.S.-Ph.D. Integrated Student at AI   
+M.S.-Ph.D. Integrated Student
 Research Area: Deep Learning, Computer Vision           
 Email: ghdrltjd (at) cau.ac.kr      
 
@@ -69,7 +69,7 @@ Email: ghdrltjd (at) cau.ac.kr
 -----
 <img src='/images/Chanjong Park.jpg' width="140" align="left" style="margin-right:40px">
 **Chanjong Park**      
-M.S. Student at AI   
+M.S. Student
 Research Area: Deep Learning, Computer Vision           
 Email: cjpark137 (at) cau.ac.kr      
 
@@ -77,7 +77,7 @@ Email: cjpark137 (at) cau.ac.kr
 -----
 <img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
 **Sujin Choi**      
-M.S. Student at AI   
+M.S. Student
 Research Area: Deep Learning, Computer Vision           
 Email: popo1013 (at) cau.ac.kr      <br><br>
 

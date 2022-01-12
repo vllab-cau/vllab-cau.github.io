@@ -10,7 +10,7 @@ author_profile: true
 School of CSE / Graduate School of AI       
 Chung-Ang University         
 Office: Building 208, Room 508   
-Email: eunwoo (at) cau.ac.kr / ekim (at) robots.ox.ac.uk   
+Email: eunwoo (at) cau.ac.kr   
 
 -----
 ## Graduate Students

@@ -79,14 +79,14 @@ Email: cjpark137 (at) cau.ac.kr
 **Sujin Choi**      
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: popo1013 (at) cau.ac.kr      <br><br>
+Email: popo1013 (at) cau.ac.kr      
 
 
 -----
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
 **Soyoung Park**       
 Research Area: Deep Learning, Computer Vision           
-Email: psy411301 (at) gmail.com  
+Email: psy411301 (at) gmail.com   <br><br>
 
 
 

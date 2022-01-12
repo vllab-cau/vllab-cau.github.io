@@ -82,21 +82,15 @@ Research Area: Deep Learning, Computer Vision
 Email: popo1013 (at) cau.ac.kr      <br><br>
 
 
-
-
-## Undergraduate Students  
-
 -----
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
 **Soyoung Park**       
 Research Area: Deep Learning, Computer Vision           
 Email: psy411301 (at) gmail.com  
 
------
-<img src='/images/Hayun Lee.jpg' width="140" align="left" style="margin-right:40px">      
-**Hayun Lee**       
-Research Area: Deep Learning, Robotics           
-Email: hayun0406 (at) cau.ac.kr
+
+
+## Undergraduate Students  
 
 
 -----
@@ -107,18 +101,24 @@ Email: leebolim0701 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Gyeongbin Han.jpg' width="140" align="left" style="margin-right:40px">      
-**Gyeongbin Han**       
-Research Area: Deep Learning, Computer Vision           
-Email: gangbean (at) cau.ac.kr
-
-
------
 <img src='/images/Suhyun Shin.jpg' width="140" align="left" style="margin-right:40px">      
 **Suhyun Shin**       
 Research Area: Deep Learning, Computer Vision           
 Email: shinsuhyun1210 (at) gmail.com
 
+
+-----
+<img src='/images/Younggwang Park.jpg' width="140" align="left" style="margin-right:40px">      
+**Younggwang Park**       
+Research Area: Deep Learning, Computer Vision           
+Email: yg0585 (at) naver.com
+
+
+-----
+<img src='/images/Jonguk Han.jpg' width="140" align="left" style="margin-right:40px">      
+**Jonguk Han**       
+Research Area: Deep Learning, Computer Vision           
+Email: xb253q (at) gmail.com
 
 
 ------

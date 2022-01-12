@@ -84,7 +84,8 @@ Email: popo1013 (at) cau.ac.kr
 
 -----
 <img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">      
-**Soyoung Park**       
+**Soyoung Park**  
+M.S. Student      
 Research Area: Deep Learning, Computer Vision           
 Email: psy411301 (at) gmail.com   <br><br>
 

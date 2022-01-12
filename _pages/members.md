@@ -54,7 +54,7 @@ Email: leonardkkh (at) cau.ac.kr
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
 M.S. Student      
-Research Area: Deep Learning, Human Pose Estimation           
+Research Area: Deep Learning, Continual Learning           
 Email: kcs6568 (at) cau.ac.kr      
 
 
@@ -70,7 +70,7 @@ Email: ghdrltjd (at) cau.ac.kr
 <img src='/images/Chanjong Park.jpg' width="140" align="left" style="margin-right:40px">
 **Chanjong Park**      
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Model Optimization           
 Email: cjpark137 (at) cau.ac.kr      
 
 
@@ -78,7 +78,7 @@ Email: cjpark137 (at) cau.ac.kr
 <img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
 **Sujin Choi**      
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Multi-Task Learning           
 Email: popo1013 (at) cau.ac.kr      
 
 

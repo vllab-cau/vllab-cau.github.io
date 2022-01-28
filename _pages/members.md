@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 ## Professor
-<img src='/images/IMG_6690_small.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Eunwoo Kim.jpg' width="140" align="left" style="margin-right:40px">
 **[Eunwoo Kim](https://vllab-cau.github.io/members/professor/)**, Ph.D.    
 School of CSE / Graduate School of AI       
 Chung-Ang University         

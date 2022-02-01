@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Eunwoo Kim, Ph.D.
+# Eunwoo Kim, Ph.D.     
 
 <img src='/images/Eunwoo Kim.jpg' width="200" align="left" style="margin-right:40px">      
 

@@ -12,6 +12,7 @@ redirect_from:
 ------
 <img src='/images/Eunwoo Kim.jpg' width="200" align="left" style="margin-right:40px">
 
+------
 Assistant Professor      
 [School of Computer Science and Engineering](https://cse.cau.ac.kr/eng/main.php){:target="_blank"}        
 [Graduate School of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en){:target="_blank"}            

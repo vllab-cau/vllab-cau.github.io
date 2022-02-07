@@ -4,7 +4,7 @@ title: "Contact Information"
 permalink: /contact/
 author_profile: True
 ---
-**Vision and Learning Laboratory**      
+**VISION & LEARNING LABORATORY**      
 Building 208 Room 312/315     
 School of Computer Science and Engineering    
 Chung-Ang University  

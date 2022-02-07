@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+[**Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9695483)       
+   Hyundong Jin, Kimin Yun, and Eunwoo Kim       
+   *IEEE Access*, 2022.
+
+-----
 [**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
    *Neurocomputing*, vol. 442, pp. 116-124, June 2021.

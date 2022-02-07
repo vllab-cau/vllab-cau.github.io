@@ -21,5 +21,5 @@ TBA
 * Seowon Yoon (2020 July - 2020 Dec)
 * Youngmu Byun (2020 July - 2020 Oct)
 * Kyeonghyeon Kim (2020 Jan - 2021 Dec)
-* Jiho Lee (2020 Jan - 2021 Dec)
-* Yoonhee Kim (2020 Jan - 2021 Dec)
+* Jiho Lee (2020.01-2021.12)
+* Yoonhee Kim (2020.01-2021.12)

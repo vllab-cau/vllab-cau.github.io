@@ -14,18 +14,28 @@ Email: eunwoo (at) cau.ac.kr
 
 -----
 ## Graduate Students
+<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
+**Hyundong Jin**     
+Ph.D. Student       
+Research Area: Deep Learning, Continual Learning       
+Email: jude0316 (at) cau.ac.kr    
+
+
+-----
+<img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
+**Jung Kyoo Shin**      
+Ph.D. Student       
+Research Area: Deep Learning, Computer Vision       
+Email: wjdrb293950 (at) gmail.com      
+
+
+-----
 <img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">
 **Soyeon Park**      
 M.S. Student       
 Research Area: Deep Learning, Multi-Task Learning       
 Email: lolmn55 (at) cau.ac.kr    
 
------
-<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
-**Hyundong Jin**     
-M.S. Student       
-Research Area: Deep Learning, Continual Learning       
-Email: jude0316 (at) cau.ac.kr    
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
@@ -83,11 +93,11 @@ Email: popo1013 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Soyong Park.jpg' width="140" align="left" style="margin-right:40px">
-**Soyoung Park**  
+<img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
+**Sejun Hong**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: psy411301 (at) cau.ac.kr   <br><br>
+Email: hsejun37 (at) gmail.com   <br><br>
 
 
 

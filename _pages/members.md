@@ -23,7 +23,7 @@ Email: jude0316 (at) cau.ac.kr
 
 -----
 <img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
-**Jung Kyoo Shin**      
+**Jungkyoo Shin**      
 Ph.D. Student       
 Research Area: Deep Learning, Computer Vision       
 Email: wjdrb293950 (at) gmail.com      

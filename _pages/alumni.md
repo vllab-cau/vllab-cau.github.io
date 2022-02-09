@@ -8,13 +8,13 @@ author_profile: true
 ## Graduate Students
 
 <img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">      
-**Hyundong Jin (MS, 2022)**     
+**Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             
 Email: jude0316 (at) cau.ac.kr    
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">       
-**Wonhee Cho (MS, 2022)**      
+**Wonhee Cho (M.S., 2022)**      
 Research Area: Deep Learning, Few-Shot Learning       
 Email: wonhee4274 (at) cau.ac.kr      <br><br>
 

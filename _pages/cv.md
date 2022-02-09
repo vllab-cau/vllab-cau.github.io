@@ -69,6 +69,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * International Conference on Learning Representations (ICLR), 2021-2022.
 * AAAI Conference on Artificial Intelligence (AAAI), 2021.
 * British Machine Vision Conference (BMVC), 2019-2020.
+* Robotics: Science and Systems (RSS), 2022.
 * IEEE International Conference on Intelligent Robots and Systems (IROS), 2019.
 * ICCV Workshop on Robust Subspace Learning and Computer Vision, 2017-2019.
 * IEEE Int’l Conf.  on Multisensor Fusion and Integration for Intelligent Systems, 2017.

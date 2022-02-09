@@ -7,7 +7,17 @@ author_profile: true
 
 ## Graduate Students
 
-TBA
+<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
+**Hyundong Jin**     
+M.S. Student       
+Email: jude0316 (at) cau.ac.kr    
+
+-----
+<img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
+**Wonhee Cho**      
+M.S. Student       
+Email: wonhee4274 (at) cau.ac.kr 
+
 
 
 ## Undergraduate Students

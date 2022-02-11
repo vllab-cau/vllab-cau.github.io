@@ -16,7 +16,7 @@ Thesis: *Continual Learning without Negative Interference in a Deep Neural Netwo
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">       
 **Wonhee Cho (M.S., 2022)**      
 Research Area: Deep Learning, Few-Shot Learning       
-Thesis: *Improving Augmentation Efficiency for Few-Shot Learning      <br><br>
+Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*      <br><br>
 
 
 -----

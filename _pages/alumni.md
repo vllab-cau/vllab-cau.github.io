@@ -10,7 +10,7 @@ author_profile: true
 <img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">      
 **Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             
-Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*     
+Thesis: Continual Learning without Negative Interference in a Deep Neural Network     
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">       

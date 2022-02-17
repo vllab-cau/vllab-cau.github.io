@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 
-<img src='/images/ADM.png' width="280" max-width: "100%" align="left" style="margin-right:50px">        
+<img src='/images/ADM.png' max-width: "100%" align="left" style="margin-right:50px">        
         
    This project aims to develop versatile deep learning approaches 
    to perform multiple tasks on devices of limited capacity 

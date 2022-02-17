@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -35,9 +35,6 @@ author_profile: true
    Funded by Samsung SDS (joint research). <br>
 
 
-
------   
-## Past Projects
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 

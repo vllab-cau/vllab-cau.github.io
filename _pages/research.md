@@ -54,7 +54,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing machine learning based risk-identification algorithms.
    
-   Funded by the NRF Basic Research Laboratory Program (NRF-BRL). <br>
+   Funded by the NRF Basic Research Laboratory Program. <br>
    
 
 -----

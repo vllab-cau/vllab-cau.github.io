@@ -7,15 +7,16 @@ author_profile: true
 
 ## International Publications
 -----
-[**Improving Augmentation Efficiency for Few-Shot Learning**](https://ieeexplore.ieee.org/document/9712302)       
-  Wonhee Cho and Eunwoo Kim       
+[**Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9695483)       
+   Hyundong Jin, Kimin Yun, and Eunwoo Kim       
    *IEEE Access*, 2022.
 
 
 -----
-[**Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9695483)       
-   Hyundong Jin, Kimin Yun, and Eunwoo Kim       
-   *IEEE Access*, 2022.
+[**Improving Augmentation Efficiency for Few-Shot Learning**](https://ieeexplore.ieee.org/document/9712302)       
+  Wonhee Cho and Eunwoo Kim       
+   *IEEE Access*, vol. 10, pp. 17697-17706, Feb. 2022.
+
 
 -----
 [**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       

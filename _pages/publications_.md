@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9695483)       
    Hyundong Jin, Kimin Yun, and Eunwoo Kim       
-   *IEEE Access*, 2022. (accepted)
+   *IEEE Access*, 2022. (Accepted)
 
 
 -----

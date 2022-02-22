@@ -27,7 +27,7 @@ author_profile: true
 
 -----
 **Customized Neural Architecture Search and Proposal**
-<img src='/images/nas.jpg' width="280" align="left" style="margin-right:50px">       
+<img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
        
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 

@@ -26,7 +26,7 @@ Email: jude0316 (at) cau.ac.kr
 **Jungkyoo Shin**      
 Ph.D. Student       
 Research Area: Deep Learning, Computer Vision       
-Email: wjdrb293950 (at) gmail.com      
+Email: neo293 (at) cau.ac.kr      
 
 
 -----
@@ -90,7 +90,7 @@ Email: popo1013 (at) cau.ac.kr
 **Sejun Hong**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: hsejun37 (at) gmail.com   <br><br>
+Email: hsejun07 (at) cau.ac.kr   <br><br>
 
 
 

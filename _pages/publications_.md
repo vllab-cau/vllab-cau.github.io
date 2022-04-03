@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network**](https://ieeexplore.ieee.org/abstract/document/9740124)       
   Soyeon Park, Jiho Lee, and Eunwoo Kim       
-   *IEEE Access*, vol. 10, pp. 32889-32899, Feb. 2022.
+   *IEEE Access*, vol. 10, pp. 32889-32899, Mar. 2022.
 
 -----
 [**Improving Augmentation Efficiency for Few-Shot Learning**](https://ieeexplore.ieee.org/document/9712302)       

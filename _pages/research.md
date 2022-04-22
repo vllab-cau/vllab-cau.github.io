@@ -61,7 +61,7 @@ author_profile: true
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.  <br><br><br>
+   at individuals that currently drive their commute to and from work.  <br><br><br><br>
      
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
@@ -84,7 +84,7 @@ author_profile: true
 <img src='/images/nrsfm.png' width="280" align="left" style="margin-right:50px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.  <br><br><br>
+   their fundamental robust low-rank factorization algorithms.  <br><br><br><br>
    
    
 -----   

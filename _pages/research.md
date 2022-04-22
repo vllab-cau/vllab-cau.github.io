@@ -11,41 +11,33 @@ author_profile: true
         
    This project aims to develop versatile deep learning approaches 
    to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy.
+   while avoiding task interference and model redundancy. <br>
    
-   Funded by National Research Foundation (NRF).<br>
-
+   
 -----
 **Learning Transferable Task Knowledge for Social Robots**
 <img src='/images/robot_cooking.PNG' width="280" align="left" style="margin-right:50px">
 
    This project aims to develop an object-oriented framework 
-   to learn transferable knowledge and task hierarchy for task planning of a robot.
+   to learn transferable knowledge and task hierarchy for task planning of a robot. <br>
 
-   Funded by Samsung Research Funding & Incubation Center. <br>   
-
-
+   
 -----
 **Customized Neural Architecture Search and Proposal**
 <img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
        
    This project aims to develop customized neural architecture search technology 
-   for visual tasks. 
-   
-   Funded by Samsung SDS (joint research). <br>
-
-
+   for visual tasks. <br>
+      
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
 <img src='/images/incremental learning_small.jpg' width="300" align="left" style="margin-right:30px">       
        
    This project investigates the similarity from visual memory of sequential tasks 
-   based on machine learning-based embedding algorithms. 
+   based on machine learning-based embedding algorithms.  <br>
    
-   Funded by Electronics and Telecommunications Research Institute (ETRI). <br>
-
-
+   
 -----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="280" align="left" style="margin-right:50px">        

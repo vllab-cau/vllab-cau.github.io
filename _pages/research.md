@@ -11,7 +11,7 @@ author_profile: true
         
    This project aims to develop versatile deep learning approaches 
    to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy. <br>
+   while avoiding task interference and model redundancy. <br><br>
    
    
 -----
@@ -19,7 +19,7 @@ author_profile: true
 <img src='/images/robot_cooking.PNG' width="280" align="left" style="margin-right:50px">
 
    This project aims to develop an object-oriented framework 
-   to learn transferable knowledge and task hierarchy for task planning of a robot. <br>
+   to learn transferable knowledge and task hierarchy for task planning of a robot. <br><br>
 
    
 -----
@@ -27,7 +27,7 @@ author_profile: true
 <img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
        
    This project aims to develop customized neural architecture search technology 
-   for visual tasks. <br>
+   for visual tasks. <br><br>
       
 
 -----
@@ -35,7 +35,7 @@ author_profile: true
 <img src='/images/incremental learning_small.jpg' width="300" align="left" style="margin-right:30px">       
        
    This project investigates the similarity from visual memory of sequential tasks 
-   based on machine learning-based embedding algorithms.  <br>
+   based on machine learning-based embedding algorithms.  <br><br>
    
    
 -----

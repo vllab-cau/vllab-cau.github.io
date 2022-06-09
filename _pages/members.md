@@ -25,7 +25,7 @@ Email: jude0316 (at) cau.ac.kr
 <img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
 **Jungkyoo Shin**      
 Ph.D. Student       
-Research Area: Deep Learning, Multi-Modal Learning       
+Research Area: Multi-Modal Learning, Video Understanding       
 Email: neo293 (at) cau.ac.kr      
 
 
@@ -89,7 +89,7 @@ Email: popo1013 (at) cau.ac.kr
 <img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Sejun Hong**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, 3D Vision           
 Email: hsejun07 (at) cau.ac.kr   <br><br>
 
 

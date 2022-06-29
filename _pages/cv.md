@@ -81,12 +81,3 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * IEEE Transactions on Robotics 
 * Automation in Construction
 * Applied Soft Computing 
-
-  
-## Teaching
-* (2022 Spring) Algorithms, Capstone Design
-* (2021 Fall) Discrete Mathematics, Capstone Design, Advanced AI (Graduate Course)
-* (2021 Spring) Algorithms
-* (2020 Fall) Discrete Mathematics, Advanced AI (Graduate Course)
-* (2020 Spring) Algorithms
-* (2019 Fall) Discrete Mathematics, Programming

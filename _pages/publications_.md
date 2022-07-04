@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+[**Helpful or Harmful: Inter-Task Association in Continual Learning**]
+  Hyundong Jin and Eunwoo Kim       
+   *European Conference on Computer Vision (ECCV)*, Oct. 2022.
+
+-----
 [**Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network**](https://ieeexplore.ieee.org/abstract/document/9740124)       
   Soyeon Park, Jiho Lee, and Eunwoo Kim       
    *IEEE Access*, vol. 10, pp. 32889-32899, Mar. 2022.

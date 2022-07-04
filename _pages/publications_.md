@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-[**Helpful or Harmful: Inter-Task Association in Continual Learning**]
+**Helpful or Harmful: Inter-Task Association in Continual Learning**
   Hyundong Jin and Eunwoo Kim       
    *European Conference on Computer Vision (ECCV)*, Oct. 2022.
 

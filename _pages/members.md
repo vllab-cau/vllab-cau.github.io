@@ -111,14 +111,14 @@ Email: xb253q (at) gmail.com
 
 
 -----
-<img src='/images/Jian Son.jpg' width="120" align="left" style="margin-right:40px">      
+<img src='/images/Jian Son.jpg' height="140" align="left" style="margin-right:40px">      
 **Jian Son**       
 Research Area: Deep Learning, Computer Vision           
 Email: jianie1017 (at) gmail.com         
 
 
 -----
-<img src='/images/Sumin Lee.jpg' width="130" align="left" style="margin-right:40px">      
+<img src='/images/Sumin Lee.jpg' height="140" align="left" style="margin-right:40px">      
 **Sumin Lee**       
 Research Area: Deep Learning, Computer Vision           
 Email: leesumin0112 (at) naver.com

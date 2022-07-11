@@ -114,7 +114,7 @@ Email: xb253q (at) gmail.com
 <img src='/images/Jian Son.jpg' height="140" align="left" style="margin-right:40px">      
 **Jian Son**       
 Research Area: Deep Learning, Computer Vision           
-Email: jianie1017 (at) gmail.com         
+Email: jianie1017 (at) gmail.com
 
 
 -----

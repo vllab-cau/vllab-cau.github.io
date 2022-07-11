@@ -96,21 +96,6 @@ Email: hsejun07 (at) cau.ac.kr   <br><br>
 
 ## Undergraduate Students  
 
-
------
-<img src='/images/Bolim Lee.jpg' width="140" align="left" style="margin-right:40px">      
-**Bolim Lee**       
-Research Area: Deep Learning, Computer Vision           
-Email: leebolim0701 (at) cau.ac.kr  
-
-
------
-<img src='/images/Suhyun Shin.jpg' width="140" align="left" style="margin-right:40px">      
-**Suhyun Shin**       
-Research Area: Deep Learning, Computer Vision           
-Email: shinsuhyun1210 (at) gmail.com
-
-
 -----
 <img src='/images/Younggwang Park.jpg' width="140" align="left" style="margin-right:40px">      
 **Younggwang Park**       

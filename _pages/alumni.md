@@ -22,6 +22,8 @@ Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*      <br><br>
 -----
 ## Undergraduate Students
 
+* Bolim Lee (21.07-22.06)
+* Suhyun Shin (21.07-22.06)
 * Gyeongbin Han (21.07-21.12)
 * Hayun Lee (21.01-21.12)
 * Soyoung Park (21.01-21.12)

@@ -123,6 +123,14 @@ Email: jianie1017 (at) gmail.com
 Research Area: Deep Learning, Computer Vision           
 Email: leesumin0112 (at) naver.com
 
+
+-----
+<img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">      
+**Hyunjoon Koo**       
+Research Area: Deep Learning, Computer Vision           
+Email: ohkdolv (at) naver.com
+
+
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)
 

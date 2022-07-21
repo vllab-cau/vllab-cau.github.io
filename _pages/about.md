@@ -9,7 +9,7 @@ redirect_from:
 
 # VISION & LEARNING LABORATORY @ CAU
 
-The laboratory was formed in Sep. 2019 and is led by Prof. Eunwoo Kim.  
+The laboratory was formed in Mar. 2020 and is led by Prof. Eunwoo Kim.  
 
 The aim of VISION & LEARNING LABORATORY at Chung-Ang University is to push the boundary of machine learning research by exploiting and developing efficient, versatile, and optimal machine learning models, towards general-purpose artificial intelligence.
 We engage in research to explore methods that understand and learn any intellectual task that human beings can do.

@@ -30,14 +30,6 @@ Email: neo293 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">
-**Soyeon Park**      
-M.S. Student       
-Research Area: Deep Learning, Multi-Task Learning       
-Email: lolmn55 (at) cau.ac.kr    
-
-
------
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **Jiho Lee**       
 M.S.-Ph.D. Integrated Student      

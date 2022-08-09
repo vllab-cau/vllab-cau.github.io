@@ -49,7 +49,7 @@ Email: leonardkkh (at) cau.ac.kr
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
 M.S. Student      
-Research Area: Deep Learning, Continual Learning           
+Research Area: Deep Learning, Multi-Task Learning           
 Email: kcs6568 (at) cau.ac.kr      
 
 

@@ -11,7 +11,7 @@ author_profile: true
 **Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             
 Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*       
-Ph.D. Student @ VLLAB
+-- Ph.D. Student @ VLLAB
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
@@ -24,7 +24,7 @@ Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*       <br><br>
 **Soyeon Park (M.S., 2022)**      
 Research Area: Deep Learning, Multi-Task Learning       
 Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*       
-LG Electronics CTO       <br><br>
+-- LG Electronics CTO       <br><br>
 
 
 -----

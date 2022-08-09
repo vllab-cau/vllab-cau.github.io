@@ -18,6 +18,12 @@ Thesis: *Continual Learning without Negative Interference in a Deep Neural Netwo
 Research Area: Deep Learning, Few-Shot Learning       
 Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*      <br><br>
 
+----
+<img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px">
+**Soyeon Park (M.S., 2022)**      
+Research Area: Deep Learning, Multi-Task Learning       
+Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*      <br><br>
+
 
 -----
 ## Undergraduate Students

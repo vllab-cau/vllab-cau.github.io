@@ -14,7 +14,7 @@ Email: eunwoo (at) cau.ac.kr
 
 -----
 ## Graduate Students
-<img src='/images/Hyundong Jin.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Hyundong Jin2.jpg' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin**     
 Ph.D. Student       
 Research Area: Deep Learning, Continual Learning       

@@ -12,6 +12,11 @@ author_profile: true
    *In Proc. of the European Conference on Computer Vision (ECCV)*, Oct. 2022.
 
 -----
+**Multitask Learning with Heterogeneous Tasks**       
+  Changseong Kim and Eunwoo Kim       
+   *In Proc. of the International Conference on ICT Convergence*, Oct. 2022.
+
+-----
 [**Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network**](https://ieeexplore.ieee.org/abstract/document/9740124)       
   Soyeon Park, Jiho Lee, and Eunwoo Kim       
    *IEEE Access*, vol. 10, pp. 32889-32899, Mar. 2022.

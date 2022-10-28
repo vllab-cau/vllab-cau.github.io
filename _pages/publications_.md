@@ -7,14 +7,9 @@ author_profile: true
 
 ## International Publications
 -----
-**Helpful or Harmful: Inter-Task Association in Continual Learning**       
+**[Helpful or Harmful: Inter-Task Association in Continual Learning**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)       
   Hyundong Jin and Eunwoo Kim       
    *In Proc. of the European Conference on Computer Vision (ECCV)*, Oct. 2022.
-
------
-**Multitask Learning with Heterogeneous Tasks**       
-  Changseong Kim and Eunwoo Kim       
-   *In Proc. of the International Conference on ICT Convergence*, Oct. 2022.
 
 -----
 [**Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network**](https://ieeexplore.ieee.org/abstract/document/9740124)       

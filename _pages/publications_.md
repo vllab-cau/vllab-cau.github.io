@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**        
+  Gyeong-Hyeon Kim and Eunwoo Kim       
+   *Electronics Letters*, 2022.
+
+-----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       
   Hyundong Jin and Eunwoo Kim       
    *In Proc. of the European Conference on Computer Vision (ECCV)*, Oct. 2022.

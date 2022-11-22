@@ -96,13 +96,6 @@ Email: yg0585 (at) naver.com
 
 
 -----
-<img src='/images/Jonguk Han.jpg' width="140" align="left" style="margin-right:40px">      
-**Jonguk Han**       
-Research Area: Deep Learning, Computer Vision           
-Email: xb253q (at) gmail.com
-
-
------
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">      
 **Jian Son**       
 Research Area: Deep Learning, Computer Vision           

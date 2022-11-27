@@ -19,7 +19,8 @@ author_profile: true
 <img src='/images/robot_cooking.PNG' width="280" align="left" style="margin-right:50px">
 
    This project aims to develop an object-oriented framework 
-   to learn transferable knowledge and task hierarchy for task planning of a robot.         
+   to learn transferable knowledge and task hierarchy for task planning of a robot.    
+   
    Funded by Samsung Research Funding & Incubation Center.<br><br>
 
    

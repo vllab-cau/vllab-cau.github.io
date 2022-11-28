@@ -11,7 +11,9 @@ author_profile: true
         
    This project aims to develop versatile deep learning approaches 
    to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy. <br><br>
+   while avoiding task interference and model redundancy. 
+   
+   Funded by National Research Foundation. <br><br>
    
    
 -----
@@ -29,7 +31,9 @@ author_profile: true
 <img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
        
    This project aims to develop customized neural architecture search technology 
-   for visual tasks. <br><br>
+   for visual tasks. 
+   
+   Funded by Samsung SDS. <br><br>
       
 
 -----
@@ -37,7 +41,9 @@ author_profile: true
 <img src='/images/incremental learning_small.jpg' width="300" align="left" style="margin-right:30px">       
        
    This project investigates the similarity from visual memory of sequential tasks 
-   based on machine learning-based embedding algorithms.  <br><br>
+   based on machine learning-based embedding algorithms.  
+   
+   Funded by ETRI. <br><br>
    
    
 -----
@@ -46,7 +52,9 @@ author_profile: true
         
    This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
-   and developing machine learning based risk-identification algorithms. <br><br>
+   and developing machine learning based risk-identification algorithms.
+   
+   Funded by National Research Foundation Basic Research Laboratory Program. <br><br>
    
    
 -----
@@ -54,7 +62,9 @@ author_profile: true
 <img src='/images/pose.png' width="300" align="left" style="margin-right:30px"> 
 
    This project develops exact 6D pose estimation and 
-   instance segmentation algorithms for a bin-picking problem of a robot.   <br><br>
+   instance segmentation algorithms for a bin-picking problem of a robot.   
+   
+   Funded by Doosan Digital Innovation. <br><br>
    
 
 -----
@@ -63,7 +73,9 @@ author_profile: true
    
    The overall project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
-   at individuals that currently drive their commute to and from work.  <br><br><br><br>
+   at individuals that currently drive their commute to and from work.  
+   
+   Funded by UK Research and Innovation (UKRI). <br><br>
      
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**

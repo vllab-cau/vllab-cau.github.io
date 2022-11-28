@@ -50,7 +50,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing machine learning based risk-identification algorithms.
    
-   Funded by National Research Foundation Basic Research Laboratory Program. <br><br>   
+   Funded by National Research Foundation Basic Research Laboratory Program. <br>
    
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
@@ -59,7 +59,7 @@ author_profile: true
    This project develops exact 6D pose estimation and 
    instance segmentation algorithms for a bin-picking problem of a robot.   
    
-   Funded by Doosan Digital Innovation. <br><br>   
+   Funded by Doosan Digital Innovation. <br>
 
 -----
 **StreetWise**

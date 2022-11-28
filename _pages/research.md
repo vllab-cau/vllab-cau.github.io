@@ -13,7 +13,7 @@ author_profile: true
    to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy. 
    
-   Funded by National Research Foundation. <br><br>   
+   Funded by National Research Foundation. <br>
    
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
@@ -31,7 +31,7 @@ author_profile: true
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 
    
-   Funded by Samsung SDS. <br><br>      
+   Funded by Samsung SDS. <br>     
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
@@ -40,7 +40,7 @@ author_profile: true
    This project investigates the similarity from visual memory of sequential tasks 
    based on machine learning-based embedding algorithms.  
    
-   Funded by ETRI. <br><br>   
+   Funded by ETRI. <br>
    
 -----
 **Vision Intelligence based Construction Safety Management System** 
@@ -69,7 +69,7 @@ author_profile: true
    autonomous cars on normal public roads in an urban environment, aimed primarily
    at individuals that currently drive their commute to and from work.  
    
-   Funded by UK Research and Innovation (UKRI). <br><br>
+   Funded by UK Research and Innovation (UKRI). <br>
      
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**

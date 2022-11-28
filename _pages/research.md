@@ -13,8 +13,7 @@ author_profile: true
    to perform multiple tasks on devices of limited capacity 
    while avoiding task interference and model redundancy. 
    
-   Funded by National Research Foundation. <br><br>
-   
+   Funded by National Research Foundation. <br><br>   
    
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
@@ -23,8 +22,7 @@ author_profile: true
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge and task hierarchy for task planning of a robot.    
    
-   Funded by Samsung Research Funding & Incubation Center.          
-
+   Funded by Samsung Research Funding & Incubation Center.         
    
 -----
 **Customized Neural Architecture Search and Proposal**
@@ -33,8 +31,7 @@ author_profile: true
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 
    
-   Funded by Samsung SDS. <br><br>
-      
+   Funded by Samsung SDS. <br><br>      
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
@@ -43,8 +40,7 @@ author_profile: true
    This project investigates the similarity from visual memory of sequential tasks 
    based on machine learning-based embedding algorithms.  
    
-   Funded by ETRI. <br><br>
-   
+   Funded by ETRI. <br><br>   
    
 -----
 **Vision Intelligence based Construction Safety Management System** 
@@ -54,8 +50,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing machine learning based risk-identification algorithms.
    
-   Funded by National Research Foundation Basic Research Laboratory Program. <br><br>
-   
+   Funded by National Research Foundation Basic Research Laboratory Program. <br><br>   
    
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
@@ -64,8 +59,7 @@ author_profile: true
    This project develops exact 6D pose estimation and 
    instance segmentation algorithms for a bin-picking problem of a robot.   
    
-   Funded by Doosan Digital Innovation. <br><br>
-   
+   Funded by Doosan Digital Innovation. <br><br>   
 
 -----
 **StreetWise**
@@ -82,32 +76,28 @@ author_profile: true
 <img src='/images/otfml.png' width="280" align="left" style="margin-right:50px">       
    
    This project develops on-the-fly machine learning algorithms using deep learning
-   frameworks to realize personalized and environment adaptive learning.  <br><br>
-   
+   frameworks to realize personalized and environment adaptive learning.  <br><br>   
   
 -----  
 **Human-Level Lifelong Machine Learning** 
 <img src='/images/ml2.png' width="280" align="left" style="margin-right:50px">      
    
    This project develops novel algorithms and methods for real-time nonparametric
-   learning and prediction of time-varying stochastic processes.  <br><br>
-   
+   learning and prediction of time-varying stochastic processes.  <br><br>   
    
 -----   
 **Practical Action Recognition and Prediction Technology** 
 <img src='/images/nrsfm.png' width="280" align="left" style="margin-right:50px">        
    
    This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.  <br><br><br><br>
-   
+   their fundamental robust low-rank factorization algorithms.  <br><br><br><br>   
    
 -----   
 **Human-Centric Networked Robotics Technology** 
 <img src='/images/human_centric.jpeg' width="280" height="120" align="left" style="margin-right:50px">     
    
    This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.  <br><br><br>
-   
+   networked robots for seamless operations of service robots in our daily lives.  <br><br><br>  
     
   
 

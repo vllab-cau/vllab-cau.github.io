@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**        
+[**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678)        
   Gyeong-Hyeon Kim and Eunwoo Kim       
    *Electronics Letters*, 2022.
 

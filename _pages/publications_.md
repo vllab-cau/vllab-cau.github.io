@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678)        
   Gyeong-Hyeon Kim and Eunwoo Kim       
-   *Electronics Letters*, 2022.
+   *Electronics Letters*, vol. 58, no. 25, pp. 972-974, Nov. 2022.
 
 -----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       

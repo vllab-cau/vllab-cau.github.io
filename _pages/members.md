@@ -88,32 +88,6 @@ Email: hsejun07 (at) cau.ac.kr   <br><br>
 
 ## Undergraduate Students  
 
------
-<img src='/images/Younggwang Park.jpg' width="140" align="left" style="margin-right:40px">      
-**Younggwang Park**       
-Research Area: Deep Learning, Computer Vision           
-Email: yg0585 (at) naver.com
-
-
------
-<img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">      
-**Jian Son**       
-Research Area: Deep Learning, Computer Vision           
-Email: jianie1017 (at) gmail.com         
-
-
------
-<img src='/images/Sumin Lee.jpg' width="140" align="left" style="margin-right:40px">      
-**Sumin Lee**       
-Research Area: Deep Learning, Computer Vision           
-Email: leesumin0112 (at) naver.com
-
-
------
-<img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">      
-**Hyunjoon Koo**       
-Research Area: Deep Learning, Computer Vision           
-Email: ohkdolv (at) naver.com
 
 
 ------

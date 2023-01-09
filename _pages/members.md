@@ -96,7 +96,7 @@ Email: nstar971125 (at) naver.com
 
 
 -----
-<img src='/images/Minki Kang.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Minki Kang.jpeg' width="140" align="left" style="margin-right:40px">
 **Minki Kang**      
 Undergraduate Student      
 Research Area: Deep Learning, Computer Vision           

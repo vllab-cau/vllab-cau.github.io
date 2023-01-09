@@ -92,7 +92,7 @@ Email: hsejun07 (at) cau.ac.kr   <br><br>
 **Sangmin Kim**      
 Undergraduate Student      
 Research Area: Deep Learning, Computer Vision           
-Email: nstar971125 (at) naver.com        <br>
+Email: nstar971125 (at) naver.com        <br><br>
 
 
 -----

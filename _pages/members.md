@@ -92,15 +92,15 @@ Email: hsejun07 (at) cau.ac.kr   <br><br>
 **Sangmin Kim**      
 Undergraduate Student      
 Research Area: Deep Learning, Computer Vision           
-Email: nstar971125 (at) naver.com        <br><br>
+Email: nstar971125 (at) naver.com        <br>
 
 
 -----
-<img src='/images/Minki Kang.jpeg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Minki Kang.jpg' width="140" align="left" style="margin-right:40px">
 **Minki Kang**      
 Undergraduate Student      
 Research Area: Deep Learning, Computer Vision           
-Email: bbx8216 (at) gmail.com       <br><br> 
+Email: bbx8216 (at) gmail.com       <br> 
 
 
 -----

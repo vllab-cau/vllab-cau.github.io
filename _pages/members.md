@@ -88,7 +88,7 @@ Email: hsejun07 (at) cau.ac.kr   <br><br>
 
 ## Undergraduate Students  
 -----
-<img src='/images/Sangmin Kim.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Sangmin Kim.jpg' height="140" align="left" style="margin-right:40px">
 **Sangmin Kim**      
 Undergraduate Student      
 Research Area: Deep Learning, Computer Vision           

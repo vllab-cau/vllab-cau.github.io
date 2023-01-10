@@ -13,7 +13,7 @@ Research Area: Neural Architecture Search, Computer Vision
 Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*       
 -- Ph.D. Student @ VLLAB
 
-
+-----
 <img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             

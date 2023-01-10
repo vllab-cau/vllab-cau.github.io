@@ -62,7 +62,7 @@ Email: ghdrltjd (at) cau.ac.kr
 
 
 -----
-<img src='/images/Chanjong Park.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Chanjong Park2.jpg' width="140" align="left" style="margin-right:40px">
 **Chanjong Park**      
 M.S. Student      
 Research Area: Deep Learning, Contrastive Learning           

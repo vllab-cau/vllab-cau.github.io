@@ -32,7 +32,7 @@ Email: neo293 (at) cau.ac.kr
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **Jiho Lee**       
-M.S.-Ph.D. Integrated Student      
+Ph.D. Student      
 Research Area: Neural Architecture Search, Robotics                
 Email: j2hoooo (at) cau.ac.kr
 
@@ -40,7 +40,7 @@ Email: j2hoooo (at) cau.ac.kr
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim**      
-M.S. Student      
+Ph.D. Student      
 Research Area: Neural Architecture Search, Computer Vision       
 Email: leonardkkh (at) cau.ac.kr
 

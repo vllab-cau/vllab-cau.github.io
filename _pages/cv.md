@@ -64,7 +64,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, RSS, IROS
 
 **Reviewer**
-* IEEE TIP, IEEE TNNLS, IEEE JSTSP, IEEE TRO, Automation in Construction, Applied Soft Computing 
+* IEEE TNNLS, IEEE TIP, IEEE JSTSP, IEEE TRO, Automation in Construction, Applied Soft Computing 
 
 ## Teaching
 * Machine Learning (Spring 2023)

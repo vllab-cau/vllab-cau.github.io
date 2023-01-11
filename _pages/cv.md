@@ -61,24 +61,10 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 
 ## Professional Activities
 **Technical Program Committee Member**
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-* IEEE International Conference on Computer Vision (ICCV)
-* European Conference on Computer Vision (ECCV)
-* Neural Information Processing Systems (NeurIPS)
-* International Conference on Machine Learning (ICML)
-* International Conference on Learning Representations (ICLR)
-* AAAI Conference on Artificial Intelligence (AAAI)
-* British Machine Vision Conference (BMVC)
-* Robotics: Science and Systems (RSS)
-* IEEE International Conference on Intelligent Robots and Systems (IROS)
+* CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, BMVC, RSS, IROS
 
 **Reviewer**
-* IEEE Transactions on Image Processing 
-* IEEE Transactions on Neural Networks and Learning Systems  
-* IEEE Journal of Selected Topics in Signal Processing 
-* IEEE Transactions on Robotics 
-* Automation in Construction
-* Applied Soft Computing 
+* IEEE TIP, IEEE TNNLS, IEEE JSTSP, IEEE TRO, Automation in Construction, Applied Soft Computing 
 
 ## Teaching
 * Machine Learning (Spring 2023)

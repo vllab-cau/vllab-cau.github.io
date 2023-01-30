@@ -97,7 +97,7 @@ Email: jianie1017 (at) gmail.com
 **Hyunjoon Koo**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: ohkdolv (at) gmail.com   <br><br>
+Email: ohkdolv (at) gmail.com   
 
 -----
 <img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">

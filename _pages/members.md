@@ -86,7 +86,7 @@ Email: hsejun07 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Jian Son.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           

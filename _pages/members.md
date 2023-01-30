@@ -82,8 +82,29 @@ Email: popo1013 (at) cau.ac.kr
 **Sejun Hong**  
 M.S. Student      
 Research Area: Deep Learning, 3D Vision           
-Email: hsejun07 (at) cau.ac.kr   <br><br>
+Email: hsejun07 (at) cau.ac.kr        
 
+
+-----
+<img src='/images/Jian Son.jpg' width="140" align="left" style="margin-right:40px">
+**Jian Son**  
+M.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: jianie1017 (at) gmail.com       
+
+-----
+<img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
+**Hyunjoon Koo**  
+M.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: ohkdolv (at) gmail.com   <br><br>
+
+-----
+<img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">
+**Nayoung Ko**  
+M.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: kona4195516 (at) gmail.com   <br><br>
 
 
 ## Undergraduate Students  

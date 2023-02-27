@@ -104,7 +104,7 @@ Email: ohkdolv (at) cau.ac.kr
 **Nayoung Ko**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: kona4195516 (at) cau.ac.kr   <br><br>
+Email: kona419 (at) cau.ac.kr   <br><br>
 
 
 ## Undergraduate Students  

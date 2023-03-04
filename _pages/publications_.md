@@ -9,7 +9,7 @@ author_profile: true
 -----
 **GhostNeXt: Rethinking Module Configurations for Efficient Model Design**         
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim       
-   *Applied Sciences*, 2023 (Accepted).
+   *Applied Sciences*, 2023. (Accepted)
 
 -----
 [**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678)        

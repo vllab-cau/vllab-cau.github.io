@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**
+**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**         
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim       
    *Applied Sciences*, 2023 (Accepted).
 

@@ -8,7 +8,7 @@ author_profile: true
 ## Graduate Students
 
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
-**Gyeonghyeon Kim (M.S., 2022)**     
+**Gyeonghyeon Kim (M.S., 2023)**     
 Research Area: Neural Architecture Search, Computer Vision             
 Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*       
 -- now a Ph.D. Student @ VLLAB

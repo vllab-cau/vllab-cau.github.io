@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-**Time-Series Action Prediction and Segmentation Technology** 
+**Time-Series Action Prediction and Segmentation** 
 <img src='/images/hyundai_heavy_equipment.png' width="280" align="left" style="margin-right:50px">        
         
    This project aims to develop high-performing transformer models

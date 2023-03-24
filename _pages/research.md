@@ -16,7 +16,7 @@ author_profile: true
    
 
 -----
-**Development of AI for Self-Improving Competency-Aware Learning Capabilities** 
+**Development of AI for Self-Improving Competency-Aware Learning** 
 <img src='/images/h2.png' width="300" align="left" style="margin-right:30px">       
        
    This project develops an algorithm that explores optimal models 

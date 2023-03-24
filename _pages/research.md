@@ -4,26 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
------
-**Time-Series Action Prediction and Segmentation** 
-<img src='/images/hyundai_heavy_equipment.png' width="280" align="left" style="margin-right:50px">        
-        
-   This project aims to develop high-performing transformer models
-   to learn and segment time-series actions for various equipments. 
-   
-   Funded by Hyundai Construction Equipment. <br>
-   
------
-**Automated Deep Learning Technology for Multi-Task Learning** 
-<img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        
-        
-   This project aims to develop versatile deep learning approaches 
-   to perform multiple tasks on devices of limited capacity 
-   while avoiding task interference and model redundancy. 
-   
-   Funded by National Research Foundation. <br>
-   
+ 
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
 <img src='/images/robot_cooking.PNG' width="280" align="left" style="margin-right:50px">
@@ -50,6 +31,27 @@ author_profile: true
    based on machine learning-based embedding algorithms.  
    
    Funded by ETRI. <br>
+   
+-----
+**Time-Series Action Prediction and Segmentation** 
+<img src='/images/hyundai_heavy_equipment.png' width="280" align="left" style="margin-right:50px">        
+        
+   This project aims to develop high-performing transformer models
+   to learn and segment time-series actions for various equipments. 
+   
+   Funded by Hyundai Construction Equipment. <br>
+   
+   
+-----
+**Automated Deep Learning Technology for Multi-Task Learning** 
+<img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        
+        
+   This project aims to develop versatile deep learning approaches 
+   to perform multiple tasks on devices of limited capacity 
+   while avoiding task interference and model redundancy. 
+   
+   Funded by National Research Foundation. <br>
+
    
 -----
 **Vision Intelligence based Construction Safety Management System** 

@@ -12,7 +12,7 @@ author_profile: true
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge and task hierarchy for task planning of a robot.    
    
-   Funded by Samsung Research Funding & Incubation Center.  <br>        
+   Funded by Samsung Research Funding & Incubation Center.  <br>
    
 
 -----

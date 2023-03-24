@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 -----
-**Time-Series Pattern Prediction for Heavy Equipments** 
+**Time-Series Pattern Prediction Technology** 
 <img src='/images/hyundai_heavy_equipment.png' width="280" align="left" style="margin-right:50px">        
         
    This project aims to develop high-performing transformer models
-   to learn and predict time-series patterns for various heavy equipments. 
+   to learn and predict time-series patterns for various equipments. 
    
    Funded by Hyundai Construction Equipment. <br>
    

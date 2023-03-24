@@ -89,21 +89,21 @@ Email: hsejun07 (at) cau.ac.kr
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Multi-Task Learning           
 Email: jianie1017 (at) cau.ac.kr       
 
 -----
 <img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
 **Hyunjoon Koo**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Multi-Modal Learning           
 Email: ohkdolv (at) cau.ac.kr   
 
 -----
 <img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">
 **Nayoung Ko**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Continual Learning           
 Email: kona419 (at) cau.ac.kr   <br><br>
 
 

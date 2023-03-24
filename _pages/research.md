@@ -16,13 +16,13 @@ author_profile: true
    
 
 -----
-**Deep Embedding Technology for Incremental Learning of Tasks** 
+**Development of AI Technology for Self-Improving Competency-Aware Learning Capabilities** 
 <img src='/images/incremental learning_small.jpg' width="300" align="left" style="margin-right:30px">       
        
    This project investigates the similarity from visual memory of sequential tasks 
    based on machine learning-based embedding algorithms.  
    
-   Funded by ETRI. <br>
+   Funded by IITP. <br>
    
 -----
 **Time-Series Action Prediction and Segmentation** 

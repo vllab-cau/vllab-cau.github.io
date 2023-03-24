@@ -14,14 +14,6 @@ author_profile: true
    
    Funded by Samsung Research Funding & Incubation Center.         
    
------
-**Customized Neural Architecture Search and Proposal**
-<img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
-       
-   This project aims to develop customized neural architecture search technology 
-   for visual tasks. 
-   
-   Funded by Samsung SDS. <br>     
 
 -----
 **Deep Embedding Technology for Incremental Learning of Tasks** 
@@ -51,6 +43,16 @@ author_profile: true
    while avoiding task interference and model redundancy. 
    
    Funded by National Research Foundation. <br>
+
+
+-----
+**Customized Neural Architecture Search and Proposal**
+<img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
+       
+   This project aims to develop customized neural architecture search technology 
+   for visual tasks. 
+   
+   Funded by Samsung SDS. <br>     
 
    
 -----

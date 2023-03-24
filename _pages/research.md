@@ -19,8 +19,8 @@ author_profile: true
 **Development of AI for Self-Improving Competency-Aware Learning Capabilities** 
 <img src='/images/incremental learning_small.jpg' width="300" align="left" style="margin-right:30px">       
        
-   This project investigates the similarity from visual memory of sequential tasks 
-   based on machine learning-based embedding algorithms.  
+   This project develops an algorithm that explores optimal models 
+   and parameters of prerequisite learning tasks suitable for new learning situations.  
    
    Funded by IITP. <br>
    

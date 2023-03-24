@@ -14,14 +14,16 @@ author_profile: true
    
    Funded by Samsung Research Funding & Incubation Center.  <br>   
 
+
 -----
-**Development of AI for Self-Improving Competency-Aware Learning Capabilities** 
+**Development of AI for Self-Improving Competency-Aware Learning** 
 <img src='/images/h2.png' width="300" align="left" style="margin-right:30px">       
        
    This project develops an algorithm that explores optimal models 
    and parameters of prerequisite learning tasks suitable for new learning situations.  
    
    Funded by IITP. <br>
+   
    
 -----
 **Time-Series Action Prediction and Segmentation** 
@@ -31,8 +33,7 @@ author_profile: true
    to learn and segment time-series actions for various equipments. 
    
    Funded by Hyundai Construction Equipment. <br>
-   
-   
+      
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 
 <img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        

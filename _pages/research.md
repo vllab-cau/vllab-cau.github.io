@@ -29,7 +29,7 @@ author_profile: true
 **Time-Series Action Prediction and Segmentation** 
 <img src='/images/hyundai_heavy_equipment.png' width="300" align="left" style="margin-right:30px">        
         
-   This project aims to develop high-performing transformer models
+   This project aims to develop high-performing deep learning models
    to learn and segment time-series actions for various equipments. 
    
    Funded by Hyundai Construction Equipment. <br>

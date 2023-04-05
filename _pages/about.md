@@ -20,3 +20,4 @@ Our research interests include machine learning, deep learning, automated machin
 
 <img src='/images/lab_pic_202304.jpg' width="800" align="left" style="margin-right:50px">
 
+<img src='/images/20221124_3.jpg' width="800" align="left" style="margin-right:50px">

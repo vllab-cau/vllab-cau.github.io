@@ -8,7 +8,7 @@ author_profile: True
 ## Undergraduate Courses
 * (54616-01/02) Machine Learning 
     * Spring 2023
-* (56119/56120) Capstone Design 
+* (56119-07/08, 56120-07/08) Capstone Design 
     * Fall 2021, Spring 2022, Fall 2022, Spring 2023
 * (13601-03/04) Algorithms 
     * Spring 2020, Spring 2021, Spring 2022

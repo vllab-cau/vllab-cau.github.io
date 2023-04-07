@@ -17,6 +17,6 @@ author_profile: True
 * (47710-03) Programming 
     * Fall 2019
 
-## Graduate Courses
+## Graduate Course
 * (01841-01) Advanced AI 
     * Fall 2020, Fall 2021, Fall 2022

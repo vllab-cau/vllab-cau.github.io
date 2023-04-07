@@ -13,4 +13,4 @@ author_profile: True
 * Programming (Fall 2019)
 
 ## Graduate Courses
-* (Grad) Advanced AI (Fall 2020, Fall 2021, Fall 2022)
+* Advanced AI (Fall 2020, Fall 2021, Fall 2022)

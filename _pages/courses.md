@@ -18,4 +18,5 @@ author_profile: True
     * Fall 2019
 
 ## Graduate Courses
-* (01841-01) Advanced AI (Fall 2020, Fall 2021, Fall 2022)
+* (01841-01) Advanced AI 
+      * Fall 2020, Fall 2021, Fall 2022

@@ -18,5 +18,5 @@ author_profile: True
     * Fall 2019
 
 ## Graduate Course
-* Advanced AI 
+* Advanced Artificial Intelligence
     * Fall 2020, Fall 2021, Fall 2022

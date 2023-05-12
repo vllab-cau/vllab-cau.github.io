@@ -31,7 +31,7 @@ Email: neo293 (at) cau.ac.kr
 
 -----
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
-**[Jiho Lee](jiho-e.notion.site)**       
+**[Jiho Lee](https://jiho-e.notion.site/)**       
 Ph.D. Student      
 Research Area: Neural Architecture Search, Robotics                
 Email: j2hoooo (at) cau.ac.kr

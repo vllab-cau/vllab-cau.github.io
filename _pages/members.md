@@ -15,7 +15,7 @@ Email: eunwoo (at) cau.ac.kr
 -----
 ## Graduate Students
 <img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
-**[Hyundong Jin](https://jin0316.github.io/HyundongJin.io/)**     
+[Hyundong Jin](https://jin0316.github.io/HyundongJin.io/){:target="_blank"}     
 Ph.D. Student       
 Research Area: Deep Learning, Continual Learning       
 Email: jude0316 (at) cau.ac.kr    

@@ -6,6 +6,22 @@ author_profile: true
 ---
 
 -----
+**연속 학습을 위한 태스크 맞춤형 네트워크 할당량 탐색**     
+   Kiseong Hong and Eunwoo Kim      
+   *대한전자공학회 하계학술대회*, June 2023.    
+
+-----
+**동적 메모리 할당을 이용한 메모리 효율적인 다중 태스크 학습**     
+   Sujin Choi and Eunwoo Kim      
+   *대한전자공학회 하계학술대회*, June 2023.   
+
+-----
+**엔트로피를 이용한 디블러 신경 반사 필드 개선**     
+   Sejun Hong and Eunwoo Kim      
+   *대한전자공학회 하계학술대회*, June 2023.  
+
+
+-----
 **탐색 공간 생성기를 이용한 다중 태스크 학습 신경망 구조 탐색**     
    Jiho Lee and Eunwoo Kim      
    *대한전자공학회 하계학술대회*, June 2022. (**우수논문상**)   

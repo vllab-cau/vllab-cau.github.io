@@ -65,4 +65,4 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
 * TNNLS, TIP, JSTSP, TRO, Automation in Construction, Applied Soft Computing 
 
 ## Teaching
-* [List of courses](https://vllab.cau.ac.kr/courses/)
+* [List of Courses](https://vllab.cau.ac.kr/courses/)

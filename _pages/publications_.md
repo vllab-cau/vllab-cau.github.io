@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**         
+  Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
+   *In Proc. of the International Conference on Computer Vision (ICCV)*, Oct. 2023. (Accepted)
+
+-----
 [**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**](https://www.mdpi.com/2076-3417/13/5/3301)         
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim       
    *Applied Sciences*, vol. 13, no. 5, Mar. 2023.

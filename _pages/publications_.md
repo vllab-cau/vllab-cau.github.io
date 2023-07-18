@@ -68,7 +68,7 @@ author_profile: true
    *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
        
 -----   
-## [International Publications](http://vllab-cau.github.io/publications/international-publications)
+## [International Publications (Full List)](http://vllab-cau.github.io/publications/international-publications)
 ----- 
 ## [Domestic Publications](http://vllab-cau.github.io/publications/domestic-publications)
 -----

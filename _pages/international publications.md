@@ -5,6 +5,7 @@ permalink: /publications/international-publications
 author_profile: true
 ---
 
+-----
 **Growing a Brain with Sparsity-Inducing Generation for Continual Learning**         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2023. (Accepted)

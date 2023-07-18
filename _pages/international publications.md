@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "International Publications"
+permalink: /publications/international-publications
+author_profile: true
+---
+
 ## International Publications
 -----
 **Growing a Brain with Sparsity-Inducing Generation for Continual Learning**         

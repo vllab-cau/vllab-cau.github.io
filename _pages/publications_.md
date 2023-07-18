@@ -67,11 +67,6 @@ author_profile: true
    Eunwoo Kim, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
 
------
-[**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
-   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
-   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
-
        
 -----   
 ## [International Publications](http://vllab-cau.github.io/publications/international-publications)

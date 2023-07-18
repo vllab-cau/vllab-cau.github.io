@@ -63,7 +63,7 @@ author_profile: true
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
-   Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* indicates  equal contribution)      
+   Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* equal contribution)      
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
 
 -----

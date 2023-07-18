@@ -53,11 +53,6 @@ author_profile: true
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June  2015.
 
 -----
-[**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
-   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
-   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
-
------
 [**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh    
    *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
@@ -67,6 +62,10 @@ author_profile: true
    Eunwoo Kim, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
    *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
 
+-----
+[**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
+   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
        
 -----   
 ## [International Publications](http://vllab-cau.github.io/publications/international-publications)

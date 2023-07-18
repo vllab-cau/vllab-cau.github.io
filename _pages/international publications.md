@@ -37,6 +37,11 @@ author_profile: true
    *IEEE Access*, vol. 10, pp. 17697-17706, Feb. 2022.
 
 -----
+[**Incremental Learning with Adaptive Model Search and a Nominal Loss Model**](https://ieeexplore.ieee.org/abstract/document/9706191)
+   Chanho Ahn, Eunwoo Kim, and Songhwai Oh
+   *IEEE Access*, vol. 10, pp. 16052-16062, Feb. 2022.
+
+-----
 [**Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning**](https://ieeexplore.ieee.org/abstract/document/9695483)       
    Hyundong Jin, Kimin Yun, and Eunwoo Kim       
    *IEEE Access*, vol. 10, pp. 18776-18786, Jan. 2022.

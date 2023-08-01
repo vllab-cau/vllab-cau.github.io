@@ -7,12 +7,23 @@ author_profile: true
 
 ## Graduate Students
 
+<img src='/images/Chanjong Park2.jpg' width="140" align="left" style="margin-right:40px">
+**Chanjong Park (M.S., 2023)**      
+Research Area: Deep Learning, Contrastive Learning           
+Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation*     
+
+-----
+<img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
+**Sujin Choi (M.S., 2023)**      
+Research Area: Deep Learning, Multi-Task Learning           
+Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning*       
+
+-----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim (M.S., 2023)**      
 Research Area: Deep Learning, Multi-Task Learning           
 Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*         
 -- now a Ph.D. Student @ VLLAB
-
 
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">

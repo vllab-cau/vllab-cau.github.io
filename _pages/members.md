@@ -48,7 +48,7 @@ Email: leonardkkh (at) cau.ac.kr
 -----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
-M.S. Student      
+Ph.D. Student      
 Research Area: Deep Learning, Multi-Task Learning           
 Email: kcs6568 (at) cau.ac.kr      
 
@@ -56,7 +56,7 @@ Email: kcs6568 (at) cau.ac.kr
 -----
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Kiseong Hong**      
-M.S.-Ph.D. Integrated Student      
+Ph.D. Integrated Student      
 Research Area: Deep Learning, Continual Learning           
 Email: ghdrltjd (at) cau.ac.kr      
 

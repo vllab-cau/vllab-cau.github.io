@@ -43,7 +43,7 @@ Eunwoo Kim is an assistant professor in the School of Computer Science and Engin
   * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/){:target="_blank"}    
   
 * Graduate Researcher - Seoul National Univeristy, 2011-2017.
-  * Advisor: Professor Songhwai Oh, Chong-Ho Choi
+  * Advisor: Professor [Songhwai Oh](http://rllab.snu.ac.kr/){:target="_blank"}, Chong-Ho Choi
 
 ## Publications
 * [List of Publications](https://vllab.cau.ac.kr/publications/) 

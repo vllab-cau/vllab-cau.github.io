@@ -56,7 +56,7 @@ Email: kcs6568 (at) cau.ac.kr
 -----
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Kiseong Hong**      
-Ph.D. Integrated Student      
+Ph.D. Student      
 Research Area: Deep Learning, Continual Learning           
 Email: ghdrltjd (at) cau.ac.kr      
 

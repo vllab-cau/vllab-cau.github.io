@@ -10,15 +10,15 @@ author_profile: true
 <img src='/images/Chanjong Park2.jpg' width="140" align="left" style="margin-right:40px">
 **Chanjong Park (M.S., 2023)**      
 Research Area: Deep Learning, Contrastive Learning           
-Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation* 
---     
+Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation* <br>
+    
 
 -----
 <img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
 **Sujin Choi (M.S., 2023)**      
 Research Area: Deep Learning, Multi-Task Learning           
-Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning*       
---     
+Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning* <br>      
+    
 
 -----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">

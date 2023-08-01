@@ -14,6 +14,7 @@ Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*
 -- now a Ph.D. Student @ VLLAB
 
 
+-----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim (M.S., 2023)**     
 Research Area: Neural Architecture Search, Computer Vision             

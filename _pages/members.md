@@ -62,22 +62,6 @@ Email: ghdrltjd (at) cau.ac.kr
 
 
 -----
-<img src='/images/Chanjong Park2.jpg' width="140" align="left" style="margin-right:40px">
-**Chanjong Park**      
-M.S. Student      
-Research Area: Deep Learning, Contrastive Learning           
-Email: cjpark137 (at) cau.ac.kr      
-
-
------
-<img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
-**Sujin Choi**      
-M.S. Student      
-Research Area: Deep Learning, Multi-Task Learning           
-Email: popo1013 (at) cau.ac.kr      
-
-
------
 <img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Sejun Hong**  
 M.S. Student      

@@ -110,7 +110,7 @@ Email: 99sansan (at) naver.com
 **Sangyun Lee**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: spbob0418 (at) naver.com         
+Email: spbob0418 (at) cau.ac.kr         
 
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)

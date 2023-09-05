@@ -100,7 +100,7 @@ Research Area: Deep Learning, Computer Vision
 Email: hayun0406 (at) cau.ac.kr   
 
 -----
-<img src='/images/Sangyun Lee.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Sangyun Lee1.jpg' width="140" align="left" style="margin-right:40px">
 **Sangyun Lee**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           

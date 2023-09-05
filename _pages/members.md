@@ -91,6 +91,7 @@ Research Area: Deep Learning, Continual Learning
 Email: kona419 (at) cau.ac.kr   <br><br>
 
 
+-----
 ## Undergraduate Students  
 <img src='/images/Hayun Lee.jpeg' width="140" align="left" style="margin-right:40px">
 **Hayun Lee**  

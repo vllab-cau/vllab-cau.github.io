@@ -107,7 +107,7 @@ Email: 99sansan (at) naver.com
 
 -----
 <img src='/images/Seunghyun Kim.jpeg' width="140" align="left" style="margin-right:40px">
-**Sangyun Lee**  
+**Seunghyun Kim**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           
 Email: spbob0418 (at) cau.ac.kr         

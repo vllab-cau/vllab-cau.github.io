@@ -17,7 +17,7 @@ Email: eunwoo (at) cau.ac.kr
 <img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
 **[Hyundong Jin](https://jin0316.github.io/HyundongJin.io/){:target="_blank"}**     
 Ph.D. Student       
-Research Area: Deep Learning, Continual Learning       
+Research Area: Continual Learning, Multi-Modal Learning       
 Email: jude0316 (at) cau.ac.kr    
 
 
@@ -41,7 +41,7 @@ Email: j2hoooo (at) cau.ac.kr
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **[Gyeonghyeon Kim](https://gyeonghyeon.netlify.app/){:target="_blank"}**      
 Ph.D. Student      
-Research Area: Neural Architecture Search, Computer Vision       
+Research Area: Neural Architecture Search, Video Understanding       
 Email: leonardkkh (at) cau.ac.kr
 
 
@@ -49,7 +49,7 @@ Email: leonardkkh (at) cau.ac.kr
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim**      
 Ph.D. Student      
-Research Area: Deep Learning, Multi-Task Learning           
+Research Area: Multi-Task Learning, Computer Vision           
 Email: kcs6568 (at) cau.ac.kr      
 
 
@@ -57,7 +57,7 @@ Email: kcs6568 (at) cau.ac.kr
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **[Kiseong Hong](https://hongkiseong.github.io/){:target="_blank"}**      
 Ph.D. Student      
-Research Area: Deep Learning, Continual Learning           
+Research Area: Continual Learning, Computer Vision           
 Email: ghdrltjd (at) cau.ac.kr      
 
 
@@ -73,21 +73,21 @@ Email: hsejun07 (at) cau.ac.kr
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son**  
 M.S. Student      
-Research Area: Deep Learning, Multi-Task Learning           
+Research Area: Multi-Task Learning, Pose Estimation           
 Email: jianie1017 (at) cau.ac.kr       
 
 -----
 <img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
 **Hyunjoon Koo**  
 M.S. Student      
-Research Area: Deep Learning, Multi-Modal Learning           
+Research Area: Multi-Modal Learning, Video Understanding           
 Email: ohkdolv (at) cau.ac.kr   
 
 -----
 <img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">
 **Nayoung Ko**  
 M.S. Student      
-Research Area: Deep Learning, Continual Learning           
+Research Area: Continual Learning, Computer Vision           
 Email: kona419 (at) cau.ac.kr   <br><br>
 
 

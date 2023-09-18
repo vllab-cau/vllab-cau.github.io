@@ -9,7 +9,7 @@ author_profile: true
 **Multi-Modal Continual Learning with Context Understanding**
 <img src='/images/multi-modal continual learning4.png' width="280" align="left" style="margin-right:50px">
 
-   This project develops a continual learning approach that exploits multi-modal inputs 
+   This project develops a continual learning method that exploits multi-modal inputs 
    to learn tasks of various domains while comprehending their respective contexts.      
    
    Funded by National Research Foundation.  <br>   

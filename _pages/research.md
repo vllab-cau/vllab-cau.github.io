@@ -4,6 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+-----
+**Multi-Modal Continual Learning with Context Understanding**
+<img src='/images/multi-modal continual learning2.png' width="280" align="left" style="margin-right:50px">
+
+   This project aims to develop a continual learning approach that utilizes multi-modal inputs 
+   to learn tasks of various domains while comprehending their respective contexts.      
+   
+   Funded by National Research Foundation.  <br>   
+
  
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**

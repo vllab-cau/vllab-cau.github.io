@@ -115,13 +115,5 @@ author_profile: true
    This project develops robust non-rigid structure from motion (NRSfM) methods and
    their fundamental robust low-rank factorization algorithms.  <br><br><br><br>   
    
------   
-**Human-Centric Networked Robotics Technology** 
-<img src='/images/human_centric.jpeg' width="280" height="120" align="left" style="margin-right:50px">     
-   
-   This project develops new methods and prototype applications for human-centric
-   networked robots for seamless operations of service robots in our daily lives.  <br><br><br>  
-    
-  
 
 

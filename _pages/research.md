@@ -108,12 +108,3 @@ author_profile: true
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.  <br><br>   
    
------   
-**Practical Action Recognition and Prediction Technology** 
-<img src='/images/nrsfm.png' width="280" align="left" style="margin-right:50px">        
-   
-   This project develops robust non-rigid structure from motion (NRSfM) methods and
-   their fundamental robust low-rank factorization algorithms.  <br><br><br><br>   
-   
-
-

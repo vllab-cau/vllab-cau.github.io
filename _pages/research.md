@@ -17,7 +17,7 @@ author_profile: true
  
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
-<img src='/images/robot_cooking.PNG' width="280" align="left" style="margin-right:50px">
+<img src='/images/samsung_robot_exp.png' width="280" align="left" style="margin-right:50px">
 
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge and task hierarchy for task planning of a robot.    

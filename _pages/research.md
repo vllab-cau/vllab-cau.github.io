@@ -101,7 +101,7 @@ author_profile: true
    This project develops on-the-fly machine learning algorithms using deep learning
    frameworks to realize personalized and environment adaptive learning.  
    
-   Funded by Ministry of Science and ICT (MSIT). <br><br>   
+   Funded by Ministry of Science and ICT (MSIT). <br>   
   
 -----  
 **Human-Level Lifelong Machine Learning** 
@@ -110,5 +110,5 @@ author_profile: true
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.  
    
-   Funded by Ministry of Science, ICT, and Future Planning (MSIP).  <br><br>   
+   Funded by Ministry of Science, ICT, and Future Planning (MSIP).  <br>   
    

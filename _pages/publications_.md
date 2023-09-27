@@ -7,9 +7,9 @@ author_profile: true
 
 ## Selected Publications
 -----
-**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**         
+[**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.pdf)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2023. (Accepted)
+   *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2023.
 
 -----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       

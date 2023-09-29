@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 -----
-**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**         
+[**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2023. (Accepted)
+   *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2023.
 
 -----
 [**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**](https://www.mdpi.com/2076-3417/13/5/3301)         

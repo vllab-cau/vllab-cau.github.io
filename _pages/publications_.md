@@ -8,7 +8,7 @@ author_profile: true
 ## Selected Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
 -----
 **Task-Aware Dynamic Model Optimization for Multi-Task Learning**         
-  Sujin Choi, Hyundong Jin, and Eunwoo Kim       
+  Sujin Choi\*, Hyundong Jin\*, and Eunwoo Kim       
    *IEEE Access*, 2023. (Accepted)
 
 -----

@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 **Task-Aware Dynamic Model Optimization for Multi-Task Learning**         
-  Sujin Choi\*, Hyundong Jin\*, and Eunwoo Kim (\* equal contribution)      
+  Sujin Choi, Hyundong Jin, and Eunwoo Kim      
    *IEEE Access*, 2023. (Accepted)
 
 -----

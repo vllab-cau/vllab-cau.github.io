@@ -9,7 +9,7 @@ author_profile: true
 -----
 **Task-Aware Dynamic Model Optimization for Multi-Task Learning**         
   Sujin Choi, Hyundong Jin, and Eunwoo Kim       
-   *IEEE Access*, 2023 (Accepted).
+   *IEEE Access*, 2023. (Accepted)
 
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         

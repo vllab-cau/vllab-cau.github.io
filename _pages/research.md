@@ -42,7 +42,7 @@ author_profile: true
    This project aims to develop high-performing deep learning models
    to learn and segment time-series actions for various equipments. 
    
-   Funded by HD Hyundai Construction Equipment. <br>
+   Funded by HD Hyundai Construction Equipment. <br><br>
       
 
 ## Past Projects

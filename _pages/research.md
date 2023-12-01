@@ -44,6 +44,9 @@ author_profile: true
    
    Funded by HD Hyundai Construction Equipment. <br>
       
+
+## Past Projects
+
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 
 <img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        

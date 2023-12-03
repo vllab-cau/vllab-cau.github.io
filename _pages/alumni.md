@@ -58,10 +58,7 @@ Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*
 -----
 ## Undergraduate Students
 
-* 23-Spring: Sangmin Kim, Minki Kang, Sangyun Lee
-* 22-Fall: Younggwang Park, Hyunjoon Koo, Jian Son, Sumin Lee
-* 22-Spring: Bolim Lee, Suhyun Shin, Younggwang Park, Jonguk Han
-* 21-Fall: Soyoung Park, Hayun Lee, Gyeongbin Han, Bolim Lee, Suhyun Shin
-* 21-Spring: Minju Ro, Sehwan Joo, Jaewook Lee, Soyoung Park, Hayun Lee
-* 20-Fall: Yoonhee Kim, Jiho Lee, Kyeonghyeon Kim, Youngmu Byun, Seowon Yoon, Minju Ro, Sehwan Joo
-* 20-Spring: Yoonhee Kim, Jiho Lee, Kyeonghyeon Kim
+* 2023: Sangmin Kim, Minki Kang, Sangyun Lee
+* 2022: Bolim Lee, Suhyun Shin, Younggwang Park, Jonguk Han, Hyunjoon Koo, Jian Son, Sumin Lee
+* 2021: Jaewook Lee, Soyoung Park, Hayun Lee, Gyeongbin Han
+* 2020: Yoonhee Kim, Jiho Lee, Kyeonghyeon Kim, Youngmu Byun, Seowon Yoon, Minju Ro, Sehwan Joo

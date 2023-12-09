@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Recent Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
+## Selected Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
@@ -36,6 +36,51 @@ author_profile: true
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2018.   
    (Spotlight Presentation)   
+
+-----
+[**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments**](https://www.sciencedirect.com/science/article/pii/S0921889016300392)      
+   Sungjoon Choi, Eunwoo Kim, Kyungjae Lee, and Songhwai Oh     
+   *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.
+   
+-----
+[**Robust Elastic-Net Subspace Representation**](https://ieeexplore.ieee.org/document/7506231)       
+   Eunwoo Kim, Minsik Lee, and Songhwai Oh      
+   *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.
+   
+-----
+[**Robust Orthogonal Matrix Factorization for Efficient Subspace Learning**](https://www.sciencedirect.com/science/article/pii/S092523121500555X)       
+   Eunwoo Kim and Songhwai Oh      
+   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.
+   
+-----
+[**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
+   Eunwoo Kim, Minsik Lee, and Songhwai Oh      
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June  2015.
+
+-----
+[**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
+   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
+
+-----
+[**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
+   Eunwoo Kim, Sungjoon Choi, and Songhwai Oh    
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2015.
+   
+-----
+[**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method**](https://ieeexplore.ieee.org/abstract/document/6784021)       
+   Eunwoo Kim, Minsik Lee, Chong-Ho Choi, Nojun Kwak, and Songhwai Oh     
+   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, vol. 26, no. 2, pp. 237-251, Feb. 2015.
+
+-----
+[**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**](https://ieeexplore.ieee.org/document/6943184)       
+   Eunwoo Kim, Sungjoon Choi, and Songhwai Oh       
+   *In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep 2014.
+
+-----
+[**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
+   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
+   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
    
        
 ----- 

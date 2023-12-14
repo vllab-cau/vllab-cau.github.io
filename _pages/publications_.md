@@ -55,7 +55,7 @@ author_profile: true
 -----
 [**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June  2015.
+   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2015.
 
 -----
 [**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
@@ -75,7 +75,7 @@ author_profile: true
 -----
 [**A Robust Autoregressive Gaussian Process Motion Model Using l1-Norm Based Low-Rank Kernel Matrix Approximation**](https://ieeexplore.ieee.org/document/6943184)       
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh       
-   *In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep 2014.
+   *In Proc. of the IEEE International Conference on Intelligent Robots and Systems (IROS)*, Sep. 2014.
 
 -----
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       

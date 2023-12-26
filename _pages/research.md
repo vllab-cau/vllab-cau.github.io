@@ -76,7 +76,7 @@ author_profile: true
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
    and developing machine learning based risk-identification algorithms.
    
-   Funded by National Research Foundation Basic Research Laboratory Program. <br>
+   Funded by National Research Foundation (Basic Research Laboratory). <br>
    
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
@@ -95,7 +95,7 @@ author_profile: true
    autonomous cars on normal public roads in an urban environment, aimed primarily
    at individuals that currently drive their commute to and from work.  
    
-   Funded by UK Research and Innovation (UKRI). <br>
+   Funded by UK Research and Innovation. <br>
      
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**

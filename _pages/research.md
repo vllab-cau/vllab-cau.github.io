@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 **Multi-Modal Continual Learning with Context Understanding**
-<img src='/images/multi-modal continual learning5.png' width="280" align="left" style="margin-right:50px">
+<img src='/images/multi-modal continual learning5.png' width="290" align="left" style="margin-right:50px">
 
    This project develops a continual learning method that exploits multi-modal inputs 
    to learn tasks of various domains while comprehending their respective contexts.      
@@ -17,7 +17,7 @@ author_profile: true
  
 -----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
-<img src='/images/samsung_robot_exp2.png' width="280" align="left" style="margin-right:50px">
+<img src='/images/samsung_robot_exp2.png' width="290" align="left" style="margin-right:50px">
 
    This project aims to develop an object-oriented framework 
    to learn transferable knowledge and task hierarchy for task planning of a robot.    
@@ -27,7 +27,7 @@ author_profile: true
 
 -----
 **Development of AI for Self-Improving Competency-Aware Learning** 
-<img src='/images/h2.png' width="280" align="left" style="margin-right:50px">       
+<img src='/images/h2.png' width="290" align="left" style="margin-right:50px">       
        
    This project develops an algorithm that explores optimal models 
    and parameters of prerequisite learning tasks suitable for new learning situations.  
@@ -37,7 +37,7 @@ author_profile: true
    
 -----
 **Time-Series Action Prediction and Segmentation** 
-<img src='/images/hyundai_heavy_equipment.png' width="300" align="left" style="margin-right:30px">        
+<img src='/images/hyundai_heavy_equipment.png' width="310" align="left" style="margin-right:30px">        
         
    This project aims to develop high-performing deep learning models
    to learn and segment time-series actions for various equipments. 
@@ -49,7 +49,7 @@ author_profile: true
 
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 
-<img src='/images/ADM.png' width="280" align="left" style="margin-right:50px">        
+<img src='/images/ADM.png' width="290" align="left" style="margin-right:50px">        
         
    This project aims to develop versatile deep learning approaches 
    to perform multiple tasks on devices of limited capacity 
@@ -60,7 +60,7 @@ author_profile: true
 
 -----
 **Customized Neural Architecture Search and Proposal**
-<img src='/images/nas_small.jpg' width="280" align="left" style="margin-right:50px">       
+<img src='/images/nas_small.jpg' width="290" align="left" style="margin-right:50px">       
        
    This project aims to develop customized neural architecture search technology 
    for visual tasks. 
@@ -70,7 +70,7 @@ author_profile: true
    
 -----
 **Vision Intelligence based Construction Safety Management System** 
-<img src='/images/brl.PNG' width="280" align="left" style="margin-right:50px">        
+<img src='/images/brl.PNG' width="290" align="left" style="margin-right:50px">        
         
    This project aims to develop a video surveillance system 
    in construction sites by analyzing potential risks and hazards, collecting visual data, 
@@ -80,7 +80,7 @@ author_profile: true
    
 -----
 **Pose Estimation for Bin-Picking with a 3D Model**
-<img src='/images/pose.png' width="300" align="left" style="margin-right:30px"> 
+<img src='/images/pose.png' width="310" align="left" style="margin-right:30px"> 
 
    This project develops exact 6D pose estimation and 
    instance segmentation algorithms for a bin-picking problem of a robot.   
@@ -89,7 +89,7 @@ author_profile: true
 
 -----
 **StreetWise**
-<img src='/images/streetwise5.png' width="280" align="left" style="margin-right:50px">    
+<img src='/images/streetwise5.png' width="290" align="left" style="margin-right:50px">    
    
    The project aims to develop the technology and service needed to operate
    autonomous cars on normal public roads in an urban environment, aimed primarily
@@ -99,7 +99,7 @@ author_profile: true
      
 -----
 **On-the-fly Machine Learning for Evolving Intelligent CPS**
-<img src='/images/otfml.png' width="280" align="left" style="margin-right:50px">       
+<img src='/images/otfml.png' width="290" align="left" style="margin-right:50px">       
    
    This project develops on-the-fly machine learning algorithms using deep learning
    frameworks to realize personalized and environment adaptive learning.  
@@ -108,7 +108,7 @@ author_profile: true
   
 -----  
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml2.png' width="280" align="left" style="margin-right:50px">      
+<img src='/images/ml2.png' width="290" align="left" style="margin-right:50px">      
    
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.  

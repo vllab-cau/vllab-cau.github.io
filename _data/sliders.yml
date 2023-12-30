@@ -2,9 +2,9 @@
 - selector: example_slider
   captions: true
   images:
-    - src: /images/lab_pic_202304_2.jpg
-      alt: image one
     - src: /images/lab_pic_202309_2.jpg
+      alt: image one
+    - src: /images/lab_pic_202304_2.jpg
       alt: image two
     - src: /images/20221124_3.jpg
       alt: image three

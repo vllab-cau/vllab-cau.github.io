@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About"
 image_sliders:
-  - example_slider
+  - slider_main
 author_profile: true
 redirect_from: 
   - /about/

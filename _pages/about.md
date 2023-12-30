@@ -4,6 +4,7 @@ title: ""
 excerpt: "About"
 image_sliders:
   - slider_main
+image_sliders_load_all: true
 author_profile: true
 redirect_from: 
   - /about/

@@ -20,7 +20,6 @@ Our research interests include machine learning, deep learning, automated machin
 
 <img src='/images/lab_pic_202309_2.jpg' width="800" align="left" style="margin-right:50px">
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 
 carousels:

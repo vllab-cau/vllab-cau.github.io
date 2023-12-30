@@ -1,5 +1,5 @@
 # example slider
-- selector: example_slider
+- selector: slider_main
   captions: true
   images:
     - src: /images/lab_pic_202309_2.jpg

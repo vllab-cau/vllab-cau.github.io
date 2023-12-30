@@ -5,8 +5,8 @@ excerpt: "About"
 carousels:
   - images: 
     - image: /images/lab_pic_202309_2.jpg
-    - image: /images/20230403_1.jpg
-    - image: /images/20221124_3.jpg
+    - image: /images/lab_cvpr_2023.jpg
+    - image: /images/20230403_1.jpg    
 author_profile: true
 redirect_from: 
   - /about/

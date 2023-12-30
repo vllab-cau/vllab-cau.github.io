@@ -151,6 +151,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Carousel
+carousels:
+  - images: 
+    - image: /images/lab_pic_202304_2.jpg
+    - image: /images/lab_pic_202309_2.jpg
+
 
 # Conversion
 markdown: kramdown

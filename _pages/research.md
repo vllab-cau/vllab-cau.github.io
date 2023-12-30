@@ -14,16 +14,6 @@ author_profile: true
    
    Funded by National Research Foundation.  <br>   
 
- 
------
-**Learning Transferable Task Knowledge and Planner for Service Robots**
-<img src='/images/samsung_robot_exp2.png' width="290" align="left" style="margin-right:50px">
-
-   This project aims to develop an object-oriented framework 
-   to learn transferable knowledge and task hierarchy for task planning of a robot.    
-   
-   Funded by Samsung Research Funding & Incubation Center.  <br>   
-
 
 -----
 **Development of AI for Self-Improving Competency-Aware Learning** 
@@ -46,6 +36,16 @@ author_profile: true
       
 
 ## Past Projects
+
+-----
+**Learning Transferable Task Knowledge and Planner for Service Robots**
+<img src='/images/samsung_robot_exp2.png' width="290" align="left" style="margin-right:50px">
+
+   This project aims to develop an object-oriented framework 
+   to learn transferable knowledge and task hierarchy for task planning of a robot.    
+   
+   Funded by Samsung Research Funding & Incubation Center.  <br>   
+
 
 -----
 **Automated Deep Learning Technology for Multi-Task Learning** 

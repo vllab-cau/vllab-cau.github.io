@@ -1,5 +1,6 @@
 # example slider
 - selector: slider_main
+  bullets: false
   captions: true
   images:
     - src: /images/lab_pic_202309_2.jpg
@@ -9,5 +10,13 @@
     - src: /images/20221124_3.jpg
       alt: image three
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

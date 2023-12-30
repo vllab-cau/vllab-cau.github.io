@@ -4,11 +4,11 @@
   captions: true
   images:
     - src: /images/lab_pic_202309_2.jpg
-      alt: image one
+      alt: 1/3
     - src: /images/lab_pic_202304_2.jpg
-      alt: image two
+      alt: 2/3
     - src: /images/20221124_3.jpg
-      alt: image three
+      alt: 3/3
   settings:
     height: 400
     initialHeight:

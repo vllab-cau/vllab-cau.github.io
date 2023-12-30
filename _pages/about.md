@@ -20,4 +20,4 @@ We engage in research to explore methods that understand and learn any intellect
 
 Our research interests include machine learning, deep learning, automated machine learning, multi-task learning, multi-modal learning, continual learning, representation learning, and their applications to computer vision and robotics, but not limited to.
 
-{% include slider.html selector="example_slider" %}
+{% include slider.html selector="slider_main" %}

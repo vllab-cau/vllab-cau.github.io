@@ -6,7 +6,7 @@
       alt: image one
     - src: /images/lab_pic_202309_2.jpg
       alt: image two
-    - src: /images/20230403_1.jpg
+    - src: /images/20221124_3.jpg
       alt: image three
   settings:
     height: "'auto'"

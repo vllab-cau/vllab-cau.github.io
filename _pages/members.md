@@ -93,25 +93,7 @@ Email: kona419 (at) cau.ac.kr   <br><br>
 
 -----
 ## Undergraduate Students  
-<img src='/images/Hayun Lee.png' width="140" align="left" style="margin-right:40px">
-**Hayun Lee**  
-B.S. Student      
-Research Area: Deep Learning, Computer Vision           
-Email: hayun0406 (at) cau.ac.kr   
 
------
-<img src='/images/Sangyun Lee1.jpg' width="140" align="left" style="margin-right:40px">
-**Sangyun Lee**  
-B.S. Student      
-Research Area: Deep Learning, Computer Vision           
-Email: 99sansan (at) naver.com         
-
------
-<img src='/images/Seunghyun Kim.png' width="140" align="left" style="margin-right:40px">
-**Seunghyun Kim**  
-B.S. Student      
-Research Area: Deep Learning, Computer Vision           
-Email: spbob0418 (at) cau.ac.kr         
 
 
 ------

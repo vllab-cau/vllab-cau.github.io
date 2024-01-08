@@ -98,7 +98,7 @@ Email: kona419 (at) cau.ac.kr   <br><br>
 **Heayoun Choi**  
 Intern      
 Research Area: Deep Learning, Computer Vision           
-Email: heayounchoi (at) gmail.com   
+Email: heayounchoi (at) gmail.com    <br>
 
 
 ------

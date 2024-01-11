@@ -57,15 +57,6 @@ author_profile: true
    Funded by National Research Foundation. <br>
 
 -----
-**Deep Embedding Technology for Analysis of Visual Memory Similarity**
-<img src='/images/etri.PNG' width="290" align="left" style="margin-right:50px">        
-
-   This project investigates the similarity of visual memory of 
-   similar tasks based on machine learning-based embedding algorithms.
-    
-   Funded by ETRI. <br>
-
------
 **Customized Neural Architecture Search and Proposal**
 <img src='/images/nas_small.jpg' width="290" align="left" style="margin-right:50px">       
        
@@ -74,6 +65,14 @@ author_profile: true
    
    Funded by Samsung SDS. <br>     
 
+-----
+**Deep Embedding Technology for Analysis of Visual Memory Similarity**
+<img src='/images/etri.PNG' width="290" align="left" style="margin-right:50px">        
+
+   This project investigates the similarity of visual memory of 
+   similar tasks based on machine learning-based embedding algorithms.
+    
+   Funded by ETRI. <br>
    
 -----
 **Vision Intelligence based Construction Safety Management System** 

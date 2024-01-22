@@ -7,18 +7,12 @@ author_profile: True
 
 ## Undergraduate Courses
 -----
-* Machine Learning (54616)
-   * Spring 2024, Spring 2023
-* Capstone Design (56119, 56120)
-   * Spring 2024, Fall 2023, Spring 2023, Fall 2022, Spring 2022, Fall 2021
-* Discrete Mathematics (17086)
-   * Fall 2023, Fall 2022, Fall 2021, Fall 2020, Fall 2019
-* Algorithms (13601)
-   * Spring 2022, Spring 2021, Spring 2020
-* Programming (47710)
-   * Fall 2019
+* Machine Learning (54616) - 2024S, 2023S   
+* Capstone Design (56119, 56120) - 2024S, 2023F, 2023S, 2022F, 2022S, 2021F   
+* Discrete Mathematics (17086) - 2023F, 2022F, 2021F, 2020F, 2019F   
+* Algorithms (13601) - 2022S, 2021S, 2020S   
+* Programming (47710) - 2019F
 
 ## Graduate Course
 -----
-* Advanced Artificial Intelligence (01841, 55697)
-   * Spring 2024, Fall 2023, Fall 2022, Fall 2021, Fall 2020
+* Advanced Artificial Intelligence (01841, 55697) - 2024S, 2023F, 2022F, 2021F, 2020F   

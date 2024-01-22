@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
------
 **Multi-Modal Continual Learning with Context Understanding**
 <img src='/images/multi-modal continual learning5.png' width="290" align="left" style="margin-right:50px">
 
@@ -33,7 +32,7 @@ author_profile: true
    Funded by IITP. <br><br>
    
         
-
+-----
 ## Past Projects
 
 -----

@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+-----
 ## Selected Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         

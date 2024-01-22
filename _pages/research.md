@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+## Ongoing Projects
 
 **Multi-Modal Continual Learning with Context Understanding**
 <img src='/images/multi-modal continual learning5.png' width="290" align="left" style="margin-right:50px">

@@ -5,7 +5,6 @@ permalink: /courses/
 author_profile: True
 ---
 
------
 ## Undergraduate Courses
 * Machine Learning (54616)
    * Spring 2024, Spring 2023

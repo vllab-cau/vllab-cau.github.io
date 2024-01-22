@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: True
 ---
 
------
 **VISION & LEARNING LABORATORY**      
 Building 208 Rooms 312 & 315     
 Chung-Ang University  

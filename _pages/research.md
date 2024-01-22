@@ -34,9 +34,9 @@ author_profile: true
    Funded by IITP. <br><br>
    
         
------
-## Past Projects
 
+## Past Projects
+-----
 **Learning Transferable Task Knowledge and Planner for Service Robots**
 <img src='/images/samsung_robot_exp2.png' width="290" align="left" style="margin-right:50px">
 

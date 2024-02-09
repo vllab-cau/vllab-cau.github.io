@@ -6,6 +6,7 @@ carousels:
   - images: 
     - image: /images/lab_pic_202309_2.jpg
     - image: /images/lab_cvpr_2023.JPG
+    - image: /images/20230421_5.jpg
     - image: /images/20230403_1.jpg
     - image: /images/20220704_6.jpg    
 author_profile: true

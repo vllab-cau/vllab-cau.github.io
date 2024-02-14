@@ -69,12 +69,14 @@ M.S. Student
 Research Area: Multi-Task Learning, Pose Estimation           
 Email: jianie1017 (at) cau.ac.kr       
 
+
 -----
 <img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
 **Hyunjoon Koo**  
 M.S. Student      
 Research Area: Multi-Modal Learning, Video Understanding           
 Email: ohkdolv (at) cau.ac.kr   
+
 
 -----
 <img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">

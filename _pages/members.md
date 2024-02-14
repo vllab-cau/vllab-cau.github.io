@@ -84,6 +84,14 @@ Research Area: Continual Learning, Semantic Segmentation
 Email: kona419 (at) cau.ac.kr   <br><br>
 
 
+-----
+<img src='/images/Hayun Lee.png' width="140" align="left" style="margin-right:40px">
+**Hayun Lee**  
+M.S. Student      
+Research Area: Deep Learning, Multi-Modal Learning           
+Email: hayun0406 (at) cau.ac.kr   <br><br>
+
+
 
 -----
 ## Undergraduate Students  

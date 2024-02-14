@@ -8,9 +8,9 @@ author_profile: true
 ## Graduate Students
 
 <img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
-**Sejun Hong (M.S., 2024)**
+**Sejun Hong (M.S., 2024)** 
 Research Area: Deep Learning, 3D Vision           
-Thesis: *NeRF-DA: Neural Radiance Fields Deblurring with Active Learning* <br><br>  
+Thesis: *NeRF-DA: Neural Radiance Fields Deblurring with Active Learning* <br><br>
 
 -----
 <img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">

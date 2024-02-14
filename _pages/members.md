@@ -92,7 +92,6 @@ Research Area: Deep Learning, Multi-Modal Learning
 Email: hayun0406 (at) cau.ac.kr   <br><br>
 
 
-
 -----
 ## Undergraduate Students  
 

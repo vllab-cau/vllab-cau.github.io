@@ -30,7 +30,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 - Machine Learning: Representation Learning, Active Learning, Subspace Learning, AutoML
 - Deep Learning: Multi-Task Learning, Continual Learning, Multi-Modal Learning, Neural Architecture Search
 - Computer Vision: Video Understanding, Action Segmentation, Pose Estimation
-- Robotics: Robot Vision, Task Planning, Manipulation, Autonomous Navigation
+- Robotics: Robot Vision, Robot Task Planning, Manipulation, Grounding Language Models
 
 ## Research Projects
 * [List of Projects](https://vllab-cau.github.io/research/) 

@@ -11,7 +11,7 @@ author_profile: true
    *한국로봇종합학술대회*, Feb 2024.   
 
 -----
-**동적 관절 정밀화를 활용한 3차원 인간 자세 추**     
+**동적 관절 정밀화를 활용한 3차원 인간 자세 추정**     
    Jian Son, Jiho Lee, Changseong Kim, and Eunwoo Kim      
    *한국로봇종합학술대회*, Feb 2024.   
 

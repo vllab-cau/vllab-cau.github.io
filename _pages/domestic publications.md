@@ -8,17 +8,17 @@ author_profile: true
 -----
 **동영상 및 자연어 이해를 위한 정보 필터**     
    Hyunjoon Koo, Jungkyoo Shin, Kiseong Hong, and Eunwoo Kim      
-   *한국로봇종합학술대회회*, Feb 2024.   
+   *한국로봇종합학술대회*, Feb 2024.   
 
 -----
 **동적 관절 정밀화를 활용한 3차원 인간 자세 추**     
    Jian Son, Jiho Lee, Changseong Kim, and Eunwoo Kim      
-   *한국로봇종합학술대회회*, Feb 2024.   
+   *한국로봇종합학술대회*, Feb 2024.   
 
 -----
 **트랜스포머를 사용한 연속적인 의미론적 분할**     
    Nayoung Ko, Hyundong Jin, Gyeonghyeon Kim, and Eunwoo Kim      
-   *한국로봇종합학술대회회*, Feb 2024.   
+   *한국로봇종합학술대회*, Feb 2024.   
 
 -----
 **연속 학습을 위한 태스크 맞춤형 네트워크 할당량 탐색**     

@@ -105,7 +105,7 @@ Research Area: Deep Learning, Computer Vision
 Email: heayounchoi (at) gmail.com      
 
 -----
-<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">
+<img src='/images/Eunbee Lee.png' width="140" align="left" style="margin-right:40px">
 **Eunbee Lee**  
 Undergraduate Intern      
 Research Area: Deep Learning, Computer Vision           

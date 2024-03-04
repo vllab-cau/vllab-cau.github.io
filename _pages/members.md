@@ -102,7 +102,14 @@ Email: hayun0406 (at) cau.ac.kr   <br><br>
 **Heayoun Choi**  
 Undergraduate Intern      
 Research Area: Deep Learning, Computer Vision           
-Email: heayounchoi (at) gmail.com    <br><br>
+Email: heayounchoi (at) gmail.com      
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">
+**Eunbee Lee**  
+Undergraduate Intern      
+Research Area: Deep Learning, Computer Vision           
+Email: leb9977 (at) naver.com    <br><br>
 
 
 ------

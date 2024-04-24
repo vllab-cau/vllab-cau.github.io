@@ -50,7 +50,7 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 
 
 ## Awards and Honors
-* NVIDIA GPU Grant, Awarded Titan V, NVIDIA Corporation, 2019.
+* NVIDIA GPU Grant, NVIDIA Corporation, 2019.
 * Distinguished Doctoral Dissertation Award, EECS, Seoul National University, 2017.
 * Silver Prize, Samsung HumanTech Paper Award, Samsung, 2017.
 * Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016.

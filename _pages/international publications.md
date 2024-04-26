@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-**Mitigating Search Interference with Task-Aware Nested Search**         
+[**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
   Jiho Lee and Eunwoo Kim      
    *IEEE Transactions on Image Processing (TIP)*, 2024. (Accepted)
 

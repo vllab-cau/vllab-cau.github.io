@@ -79,7 +79,7 @@ Email: ohkdolv (at) cau.ac.kr
 
 
 -----
-<img src='/images/Nayoung Ko.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Nayoung Ko2.jpg' width="140" align="left" style="margin-right:40px">
 **Nayoung Ko**  
 M.S. Student      
 Research Area: Continual Learning, Semantic Segmentation           

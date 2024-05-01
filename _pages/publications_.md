@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
   Jiho Lee and Eunwoo Kim      
-   *IEEE Transactions on Image Processing (TIP)*, 2024. (Accepted)
+   *IEEE Transactions on Image Processing (TIP)*, vol. 33, pp. 3102-3114, Apr. 2024.
 
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         

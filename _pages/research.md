@@ -1,4 +1,4 @@
-![image](https://github.com/vllab-cau/vllab-cau.github.io/assets/65408361/c5303f69-9178-47a0-8810-82272de5a9b7)---
+---
 layout: archive
 title: "Research"
 permalink: /research/

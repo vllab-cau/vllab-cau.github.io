@@ -1,4 +1,4 @@
----
+![image](https://github.com/vllab-cau/vllab-cau.github.io/assets/65408361/c5303f69-9178-47a0-8810-82272de5a9b7)---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -33,6 +33,16 @@ author_profile: true
    
    Funded by IITP. <br> <br>
    
+
+-----
+**AI-based Fingerprint Anlyses** 
+<img src='/images/proj_doosan.png' width="290" align="left" style="margin-right:50px">       
+       
+   This project develops a deep learning approach to analyze and 
+   predict the operating patterns from sequential data.  
+   
+   Funded by Doosan Enerbility. <br> <br>
+
         
 
 ## Past Projects

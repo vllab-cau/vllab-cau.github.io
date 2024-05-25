@@ -31,7 +31,7 @@ author_profile: true
    This project develops an algorithm that explores optimal models 
    and parameters of prerequisite learning tasks suitable for new learning situations.  
    
-   Funded by IITP. <br> <br>
+   Funded by IITP. <br>
    
 
 -----
@@ -42,7 +42,6 @@ author_profile: true
    predict the operating patterns from sequential data.  
    
    Funded by Doosan Enerbility. <br> <br>
-
         
 
 ## Past Projects

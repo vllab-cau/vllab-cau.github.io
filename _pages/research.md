@@ -35,7 +35,7 @@ author_profile: true
 
 -----
 **AI-based Fingerprint Anlyses** 
-<img src='/images/proj_doosan.png' width="290" align="left" style="margin-right:50px">       
+<img src='/images/proj_doosan2.png' width="290" align="left" style="margin-right:50px">       
        
    This project develops a deep learning approach to analyze and 
    predict the operating patterns from sequential data.  

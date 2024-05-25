@@ -34,7 +34,7 @@ author_profile: true
    Funded by IITP. <br><br>  
 
 -----
-**AI-based Fingerprint Anlyses** 
+**AI-based Fingerprint Anlysis** 
 <img src='/images/proj_doosan2.png' width="290" align="left" style="margin-right:50px">       
        
    This project develops a deep learning approach to analyze and 

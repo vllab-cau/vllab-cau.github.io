@@ -31,8 +31,7 @@ author_profile: true
    This project develops an algorithm that explores optimal models 
    and parameters of prerequisite learning tasks suitable for new learning situations.  
    
-   Funded by IITP. <br>
-   
+   Funded by IITP. <br>   
 
 -----
 **AI-based Fingerprint Anlyses** 
@@ -43,6 +42,7 @@ author_profile: true
    
    Funded by Doosan Enerbility. <br> <br>
         
+
 
 ## Past Projects
 -----

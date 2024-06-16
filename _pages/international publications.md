@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 -----
+**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**         
+  Chanjong Park and Eunwoo Kim      
+   *Pattern Recognition Letters*, 2024. (Accepted)
+
+-----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
   Jiho Lee and Eunwoo Kim      
    *IEEE Transactions on Image Processing (TIP)*, vol. 33, pp. 3102-3114, Apr. 2024.

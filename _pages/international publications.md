@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**         
+[**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         
   Chanjong Park and Eunwoo Kim      
    *Pattern Recognition Letters*, 2024. (Accepted)
 

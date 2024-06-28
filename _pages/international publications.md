@@ -8,7 +8,7 @@ author_profile: true
 -----
 [**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         
   Chanjong Park and Eunwoo Kim      
-   *Pattern Recognition Letters*, 2024. (Accepted)
+   *Pattern Recognition Letters*, vol. 184, pp. 133-139, Aug. 2024.
 
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         

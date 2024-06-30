@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 -----
+**DETR 모델 기반 연속적 시간적 동작 분류**     
+   Gyeong-Hyeon Kim and Eunwoo Kim      
+   *대한전자공학회 하계학술대회*, June 2024.
+
+-----
+**다중 모달리티를 위한 연속학습**     
+   Hyundong Jin and Eunwoo Kim      
+   *대한전자공학회 하계학술대회*, June 2024.
+
+-----
 **동영상 및 자연어 이해를 위한 정보 필터**     
    Hyunjoon Koo, Jungkyoo Shin, Kiseong Hong, and Eunwoo Kim      
    *한국로봇종합학술대회*, Feb 2024.   

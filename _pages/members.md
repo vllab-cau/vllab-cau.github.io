@@ -91,7 +91,7 @@ Email: kona419 (at) cau.ac.kr
 **Hayun Lee**   
 M.S. Student      
 Research Area: Deep Learning, Multi-Modal Learning           
-Email: hayun0406 (at) cau.ac.kr
+Email: hayun0406 (at) cau.ac.kr      
 
 
 <img src='/images/Heayoun Choi.jpg' width="140" align="left" style="margin-right:40px">

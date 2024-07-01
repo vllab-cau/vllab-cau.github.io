@@ -7,6 +7,11 @@ author_profile: true
 
 ## Selected Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
 -----
+**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
+  Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
+   *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024.
+
+-----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
   Jiho Lee and Eunwoo Kim      
    *IEEE Transactions on Image Processing (TIP)*, vol. 33, pp. 3102-3114, Apr. 2024.

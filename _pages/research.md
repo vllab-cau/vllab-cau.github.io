@@ -41,7 +41,7 @@ author_profile: true
    This project develops a deep learning approach to analyze and 
    predict the operating patterns from sequential data.  
    
-   Funded by Doosan. <br> <br>
+   Funded by Doosan Enerbility. <br> <br>
         
 
 

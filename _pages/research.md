@@ -16,6 +16,15 @@ author_profile: true
    Funded by National Research Foundation.  <br>   
 
 -----
+**Development of AI for Self-Improving Competency-Aware Learning** 
+<img src='/images/h2.png' width="290" align="left" style="margin-right:50px">       
+       
+   This project develops an algorithm that explores optimal models 
+   and parameters of prerequisite learning tasks suitable for new learning situations.  
+   
+   Funded by IITP. <br><br>  
+
+-----
 **Time-Series Action Prediction and Segmentation** 
 <img src='/images/hyundai_heavy_equipment.png' width="310" align="left" style="margin-right:30px">        
         
@@ -24,14 +33,6 @@ author_profile: true
    
    Funded by HD Hyundai Construction Equipment. <br>
 
------
-**Development of AI for Self-Improving Competency-Aware Learning** 
-<img src='/images/h2.png' width="290" align="left" style="margin-right:50px">       
-       
-   This project develops an algorithm that explores optimal models 
-   and parameters of prerequisite learning tasks suitable for new learning situations.  
-   
-   Funded by IITP. <br><br>  
 
 -----
 **AI-based Fingerprint Anlysis** 

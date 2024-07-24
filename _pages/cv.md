@@ -33,10 +33,6 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 - Robotics: Robot Vision, Robot Task Planning, Manipulation, Grounding Language Models
 
 
-## Research Projects
-* [List of Projects](https://vllab-cau.github.io/research/) 
-
-
 ## Publications
 * [List of Publications](https://vllab.cau.ac.kr/publications/) 
 

@@ -22,7 +22,7 @@ Office: Building 208, Room 508
 Email: eunwoo (at) cau.ac.kr      
 
 -------
-Eunwoo Kim is an associate professor in the School of Computer Science and Engineering and the Department of Artificial Iintelligence at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford and Seoul National University. He received the Ph.D. degree in the Department of Electrical Engineering and Computer Science at Seoul National University in 2017.
+Eunwoo Kim is an associate professor in the School of Computer Science and Engineering and the Department of Artificial Iintelligence at Chung-Ang University, Seoul, Korea. Before that, he was a postdoctoral researcher at University of Oxford. He received the Ph.D. degree in the Department of Electrical Engineering and Computer Science at Seoul National University in 2017.
 
 -------
 

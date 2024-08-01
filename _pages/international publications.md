@@ -13,7 +13,7 @@ author_profile: true
 -----
 [**Active Learning with Long-Range Observation**](https://ieeexplore.ieee.org/document/10614786)         
   Jiho Lee and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, 2024.
+   *IEEE Signal Processing Letters*, 2024. (Early Access)
 
 -----
 [**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         

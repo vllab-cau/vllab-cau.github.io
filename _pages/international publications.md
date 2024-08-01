@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 -----
-**Active Learning with Long-Range Observation**         
+[**Active Learning with Long-Range Observation**[(https://ieeexplore.ieee.org/document/10614786)         
   Jiho Lee and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, 2024. (Accepted)
+   *IEEE Signal Processing Letters*, 2024.
 
 -----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         

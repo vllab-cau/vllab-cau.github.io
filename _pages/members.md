@@ -111,7 +111,12 @@ Email: leb9977 (at) naver.com    <br><br>
 
 
 -----
-## Undergraduate Students  
+## Undergrad Students
+<img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
+**Seungjin Han**  
+Intern      
+Research Area: Deep Learning, Computer Vision           
+Email: melonfif1 (at) naver.com
 
 
 ------

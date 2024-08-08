@@ -11,14 +11,14 @@ author_profile: true
    *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video]
 
 -----
-[**Active Learning with Long-Range Observation**](https://ieeexplore.ieee.org/document/10614786)         
-  Jiho Lee and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, 2024. (Early Access)
-
------
 [**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         
   Chanjong Park and Eunwoo Kim      
    *Pattern Recognition Letters*, vol. 184, pp. 133-139, Aug. 2024.
+
+-----
+[**Active Learning with Long-Range Observation**](https://ieeexplore.ieee.org/document/10614786)         
+  Jiho Lee and Eunwoo Kim      
+   *IEEE Signal Processing Letters*, vol. 31, pp.1990-1994, July 2024.
 
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications ([Full List](http://vllab-cau.github.io/publications/international-publications))
+## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      

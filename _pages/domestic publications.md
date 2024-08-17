@@ -5,7 +5,7 @@ permalink: /publications/domestic-publications
 author_profile: true
 ---
 
-## Domestic Conferences
+## Conference Publications
 -----
 * 김경현, 김은우, "DETR 모델 기반 연속적 시간적 동작 분류", *대한전자공학회 하계학술대회*, June 2024.
 * 진현동, 김은우, "다중 모달리티를 위한 연속학습", *대한전자공학회 하계학술대회*, June 2024.

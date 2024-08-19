@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "International Publications"
+title: "Publications"
 permalink: /publications/international-publications
 author_profile: true
 ---
 
+## International Publications
 -----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
@@ -167,3 +168,8 @@ author_profile: true
 [**Human Behavior Prediction for Smart Homes Using Deep Learning**](https://ieeexplore.ieee.org/document/6628440)       
    Sungjoon  Choi, Eunwoo Kim, and Songhwai Oh      
    *In Proc. of the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
+
+----- 
+## [Domestic Publications](http://vllab-cau.github.io/publications/domestic-publications)
+-----
+

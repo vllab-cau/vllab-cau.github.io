@@ -91,11 +91,5 @@ author_profile: true
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
    Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
    *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2014.
-   
-       
------ 
-## [Domestic Publications](http://vllab-cau.github.io/publications/domestic-publications)
------
-
 
 

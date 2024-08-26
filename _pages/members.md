@@ -107,7 +107,15 @@ Email: heayounchoi (at) gmail.com
 **Eunbee Lee**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: lequalb99 (at) cau.ac.kr    <br><br>
+Email: lequalb99 (at) cau.ac.kr
+
+
+-----
+<img src='/images/profile.png' width="140" align="left" style="margin-right:40px">
+**Jeongwon Choi**  
+M.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: whffkaos1324 (at) naver.com    <br><br>
 
 
 -----

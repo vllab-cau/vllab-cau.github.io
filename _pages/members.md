@@ -87,7 +87,7 @@ Email: kona419 (at) cau.ac.kr
 
 
 -----
-<img src='/images/Hayun Lee.png' width="140" align="left" style="margin-right:40px">
+<img src='/images/hayunlee.jpg' width="140" align="left" style="margin-right:40px">
 **Hayun Lee**   
 M.S. Student      
 Research Area: Continual Learning, Robotics           

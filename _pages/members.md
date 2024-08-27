@@ -123,7 +123,7 @@ Email: whffkaos1324 (at) naver.com    <br><br>
 <img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
 **Seungjin Han**  
 Intern      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Action Segmentation           
 Email: melonfif1 (at) naver.com
 
 

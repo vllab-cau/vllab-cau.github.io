@@ -99,7 +99,7 @@ Email: hayun0406 (at) cau.ac.kr
 **Heayoun Choi**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: heayounchoi (at) gmail.com      
+Email: heayounchoi (at) cau.ac.kr      
 
 
 -----

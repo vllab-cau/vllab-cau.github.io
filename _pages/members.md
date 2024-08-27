@@ -111,7 +111,7 @@ Email: lequalb99 (at) cau.ac.kr
 
 
 -----
-<img src='/images/jeongwon choi.jpeg' width="140" align="left" style="margin-right:40px">
+<img src='/images/Jeongwon Choi.jpeg' width="140" align="left" style="margin-right:40px">
 **Jeongwon Choi**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           

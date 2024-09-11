@@ -48,11 +48,6 @@ author_profile: true
    (Spotlight Presentation)   
 
 -----
-[**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments**](https://www.sciencedirect.com/science/article/pii/S0921889016300392)      
-   Sungjoon Choi, Eunwoo Kim, Kyungjae Lee, and Songhwai Oh     
-   *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.
-   
------
 [**Robust Elastic-Net Subspace Representation**](https://ieeexplore.ieee.org/document/7506231)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
    *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.

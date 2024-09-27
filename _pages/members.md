@@ -119,7 +119,7 @@ Email: severe0713 (at) cau.ac.kr    <br><br>
 
 
 -----
-## Undergrad Students
+## Interns
 <img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
 **Seungjin Han**  
 Intern      

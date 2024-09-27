@@ -4,8 +4,8 @@ title: ""
 excerpt: "About"
 carousels:
   - images:
+    - image: /imgages/lab_202409.jpg
     - image: /images/lab_picnic_202404_3.jpg
-    - image: /images/lab_pic_202309_2.jpg
     - image: /images/lab_cvpr_2023.JPG
     - image: /images/20230421_5.jpg
     - image: /images/20230403_1.jpg

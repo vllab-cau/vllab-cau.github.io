@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+**Dynamically Managing a Prompt Pool via Self-Enahancement in Continual Learning**         
+  Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
+   *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.
+
+-----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
    *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video]

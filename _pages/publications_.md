@@ -9,7 +9,7 @@ author_profile: true
 -----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
-   *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video]
+   *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video](https://drive.google.com/drive/u/0/folders/1Sat1tl8oxy6phGkR96DS-VT_FMQY01XO)
 
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         

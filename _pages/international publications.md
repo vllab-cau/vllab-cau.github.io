@@ -14,7 +14,7 @@ author_profile: true
 -----
 **Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
-   *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video]
+   *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [Video](https://drive.google.com/drive/u/0/folders/1Sat1tl8oxy6phGkR96DS-VT_FMQY01XO)
 
 -----
 [**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         

@@ -98,7 +98,7 @@ Email: hayun0406 (at) cau.ac.kr
 <img src='/images/heayounchoi.jpg' width="140" align="left" style="margin-right:40px">
 **Heayoun Choi**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Continual Learning, Computer Vision           
 Email: heayounchoi (at) cau.ac.kr      
 
 
@@ -106,7 +106,7 @@ Email: heayounchoi (at) cau.ac.kr
 <img src='/images/Jeongwon Choi.png' width="140" align="left" style="margin-right:40px">
 **Jeongwon Choi**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Multi-Modal Learning, Computer Vision           
 Email: severe0713 (at) cau.ac.kr    <br><br>
 
 

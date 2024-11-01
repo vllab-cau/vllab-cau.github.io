@@ -116,7 +116,7 @@ Email: severe0713 (at) cau.ac.kr    <br><br>
 **Seungjin Han**  
 Intern      
 Research Area: Deep Learning, Action Segmentation           
-Email: melonfif1 (at) naver.com
+Email: melonfif1 (at) naver.com          
 
 
 <img src='/images/yina kim.jpg' width="140" align="left" style="margin-right:40px">

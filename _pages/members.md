@@ -119,6 +119,13 @@ Research Area: Deep Learning, Action Segmentation
 Email: melonfif1 (at) naver.com
 
 
+<img src='/images/yina kim.png' width="140" align="left" style="margin-right:40px">
+**Yina Kim**  
+Intern      
+Research Area: Deep Learning, Computer Vision           
+Email: inagim49 (at) gmail.com
+
+
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)
 

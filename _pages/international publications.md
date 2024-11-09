@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**         
+[**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://neurips.cc/virtual/2024/workshop/84747)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
    *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.
 

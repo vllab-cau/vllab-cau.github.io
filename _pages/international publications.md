@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+*NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**         
+  Sejun Hong and Eunwoo Kim      
+   *IEEE Signal Processing Letters*, 2024. (Accepted)
+
+-----
 [**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://neurips.cc/virtual/2024/104975)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
    *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.

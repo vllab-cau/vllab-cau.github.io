@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Publications
 -----
-*NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**         
+**NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**         
   Sejun Hong and Eunwoo Kim      
    *IEEE Signal Processing Letters*, 2024. (Accepted)
 

@@ -12,7 +12,7 @@ author_profile: true
    *IEEE Signal Processing Letters*, 2024. (Accepted)
 
 -----
-[**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://neurips.cc/virtual/2024/104975)         
+[**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://openreview.net/forum?id=GI6gHATAMt)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
    *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.
 

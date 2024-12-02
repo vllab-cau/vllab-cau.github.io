@@ -123,7 +123,7 @@ Email: melonfif1 (at) naver.com
 <img src='/images/yina kim.jpg' width="140" align="left" style="margin-right:40px">
 **Yina Kim**  
 Intern      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Deep Learning, Human Motion Generation           
 Email: inagim49 (at) gmail.com
 
 

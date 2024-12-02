@@ -106,7 +106,7 @@ Email: heayounchoi (at) cau.ac.kr
 <img src='/images/Jeongwon Choi.png' width="140" align="left" style="margin-right:40px">
 **Jeongwon Choi**  
 M.S. Student      
-Research Area: Multi-Modal Learning, Computer Vision           
+Research Area: Domain Generalization, Computer Vision           
 Email: severe0713 (at) cau.ac.kr    <br><br>
 
 

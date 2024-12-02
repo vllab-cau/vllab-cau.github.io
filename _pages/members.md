@@ -66,7 +66,7 @@ Email: ghdrltjd (at) cau.ac.kr
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son**  
 M.S. Student      
-Research Area: Multi-Modal Learning, Human Pose Estimation           
+Research Area: Human Pose Estimation, Multi-Modal Learning           
 Email: jianie1017 (at) cau.ac.kr       
 
 

@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**](https://ieeexplore.ieee.org/document/10777589)         
   Sejun Hong and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, 2024. (Accepted)
+   *IEEE Signal Processing Letters*, vol. 32, pp. 261-265, 2025.
 
 -----
 [**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://openreview.net/forum?id=GI6gHATAMt)         

@@ -17,7 +17,7 @@ author_profile: true
    *NeurIPS 2024 Workshop on Adaptive Foundation Models*, Dec. 2024.
 
 -----
-**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**         
+[**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**](https://ieeexplore.ieee.org/document/10801687)         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
    *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [[Video](https://www.youtube.com/watch?v=T8uL8mqWd4E)]
 

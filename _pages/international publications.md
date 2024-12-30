@@ -11,6 +11,7 @@ author_profile: true
   Hyundong Jin and Eunwoo Kim         
   *Pattern Recognition Letters*, 2025. (Accepted)
 
+-----
 [**NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**](https://ieeexplore.ieee.org/document/10777589)         
   Sejun Hong and Eunwoo Kim      
    *IEEE Signal Processing Letters*, vol. 32, pp. 261-265, 2025.

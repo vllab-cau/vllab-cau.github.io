@@ -7,9 +7,9 @@ author_profile: true
 
 ## International Publications
 -----
-**Dataset Condensation with Coarse-to-Fine Regularization**         
+[**Dataset Condensation with Coarse-to-Fine Regularization**](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)         
   Hyundong Jin and Eunwoo Kim         
-  *Pattern Recognition Letters*, 2025. (Accepted)
+  *Pattern Recognition Letters*, vol. 188, pp. 178-184, Feb. 2025.
 
 -----
 [**NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**](https://ieeexplore.ieee.org/document/10777589)         

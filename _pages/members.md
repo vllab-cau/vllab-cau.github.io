@@ -128,7 +128,7 @@ Email: inagim49 (at) gmail.com
 
 
 -----
-<img src='/images/jingyeong yi.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/jingyeong yi.jpg' width="120" align="left" style="margin-right:40px">
 **Jingyeong Yi**  
 Intern      
 Research Area: Deep Learning, Computer Vision           

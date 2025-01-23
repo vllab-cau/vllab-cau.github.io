@@ -6,9 +6,12 @@ author_profile: True
 ---
 
 -----
+# 2025
 * Advanced Artificial Intelligence (55697-01) - 2025S
 * Machine Learning (54616-01, 54616-02) - 2025S
 * Capstone Design (56120-02) - 2025S
+
+# 2024
 * Advanced Artificial Intelligence (01841-01) - 2024F
 * Discrete Mathematics (17086-02, 17086-03) - 2024F
 * Capstone Design (56119-04) - 2024F   

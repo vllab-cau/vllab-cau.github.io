@@ -7,9 +7,9 @@ author_profile: True
 
 -----
 # 2025
-* Advanced Artificial Intelligence (55697-01) - 2025Spring
-* Machine Learning (54616-01, 54616-02) - 2025Spring
-* Capstone Design (56120-02) - 2025Spring
+* Advanced Artificial Intelligence (55697-01) - 2025 Spring
+* Machine Learning (54616-01, 54616-02) - 2025 Spring
+* Capstone Design (56120-02) - 2025 Spring
 
 # 2024
 * Advanced Artificial Intelligence (01841-01) - 2024 Fall

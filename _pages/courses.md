@@ -40,8 +40,8 @@ author_profile: True
 * Algorithms (13601-01, 13601-02) - 2021 Spring
 
 # 2020
-* Discrete Mathematics (17086-03) - 2020 Fall
 * Advanced Artificial Intelligence (01841-01) - 2020 Fall
+* Discrete Mathematics (17086-03) - 2020 Fall
 * Algorithms (13601-03, 13601-04) - 2020 Spring
 
 # 2019

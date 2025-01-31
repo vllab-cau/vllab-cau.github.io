@@ -7,6 +7,11 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
+**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**        
+  Jiho Lee, Hayun Lee, JongHyeon Kim, Kyungjae Lee, and Eunwoo Kim           
+  *IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. (Accepted)
+
+-----
 [**Task Planning for Long-Horizon Cooking Tasks Based on Large Language Models**](https://ieeexplore.ieee.org/document/10801687)         
   Jungkyoo Shin, Jieun Han, Seungjun Kim, Yoonseon Oh, and Eunwoo Kim      
    *In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Oct. 2024. [[Video](https://www.youtube.com/watch?v=T8uL8mqWd4E)]

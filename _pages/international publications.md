@@ -7,6 +7,11 @@ author_profile: true
 
 ## International Publications
 -----
+**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**
+  Jiho Lee, Hayun Lee, JongHyeon Kim, Kyungjae Lee, and Eunwoo Kim
+  *IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. (Accepted)
+
+-----
 [**Dataset Condensation with Coarse-to-Fine Regularization**](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)         
   Hyundong Jin and Eunwoo Kim         
   *Pattern Recognition Letters*, vol. 188, pp. 178-184, Feb. 2025.

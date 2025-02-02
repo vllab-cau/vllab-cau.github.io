@@ -10,7 +10,7 @@ redirect_from:
 # Eunwoo Kim, Ph.D.     
 
 ------
-<img src='/images/Eunwoo Kim.jpg' width="220" align="left" style="margin-right:40px">
+<img src='/images/Eunwoo Kim2.jpg' width="220" align="left" style="margin-right:40px">
 
 Associate Professor      
 [School of Computer Science and Engineering](https://cse.cau.ac.kr/eng/main.php){:target="_blank"}        

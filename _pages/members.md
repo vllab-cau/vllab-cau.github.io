@@ -107,7 +107,7 @@ Email: severe0713 (at) cau.ac.kr
 **Seungjin Han**  
 M.S. Student      
 Research Area: Deep Learning, Action Segmentation           
-Email: melonfif1 (at) naver.com          
+Email: hsj7486 (at) gmail.com          
 
 
 -----

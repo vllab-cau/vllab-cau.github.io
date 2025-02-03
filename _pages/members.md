@@ -103,10 +103,9 @@ Email: severe0713 (at) cau.ac.kr    <br><br>
 
 
 -----
-## Undergraduate Students
 <img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
 **Seungjin Han**  
-B.S. Student      
+M.S. Student      
 Research Area: Deep Learning, Action Segmentation           
 Email: melonfif1 (at) naver.com          
 
@@ -114,12 +113,13 @@ Email: melonfif1 (at) naver.com
 -----
 <img src='/images/yina kim.jpg' width="140" align="left" style="margin-right:40px">
 **Yina Kim**  
-B.S. Student      
+M.S. Student      
 Research Area: Deep Learning, Human Motion Generation           
 Email: inagim49 (at) gmail.com
 
 
 -----
+## Undergraduate Students
 <img src='/images/jingyeong yi2.jpg' width="140" align="left" style="margin-right:40px">
 **Jingyeong Yi**  
 B.S. Student      

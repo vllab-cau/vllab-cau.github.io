@@ -99,7 +99,7 @@ Email: heayounchoi (at) cau.ac.kr
 **Jeongwon Choi**  
 M.S. Student      
 Research Area: Domain Generalization, Computer Vision           
-Email: severe0713 (at) cau.ac.kr    <br><br>
+Email: severe0713 (at) cau.ac.kr    
 
 
 -----
@@ -115,7 +115,7 @@ Email: melonfif1 (at) naver.com
 **Yina Kim**  
 M.S. Student      
 Research Area: Deep Learning, Human Motion Generation           
-Email: inagim49 (at) gmail.com
+Email: inagim49 (at) gmail.com   <br><br>
 
 
 -----

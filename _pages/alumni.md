@@ -7,6 +7,13 @@ author_profile: true
 
 ## Graduate Students
 
+
+<img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
+**Hyunjoon Koo (M.S., 2025)**  
+Research Area: Multi-Modal Learning, Video Understanding           
+Thesis: *Dual-Branch Scale Disentanglement for Text-Video Retrieval* <br><br>
+
+-----
 <img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Sejun Hong (M.S., 2024)**    
 Research Area: Deep Learning, 3D Vision           

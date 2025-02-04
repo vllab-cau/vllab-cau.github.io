@@ -46,5 +46,5 @@ author_profile: True
 
 # 2019
 * Discrete Mathematics (17086-03, Fall)
-* Programming (47710-03,Fall)
+* Programming (47710-03, Fall)
 

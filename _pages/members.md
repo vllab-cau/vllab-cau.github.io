@@ -42,7 +42,7 @@ Email: j2hoooo (at) cau.ac.kr
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **[Gyeonghyeon Kim](https://gyeonghyeon.netlify.app/){:target="_blank"}**      
 Ph.D. Student      
-Research Area: Neural Architecture Search, Video Understanding       
+Research Area: Video Understanding, Continual Learning       
 Email: leonardkkh (at) cau.ac.kr
 
 

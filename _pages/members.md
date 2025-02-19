@@ -124,8 +124,14 @@ Email: inagim49 (at) gmail.com   <br><br>
 **Jingyeong Yi**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: dlwlsrud815 (at) cau.ac.kr
+Email: dlwlsrud815 (at) cau.ac.kr  <br><br>
 
+
+<img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
+**Younhun Ahn**  
+B.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: kmchu1921 (at) cau.ac.kr
 
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)

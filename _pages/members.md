@@ -107,7 +107,7 @@ Email: severe0713 (at) cau.ac.kr
 **Seungjin Han**  
 M.S. Student      
 Research Area: Deep Learning, Action Segmentation           
-Email: hsj7486 (at) gmail.com          
+Email: hsj7486 (at) cau.ac.kr          
 
 
 -----
@@ -115,7 +115,7 @@ Email: hsj7486 (at) gmail.com
 **Yina Kim**  
 M.S. Student      
 Research Area: Deep Learning, Human Motion Generation           
-Email: inagim49 (at) gmail.com   <br><br>
+Email: yina99 (at) cau.ac.kr   <br><br>
 
 
 -----

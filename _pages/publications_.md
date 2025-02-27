@@ -7,6 +7,11 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
+**Generative Modeling of Class Probability for Multi Modal Representation Learning**        
+  Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
+  *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2025. (Accepted)
+
+-----
 **Self-Corrective Task Planning by Inverse Prompting with Large Language Models**        
   Jiho Lee, Hayun Lee, JongHyeon Kim, Kyungjae Lee, and Eunwoo Kim           
   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. [Video] (Accepted)

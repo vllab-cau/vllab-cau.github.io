@@ -33,9 +33,9 @@ Our research interests include efficient machine learning, automated machine lea
 * [01/2025] Our paper on self-corrective task planning is accepted to **ICRA 2025**
 * [12/2024] Our paper on dataset condensation is accepted to **Pattern Recognition Letters**
 * [11/2024] Our paper on neural radiance fields deblurring is accepted to **IEEE Signal Processing Letters**
-* [07/2024] Our paper on active learning with long-range observation is accepted to **IEEE Signal Processing Letters**
+* [07/2024] Our paper on active learning is accepted to **IEEE Signal Processing Letters**
 * [06/2024] Our paper on task planning based on LLMs is accepted to **IROS 2024**
-* [06/2024] Our paper on data-augmented self-supervised learning is accepted to **Pattern Recognition Letters**
+* [06/2024] Our paper on self-supervised learning is accepted to **Pattern Recognition Letters**
 * [04/2024] Our paper on task-aware neural architecture search is accepted to **IEEE Transactions on Image Processing**
 * [12/2023] Our paper on high-dynamic range imaging is accepted to **ICASSP 2024**
 * [11/2023] Our paper on dynamic model optimization is accepted to **IEEE Access**

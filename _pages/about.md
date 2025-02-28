@@ -27,3 +27,6 @@ We engage in research to explore methods that understand and learn any intellect
 Our research interests include efficient machine learning, automated machine learning, multi-modal learning, multi-task learning, continual learning, representation learning, and their applications to computer vision and robotics, but not limited to.
 
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
+
+## News
+* [02/2025] Our paper on multi-modal representation learning has been accepted to CVPR 2025

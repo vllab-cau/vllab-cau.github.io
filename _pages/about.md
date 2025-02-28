@@ -41,3 +41,4 @@ Our research interests include efficient machine learning, automated machine lea
 * [12/2023] Our paper on high-dynamic range imaging is accepted to **ICASSP 2024**.
 * [11/2023] Our paper on dynamic model optimization is accepted to **IEEE Access**.
 * [07/2023] Our paper on generation-based continual learning is accepted to **ICCV 2023**.
+* [07/2022] Our paper on inter-task association in continual learning is accepted to **ECCV 2022**.

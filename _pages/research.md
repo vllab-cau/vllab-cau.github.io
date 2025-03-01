@@ -32,12 +32,9 @@ author_profile: true
    This project develops a deep learning approach to analyze and 
    predict the operating patterns from sequential data.  
    
-   Funded by Doosan Enerbility. <br> <br>
-        
+   Funded by Doosan Enerbility. <br> 
 
 
-
-## Past Projects
 -----
 **Time-Series Action Prediction and Segmentation** 
 <img src='/images/hyundai_heavy_equipment.png' width="310" align="left" style="margin-right:30px">        

@@ -24,7 +24,7 @@ Email: jude0316 (at) cau.ac.kr
 
 -----
 <img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
-**[Jungkyoo Shin](https://jungkyoo-shin.github.io/){:target="_blank"}**      
+**Jungkyoo Shin**      
 Ph.D. Student       
 Research Area: Multi-Modal Learning, Video Understanding       
 Email: neo293 (at) cau.ac.kr      

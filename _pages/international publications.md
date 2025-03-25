@@ -14,7 +14,7 @@ author_profile: true
 -----
 [**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**](https://arxiv.org/abs/2503.07317)        
   Jiho Lee, Hayun Lee, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim           
-  *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. [[Video](https://youtu.be/TyFp6bzquZA)] (Accepted)
+  *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. [[Video](https://youtu.be/TyFp6bzquZA)] **(Accepted)**
 
 -----
 [**Dataset Condensation with Coarse-to-Fine Regularization**](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)         

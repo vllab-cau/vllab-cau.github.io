@@ -55,7 +55,7 @@ author_profile: true
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh      
    *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2018.   
-   (Spotlight Presentation)   
+   **(Spotlight Presentation)**   
 
 -----
 [**Robust Elastic-Net Subspace Representation**](https://ieeexplore.ieee.org/document/7506231)       

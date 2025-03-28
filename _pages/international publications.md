@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## International Publications
+
+-----
+**Exploration and Exploitation in Continual Learning**         
+  Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
+  *Neural Networks*, 2025. **(Accepted)**
+
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://arxiv.org/abs/2503.17417)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           

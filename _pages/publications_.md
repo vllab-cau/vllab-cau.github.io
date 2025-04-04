@@ -15,7 +15,7 @@ author_profile: true
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://arxiv.org/abs/2503.17417)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
-  *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2025. **(Accepted)**
+  *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2025. **(Accepted)**      
   **(Highlight)**
 
 -----

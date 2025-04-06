@@ -8,7 +8,7 @@ author_profile: true
 ## International Publications
 
 -----
-**Exploration and Exploitation in Continual Learning**         
+[**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, 2025. (Accepted)
 

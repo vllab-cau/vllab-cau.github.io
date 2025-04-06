@@ -8,7 +8,7 @@ author_profile: true
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
 
-**Exploration and Exploitation in Continual Learning**         
+[**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, 2025. (Accepted)
 

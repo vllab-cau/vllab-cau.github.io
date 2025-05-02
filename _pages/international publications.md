@@ -8,6 +8,12 @@ author_profile: true
 ## International Publications
 
 -----
+[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
+for 3D Human Pose Estimation**]         
+  Jian Son, Jiho Lee, and Eunwoo Kim       
+  *Computer Vision and Image Understanding*, 2025. (Accepted)
+
+-----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, vol. 188, Aug. 2025.

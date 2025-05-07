@@ -8,6 +8,11 @@ author_profile: true
 ## International Publications
 
 -----
+**Mitigating Class Confusion in Class-incremental Semantic Segmentation**          
+  Nayoung Ko, Gyeong-Hyeon Kim, and Eunwoo Kim       
+  *IEEE Access*, 2025. (Accepted)
+
+-----
 **STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
 for 3D Human Pose Estimation**          
   Jian Son, Jiho Lee, and Eunwoo Kim       

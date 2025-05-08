@@ -29,7 +29,7 @@ Our research interests include efficient machine learning, automated machine lea
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS
-* [05/2025] Our paper on 3D Human Pose Estimation is accepted to **CVIU**.
+* [05/2025] Our paper on 3D human pose estimation is accepted to **CVIU**.
 * [03/2025] Our paper on efficient continual learning is accepted to **Neural Networks**.
 * [02/2025] Our paper on multi-modal learning is accepted to **CVPR 2025 (Highlight)**.
 * [01/2025] Our paper on self-corrective task planning is accepted to **ICRA 2025**.

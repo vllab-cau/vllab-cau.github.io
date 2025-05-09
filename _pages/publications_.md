@@ -8,8 +8,8 @@ author_profile: true
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 
 -----
-**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
-for 3D Human Pose Estimation**          
+[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
+for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
   Jian Son, Jiho Lee, and Eunwoo Kim       
   *Computer Vision and Image Understanding (CVIU)*, 2025. (Accepted)
 

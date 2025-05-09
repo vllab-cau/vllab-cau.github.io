@@ -13,8 +13,8 @@ author_profile: true
   *IEEE Access*, 2025. (Accepted)
 
 -----
-**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
-for 3D Human Pose Estimation**          
+[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
+for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
   Jian Son, Jiho Lee, and Eunwoo Kim       
   *Computer Vision and Image Understanding (CVIU)*, 2025. (Accepted)
 

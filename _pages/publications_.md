@@ -8,15 +8,15 @@ author_profile: true
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 
 -----
-[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
-for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
-  Jian Son, Jiho Lee, and Eunwoo Kim       
-  *Computer Vision and Image Understanding (CVIU)*, 2025. (Accepted)
-
------
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, vol. 188, Aug. 2025.
+
+-----
+[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
+for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
+  Jian Son, Jiho Lee, and Eunwoo Kim       
+  *Computer Vision and Image Understanding (CVIU)*, vol. 257, June 2025.
 
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://arxiv.org/abs/2503.17417)        

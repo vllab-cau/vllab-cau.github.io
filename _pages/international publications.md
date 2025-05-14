@@ -8,7 +8,7 @@ author_profile: true
 ## International Publications
 
 -----
-**Mitigating Class Confusion in Class-incremental Semantic Segmentation**          
+[**Mitigating Class Confusion in Class-incremental Semantic Segmentation**](https://ieeexplore.ieee.org/document/11002496)          
   Nayoung Ko, Gyeong-Hyeon Kim, and Eunwoo Kim       
   *IEEE Access*, 2025. (Accepted)
 

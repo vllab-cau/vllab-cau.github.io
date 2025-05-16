@@ -8,11 +8,6 @@ author_profile: true
 ## International Publications
 
 -----
-[**Mitigating Class Confusion in Class-incremental Semantic Segmentation**](https://ieeexplore.ieee.org/document/11002496)          
-  Nayoung Ko, Gyeong-Hyeon Kim, and Eunwoo Kim       
-  *IEEE Access*, 2025. (Accepted)
-
------
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, vol. 188, Aug. 2025.
@@ -33,6 +28,11 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 [**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**](https://arxiv.org/abs/2503.07317)        
   Jiho Lee, Hayun Lee, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim           
   *In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)*, May 2025. [[Video](https://youtu.be/TyFp6bzquZA)]
+
+-----
+[**Mitigating Class Confusion in Class-incremental Semantic Segmentation**](https://ieeexplore.ieee.org/document/11002496)          
+  Nayoung Ko, Gyeong-Hyeon Kim, and Eunwoo Kim       
+  *IEEE Access*, vol. 13, pp. 84130-84138, May 2025.
 
 -----
 [**Dataset Condensation with Coarse-to-Fine Regularization**](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)         

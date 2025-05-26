@@ -120,13 +120,6 @@ Email: yina99 (at) cau.ac.kr   <br><br>
 
 -----
 ## Undergraduate Students
-<img src='/images/jingyeong yi2.jpg' width="140" align="left" style="margin-right:40px">
-**Jingyeong Yi**  
-B.S. Student      
-Research Area: Deep Learning, Computer Vision           
-Email: dlwlsrud815 (at) cau.ac.kr  <br><br>
-
-
 <img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
 **Younhun Ahn**  
 B.S. Student      

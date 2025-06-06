@@ -19,7 +19,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
   *Computer Vision and Image Understanding (CVIU)*, vol. 257, June 2025.
 
 -----
-[**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://arxiv.org/abs/2503.17417)        
+[**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2025.         
   **(Highlight, Acceptance Rate: 3%)**

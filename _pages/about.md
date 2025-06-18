@@ -4,7 +4,7 @@ title: ""
 excerpt: "About"
 carousels:
   - images:
-    - image: /images/cvpr25_poster_session1.jpg
+    - image: /images/cvpr25_poster_session.jpg
     - image: /images/lab_202409.jpg
     - image: /images/neurips-24.jpg
     - image: /images/20240531_vllab.jpg

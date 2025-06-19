@@ -8,6 +8,11 @@ author_profile: true
 ## International Publications
 
 -----
+**Dual-Branch Scale Disentanglement for Text-Video Retrieval**         
+  Hyunjoon Koo, Jungkyoo Shin, and Eunwoo Kim       
+  *Pattern Recognition Letters*, 2025. (Accepted)
+
+-----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, vol. 188, Aug. 2025.

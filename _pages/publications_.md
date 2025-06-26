@@ -23,12 +23,6 @@ author_profile: true
   *Neural Networks*, vol. 188, Aug. 2025.
 
 -----
-[**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
-for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
-  Jian Son, Jiho Lee, and Eunwoo Kim       
-  *Computer Vision and Image Understanding (CVIU)*, vol. 257, June 2025.
-
------
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
   *In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, June 2025.         
@@ -61,11 +55,6 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *In Proc. of the European Conference on Computer Vision (ECCV)*, Oct. 2022.
 
 -----
-[**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
-   Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
-   *Neurocomputing*, vol. 442, pp. 116-124, June 2021.
-
------
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
    Chanho Ahn\*, Eunwoo Kim\*, and Songhwai Oh (\* equal contribution)      
    *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2019.     
@@ -85,11 +74,6 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 [**Robust Elastic-Net Subspace Representation**](https://ieeexplore.ieee.org/document/7506231)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
    *IEEE Transactions on Image Processing (TIP)*, vol.  25, no. 9, pp. 4245-4259, Sep. 2016.
-   
------
-[**Robust Orthogonal Matrix Factorization for Efficient Subspace Learning**](https://www.sciencedirect.com/science/article/pii/S092523121500555X)       
-   Eunwoo Kim and Songhwai Oh      
-   *Neurocomputing*, vol. 167, pp.  218-229, Nov. 2015.
    
 -----
 [**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       

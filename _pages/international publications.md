@@ -8,6 +8,16 @@ author_profile: true
 ## International Publications
 
 -----
+**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           
+  Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
+  *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
+
+-----
+**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**           
+  Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
+  *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
+
+-----
 **Dual-Branch Scale Disentanglement for Text-Video Retrieval**         
   Hyunjoon Koo, Jungkyoo Shin, and Eunwoo Kim       
   *Pattern Recognition Letters*, 2025. (Accepted)

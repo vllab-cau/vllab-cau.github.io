@@ -8,6 +8,16 @@ author_profile: true
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 
 -----
+**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           
+  Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
+  *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
+
+-----
+**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**           
+  Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
+  *In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. (Accepted)
+
+-----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks*, vol. 188, Aug. 2025.

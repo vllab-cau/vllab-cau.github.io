@@ -18,7 +18,7 @@ author_profile: true
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. (Accepted)
 
 -----
-**Dual-Branch Scale Disentanglement for Text-Video Retrieval**         
+[**Dual-Branch Scale Disentanglement for Text-Video Retrieval**](https://www.sciencedirect.com/science/article/pii/S0167865525002430)         
   Hyunjoon Koo, Jungkyoo Shin, and Eunwoo Kim       
   *Pattern Recognition Letters*, 2025. (Accepted)
 

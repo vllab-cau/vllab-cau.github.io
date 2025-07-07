@@ -126,6 +126,14 @@ B.S. Student
 Research Area: Deep Learning, Computer Vision           
 Email: kmchu1921 (at) cau.ac.kr
 
+-----
+<img src='/images/seongmin kim.jpg' width="140" align="left" style="margin-right:40px">
+**Seongmin Kim**  
+B.S. Student      
+Research Area: Deep Learning, Computer Vision           
+Email: alsalslove10 (at) naver.com
+
+
 ------
 ## [Former Members](https://vllab-cau.github.io/alumni/)
 

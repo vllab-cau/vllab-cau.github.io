@@ -127,7 +127,7 @@ Research Area: Deep Learning, Computer Vision
 Email: kmchu1921 (at) cau.ac.kr
 
 -----
-<img src='/images/seongmin kim.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/seongmin kim1.jpg' width="140" align="left" style="margin-right:40px">
 **Seongmin Kim**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           

@@ -20,7 +20,7 @@ author_profile: true
 -----
 [**Dual-Branch Scale Disentanglement for Text-Video Retrieval**](https://www.sciencedirect.com/science/article/pii/S0167865525002430)         
   Hyunjoon Koo, Jungkyoo Shin, and Eunwoo Kim       
-  *Pattern Recognition Letters*, 2025. (Accepted)
+  *Pattern Recognition Letters*, vol. 196, pp. 296-302, Oct. 2025.
 
 -----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         

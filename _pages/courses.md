@@ -7,6 +7,7 @@ author_profile: True
 
 -----
 # 2025
+* Discrete Mathematics (17086-02, 17086-03, Fall)
 * Advanced Artificial Intelligence (55697-01, Spring)
 * Machine Learning (54616-01, 54616-02, Spring)
 * Capstone Design (56120-02, Spring)

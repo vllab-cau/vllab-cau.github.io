@@ -5,7 +5,7 @@ permalink: /publications/international-publications
 author_profile: true
 ---
 
-# 2025
+## 2025
 -----
 **Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
@@ -59,7 +59,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *IEEE Signal Processing Letters*, vol. 32, pp. 261-265, 2025.
 
 -----
-# 2024
+## 2024
 -----
 [**Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning**](https://openreview.net/forum?id=GI6gHATAMt)         
   Hayun Lee, Kiseong Hong, Hwanhee Lee, Sungho Suh, and Eunwoo Kim      
@@ -93,7 +93,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Apr. 2024.
 
 -----
-# 2023
+## 2023
 -----
 [**Task-Aware Dynamic Model Optimization for Multi-Task Learning**](https://ieeexplore.ieee.org/document/10345562)         
   Sujin Choi, Hyundong Jin, and Eunwoo Kim      
@@ -110,7 +110,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *Applied Sciences*, vol. 13, no. 5, Mar. 2023.
 
 -----
-# 2022
+## 2022
 -----
 [**Stacked Encoder-Decoder Transformer with Boundary Smoothing for Action Segmentation**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.12678)        
   Gyeong-Hyeon Kim and Eunwoo Kim       
@@ -143,7 +143,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 
 
 -----
-# 2021
+## 2021
 -----
 [**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
@@ -156,7 +156,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 
 
 -----
-# ~2020
+## ~2020
 -----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       

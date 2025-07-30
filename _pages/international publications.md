@@ -5,8 +5,6 @@ permalink: /publications/international-publications
 author_profile: true
 ---
 
-## International Publications
------
 # 2025
 -----
 **Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           

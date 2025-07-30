@@ -158,7 +158,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 
 
 -----
-# Before 2021
+# ~2020
 -----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       

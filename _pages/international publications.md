@@ -9,12 +9,12 @@ author_profile: true
 -----
 **Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. (Accepted)
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
 
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://arxiv.org/abs/2507.22553)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. (Accepted)
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
 
 -----
 [**Dual-Branch Scale Disentanglement for Text-Video Retrieval**](https://www.sciencedirect.com/science/article/pii/S0167865525002430)         

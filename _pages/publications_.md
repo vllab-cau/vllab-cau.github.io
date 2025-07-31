@@ -13,7 +13,7 @@ author_profile: true
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. (Accepted)
 
 -----
-**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**           
+[**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://arxiv.org/abs/2507.22553)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. (Accepted)
 

@@ -90,7 +90,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
   Heunseung Lim, Jungkyoo Shin, Hyoungki Choi, Dohoon Kim, Eunwoo Kim, and Joonki Paik      
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Apr. 2024.
 
------
+
 ## 2023
 -----
 [**Task-Aware Dynamic Model Optimization for Multi-Task Learning**](https://ieeexplore.ieee.org/document/10345562)         

@@ -63,22 +63,6 @@ Email: ghdrltjd (at) cau.ac.kr
 
 
 -----
-<img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
-**Jian Son**  
-M.S. Student      
-Research Area: Human Pose Estimation, Multi-Modal Learning           
-Email: jianie1017 (at) cau.ac.kr       
-
-
------
-<img src='/images/Nayoung Ko2.jpg' width="140" align="left" style="margin-right:40px">
-**Nayoung Ko**  
-M.S. Student      
-Research Area: Continual Learning, Semantic Segmentation           
-Email: kona419 (at) cau.ac.kr    
-
-
------
 <img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">
 **Hayun Lee**   
 M.S. Student      

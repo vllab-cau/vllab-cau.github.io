@@ -102,20 +102,22 @@ Research Area: Deep Learning, Human Motion Generation
 Email: yina99 (at) cau.ac.kr   <br><br>
 
 
------
-## Undergraduate Students
 <img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
 **Younhun Ahn**  
-B.S. Student      
+M.S. Student      
 Research Area: Deep Learning, Computer Vision           
 Email: kmchu1921 (at) cau.ac.kr
 
+
 -----
+## Undergraduate Students
 <img src='/images/seongmin kim1.jpg' width="140" align="left" style="margin-right:40px">
 **Seongmin Kim**  
 B.S. Student      
 Research Area: Deep Learning, Computer Vision           
 Email: alsalslove10 (at) naver.com
+
+
 
 
 ------

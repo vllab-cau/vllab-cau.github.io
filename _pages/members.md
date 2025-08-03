@@ -99,7 +99,7 @@ Email: hsj7486 (at) cau.ac.kr
 **Yina Kim**  
 M.S. Student      
 Research Area: Deep Learning, Human Motion Generation           
-Email: yina99 (at) cau.ac.kr   <br><br>
+Email: yina99 (at) cau.ac.kr   
 
 
 -----
@@ -107,7 +107,7 @@ Email: yina99 (at) cau.ac.kr   <br><br>
 **Younhun Ahn**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: kmchu1921 (at) cau.ac.kr
+Email: kmchu1921 (at) cau.ac.kr  <br><br>
 
 
 -----

@@ -11,13 +11,13 @@ author_profile: true
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son (M.S., 2025)**  
 Research Area: Human Pose Estimation, Multi-Modal Learning           
-Thesis: 3D Human Pose Estimation with an Anatomical Graph Transformer <br><br>
+Thesis: *3D Human Pose Estimation with an Anatomical Graph Transformer* <br><br>
 
 -----
 <img src='/images/Nayoung Ko2.jpg' width="140" align="left" style="margin-right:40px">
 **Nayoung Ko (M.S., 2025)**  
 Research Area: Continual Learning, Semantic Segmentation           
-Thesis: MC-Seg: Mitigating Class Confusion in Class-incremental Semantic Segmentation <br><br>
+Thesis: *MC-Seg: Mitigating Class Confusion in Class-incremental Semantic Segmentation* <br><br>
 
 -----
 <img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">

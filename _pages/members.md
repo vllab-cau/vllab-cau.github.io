@@ -102,6 +102,7 @@ Research Area: Deep Learning, Human Motion Generation
 Email: yina99 (at) cau.ac.kr   <br><br>
 
 
+-----
 <img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
 **Younhun Ahn**  
 M.S. Student      

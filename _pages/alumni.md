@@ -42,42 +42,37 @@ Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning* <br><b
 **Chanjong Park (M.S., 2023)**      
 Research Area: Deep Learning, Contrastive Learning           
 Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation* <br><br>
- 
+
 
 -----
 <img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim (M.S., 2023)**      
 Research Area: Deep Learning, Multi-Task Learning           
-Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*         
--- now a Ph.D. Student @ VLLAB
+Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*  <br><br>
 
 -----
 <img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim (M.S., 2023)**     
 Research Area: Neural Architecture Search, Computer Vision             
-Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*       
--- now a Ph.D. Student @ VLLAB
+Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*  <br><br>
 
 -----
 <img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             
-Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*       
--- now a Ph.D. Student @ VLLAB
+Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*  <br><br>
 
 -----
 <img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
 **Wonhee Cho (M.S., 2022)**      
 Research Area: Deep Learning, Few-Shot Learning       
-Thesis: *Improving Augmentation Efficiency for Few-Shot Learning*       
--- now @ TmaxEdu
+Thesis: *Improving Augmentation Efficiency for Few-Shot Learning* <br><br>
 
 ----
 <img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px"> 
 **Soyeon Park (M.S., 2022)**      
 Research Area: Deep Learning, Multi-Task Learning       
-Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*       
--- now @ LG Electronics CTO       <br><br>
+Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*  <br><br>
 
 
 -----

@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2025
 -----
-**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**           
+[**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
 

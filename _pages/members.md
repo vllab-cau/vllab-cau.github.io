@@ -58,7 +58,7 @@ Email: kcs6568 (at) cau.ac.kr
 <img src='/images/Kiseong Hong.jpg' width="140" align="left" style="margin-right:40px">
 **[Kiseong Hong](https://hongkiseong.github.io/){:target="_blank"}**      
 Ph.D. Student      
-Research Area: Continual Learning, Computer Vision           
+Research Area: Continual Learning, Machine Unlearning           
 Email: ghdrltjd (at) cau.ac.kr      
 
 
@@ -74,7 +74,7 @@ Email: hayun0406 (at) cau.ac.kr
 <img src='/images/heayounchoi.jpg' width="140" align="left" style="margin-right:40px">
 **Heayoun Choi**  
 M.S. Student      
-Research Area: Continual Learning, Computer Vision           
+Research Area: Robotics, Continual Learning           
 Email: heayounchoi (at) cau.ac.kr      
 
 

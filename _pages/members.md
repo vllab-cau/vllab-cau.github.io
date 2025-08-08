@@ -95,10 +95,10 @@ Email: hsj7486 (at) cau.ac.kr
 
 
 -----
-<img src='/images/yina kim.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/yina kim2.png' width="140" align="left" style="margin-right:40px">
 **Yina Kim**  
 M.S. Student      
-Research Area: Deep Learning, Human Motion Generation           
+Research Area: Robotics, Human Motion Generation           
 Email: yina99 (at) cau.ac.kr   
 
 

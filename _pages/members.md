@@ -118,7 +118,12 @@ B.S. Student
 Research Area: Deep Learning, Computer Vision           
 Email: alsalslove10 (at) naver.com
 
-
+-----
+<img src='/images/Seojin Lee.png' width="140" align="left" style="margin-right:40px">
+**Seojin Lee**  
+B.S. Student      
+Research Area: Deep Learning, Robotics           
+Email: seojing2001 (at) gmail.com
 
 
 ------

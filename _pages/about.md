@@ -9,7 +9,6 @@ carousels:
     - image: /images/lab_202409.jpg
     - image: /images/neurips-24.jpg
     - image: /images/20240531_vllab.jpg
-    - image: /images/lab_cvpr_2023.JPG
     - image: /images/20230403_1.jpg
 author_profile: true
 redirect_from: 

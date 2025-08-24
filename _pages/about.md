@@ -7,7 +7,6 @@ carousels:
     - image: /images/lab_pic_250822_2.jpg
     - image: /images/cvpr25_poster_session1.jpg
     - image: /images/lab_202409.jpg
-    - image: /images/neurips-24.jpg
     - image: /images/20240531_vllab.jpg
     - image: /images/20230403_1.jpg
 author_profile: true

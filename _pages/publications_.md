@@ -84,6 +84,11 @@ author_profile: true
 [**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh    
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015.
+
+-----
+[**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
+   Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
+   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015.
    
 -----
 [**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method**](https://ieeexplore.ieee.org/abstract/document/6784021)       

@@ -145,19 +145,12 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *IEEE Access*, vol. 10, pp. 18776-18786, Jan. 2022.
 
 
-## 2021
+## ~2021
 -----
 [**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
    *Neurocomputing*, vol. 442, pp. 116-124, June 2021.
 
------
-[**Clustering-Guided Incremental Learning of Tasks**](https://ieeexplore.ieee.org/abstract/document/9334003)       
-   Yoonhee Kim and Eunwoo Kim       
-   *IEEE International Conference on Information Networking*, Jan. 2021.
-
-
-## ~2020
 -----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       

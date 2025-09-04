@@ -56,12 +56,12 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Dataset Condensation with Coarse-to-Fine Regularization**](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)         
   Hyundong Jin and Eunwoo Kim         
-  *Pattern Recognition Letters*, vol. 188, pp. 178-184, Feb. 2025.
+  *Pattern Recognition Letters (PRL)*, vol. 188, pp. 178-184, Feb. 2025.
 
 -----
 [**NeRF-DA: Neural Radiance Fields Deblurring with Active Learning**](https://ieeexplore.ieee.org/document/10777589)         
   Sejun Hong and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, vol. 32, pp. 261-265, 2025.
+   *IEEE Signal Processing Letters (SPL)*, vol. 32, pp. 261-265, 2025.
 
 ## 2024
 -----
@@ -78,12 +78,12 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Self-supervised Learning with Automatic Data Augmentation for Enhancing Representation**](https://www.sciencedirect.com/science/article/abs/pii/S016786552400182X)         
   Chanjong Park and Eunwoo Kim      
-   *Pattern Recognition Letters*, vol. 184, pp. 133-139, Aug. 2024.
+   *Pattern Recognition Letters (PRL)*, vol. 184, pp. 133-139, Aug. 2024.
 
 -----
 [**Active Learning with Long-Range Observation**](https://ieeexplore.ieee.org/document/10614786)         
   Jiho Lee and Eunwoo Kim      
-   *IEEE Signal Processing Letters*, vol. 31, pp.1990-1994, July 2024.
+   *IEEE Signal Processing Letters (SPL)*, vol. 31, pp.1990-1994, July 2024.
 
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
@@ -171,7 +171,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *Pattern Recognition Letters*, vol. 125, pp. 742-749, July 2019.
+   *Pattern Recognition Letters (PRL)*, vol. 125, pp. 742-749, July 2019.
 
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      

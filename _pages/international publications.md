@@ -185,11 +185,6 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    **(Spotlight Presentation)**   
    
 -----
-[**Structured Kernel Subspace Learning for Autonomous Robot Navigation**](https://www.mdpi.com/1424-8220/18/2/582)       
-   Eunwoo Kim, Sungjoon Choi, and Songhwai Oh     
-   *Sensors*, vol. 18, no. 2, Feb. 2018.
-
------
 [**Real-Time Nonparametric Reactive Navigation of Mobile Robots in Dynamic Environments**](https://www.sciencedirect.com/science/article/pii/S0921889016300392)      
    Sungjoon Choi, Eunwoo Kim, Kyungjae Lee, and Songhwai Oh     
    *Robotics and Autonomous Systems*, vol. 91, pp. 11-24, May 2017.

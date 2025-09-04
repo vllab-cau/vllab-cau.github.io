@@ -9,7 +9,7 @@ author_profile: true
 -----
 **Dynamic Scale Position Embedding for Cross-Modal Representation Learning**         
   Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
-  *Neural Networks*, 2025. (**Accepted**)
+  *Neural Networks (**NN**)*, 2025. (**Accepted**)
 
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
@@ -24,7 +24,7 @@ author_profile: true
 -----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
-  *Neural Networks*, vol. 188, Aug. 2025.
+  *Neural Networks (**NN**)*, vol. 188, Aug. 2025.
 
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        

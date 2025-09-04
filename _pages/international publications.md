@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2025
 -----
+**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**         
+  Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
+  *Neural Networks*, 2025. (**Accepted**)
+
+-----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.

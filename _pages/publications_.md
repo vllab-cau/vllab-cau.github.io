@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
+-----
+**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**         
+  Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
+  *Neural Networks*, 2025. (Accepted)
 
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           

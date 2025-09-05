@@ -44,7 +44,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
   **(Highlight, Acceptance Rate: 3%)**
 
 -----
-[**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**](https://arxiv.org/abs/2503.07317)        
+[**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**](https://ieeexplore.ieee.org/document/11128028)        
   Jiho Lee, Hayun Lee, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim           
   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2025. [[Video](https://youtu.be/TyFp6bzquZA)]
 

@@ -42,6 +42,6 @@ Our research interests include efficient machine learning, automated machine lea
 * [07/2024] A paper on active learning is accepted to **IEEE Signal Processing Letters**.
 * [06/2024] A paper on task planning based on LLMs is accepted to **IROS 2024**.
 * [06/2024] A paper on self-supervised learning is accepted to **Pattern Recognition Letters**.
-* [04/2024] A paper on neural architecture search is accepted to **IEEE Transactions on Image Processing**.
+* [04/2024] A paper on neural architecture search is accepted to **IEEE Trans. on Image Processing**.
 * [12/2023] A paper on high-dynamic range imaging is accepted to **ICASSP 2024**.
 * [07/2023] A paper on generation-based continual learning is accepted to **ICCV 2023**.

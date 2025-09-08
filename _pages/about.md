@@ -28,7 +28,7 @@ Our research interests include efficient machine learning, automated machine lea
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS
-* [09/2025] A paper on in-context learning agents is accepted to **CoRL 2025 Workshop**.
+* [09/2025] A paper on in-context learning agents is accepted to **CoRL 2025** Workshop.
 * [09/2025] A paper on cross-modal learning is accepted to **Neural Networks**.
 * [06/2025] Two papers on continual learning are accepted to **ICCV 2025**.
 * [06/2025] A paper on text-video retrieval is accepted to **Pattern Recognition Letters**.
@@ -38,7 +38,7 @@ Our research interests include efficient machine learning, automated machine lea
 * [01/2025] A paper on self-corrective robot task planning is accepted to **ICRA 2025**.
 * [12/2024] A paper on dataset condensation is accepted to **Pattern Recognition Letters**.
 * [11/2024] A paper on neural radiance fields is accepted to **IEEE Signal Processing Letters**.
-* [10/2024] A paper on continual learning is accepted to **NeurIPS 2024 Workshop**.
+* [10/2024] A paper on continual learning is accepted to **NeurIPS 2024** Workshop.
 * [07/2024] A paper on active learning is accepted to **IEEE Signal Processing Letters**.
 * [06/2024] A paper on task planning based on LLMs is accepted to **IROS 2024**.
 * [06/2024] A paper on self-supervised learning is accepted to **Pattern Recognition Letters**.

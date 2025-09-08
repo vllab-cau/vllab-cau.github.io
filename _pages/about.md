@@ -28,7 +28,7 @@ Our research interests include efficient machine learning, automated machine lea
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS
-* [09/2025] A paper on in-context learning for robotic tasks is accepted to **CoRL 2025 Workshop**.
+* [09/2025] A paper on in-context learning agents is accepted to **CoRL 2025 Workshop**.
 * [09/2025] A paper on cross-modal learning is accepted to **Neural Networks**.
 * [06/2025] Two papers on continual learning are accepted to **ICCV 2025**.
 * [06/2025] A paper on text-video retrieval is accepted to **Pattern Recognition Letters**.

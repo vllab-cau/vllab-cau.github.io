@@ -28,6 +28,7 @@ Our research interests include efficient machine learning, automated machine lea
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS
+* [09/2025] Our paper on in-context learning for robotic tasks is accepted to **CoRL 2025 Workshop**.
 * [09/2025] Our paper on cross-modal learning is accepted to **Neural Networks**.
 * [06/2025] Two papers on continual learning are accepted to **ICCV 2025**.
 * [06/2025] Our paper on text-video retrieval is accepted to **Pattern Recognition Letters**.
@@ -44,4 +45,3 @@ Our research interests include efficient machine learning, automated machine lea
 * [04/2024] Our paper on neural architecture search is accepted to **IEEE Transactions on Image Processing**.
 * [12/2023] Our paper on high-dynamic range imaging is accepted to **ICASSP 2024**.
 * [07/2023] Our paper on generation-based continual learning is accepted to **ICCV 2023**.
-* [07/2022] Our paper on task association in continual learning is accepted to **ECCV 2022**.

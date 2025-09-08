@@ -35,7 +35,7 @@ Our research interests include efficient machine learning, automated machine lea
 * [05/2025] Our paper on 3D human pose estimation is accepted to **CVIU**.
 * [03/2025] Our paper on efficient continual learning is accepted to **Neural Networks**.
 * [02/2025] Our paper on multi-modal learning is accepted to **CVPR 2025 (Highlight)**.
-* [01/2025] Our paper on self-corrective task planning is accepted to **ICRA 2025**.
+* [01/2025] Our paper on self-corrective robot task planning is accepted to **ICRA 2025**.
 * [12/2024] Our paper on dataset condensation is accepted to **Pattern Recognition Letters**.
 * [11/2024] Our paper on neural radiance fields is accepted to **IEEE Signal Processing Letters**.
 * [10/2024] Our paper on continual learning is accepted to **NeurIPS 2024 Workshop**.

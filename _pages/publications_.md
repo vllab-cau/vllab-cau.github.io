@@ -87,7 +87,7 @@ author_profile: true
 -----
 [**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh    
-   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015.
+   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015.  [[Video](https://www.youtube.com/watch?v=3XX-mgpuhRw&t=3s)]
 
 -----
 [**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       
@@ -107,6 +107,6 @@ author_profile: true
 -----
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
    Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
-   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2014.
+   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2014. [[Video](https://www.youtube.com/watch?v=wHGymXWdNSY)]
 
 

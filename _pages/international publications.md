@@ -205,7 +205,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        
    Eunwoo Kim, Sungjoon Choi, and Songhwai Oh    
-   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015.
+   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2015. [[Video](https://www.youtube.com/watch?v=3XX-mgpuhRw&t=3s)]
    
 -----
 [**Efficient l1-Norm-Based Low-Rank Matrix Approximations for Large-Scale Problems Using Alternating Rectified Gradient Method**](https://ieeexplore.ieee.org/abstract/document/6784021)       
@@ -220,7 +220,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Real-Time Navigation in Crowded Dynamic Environments Using Gaussian Process Motion Control**](https://ieeexplore.ieee.org/document/6907322)       
    Sungjoon Choi, Eunwoo Kim, and Songhwai Oh      
-   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2014.
+   *IEEE International Conference on Robotics and Automation (**ICRA**)*, May 2014.  [[Video](https://www.youtube.com/watch?v=wHGymXWdNSY)]
    
 -----
 [**Human Behavior Prediction for Smart Homes Using Deep Learning**](https://ieeexplore.ieee.org/document/6628440)       

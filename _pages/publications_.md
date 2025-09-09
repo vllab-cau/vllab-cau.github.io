@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
-**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**         
+[**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025009670）         
   Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
   *Neural Networks (**NN**)*, 2025. (**Accepted**)
 

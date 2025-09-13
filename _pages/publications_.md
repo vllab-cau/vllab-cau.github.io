@@ -9,7 +9,7 @@ author_profile: true
 -----
 [**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025009670)         
   Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
-  *Neural Networks (**NN**)*, 2025. (**Accepted**)
+  *Neural Networks (**NN**)*, vol. 193, Jan. 2026.
 
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           

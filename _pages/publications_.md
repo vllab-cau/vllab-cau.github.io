@@ -14,7 +14,7 @@ author_profile: true
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project page](https://jin0316.github.io/MVP_Project_Page/)]
 
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://arxiv.org/abs/2507.22553)           
@@ -51,12 +51,12 @@ author_profile: true
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023.
+   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project page](https://jin0316.github.io/GrowBrain_Project_Page/)]
 
 -----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       
   Hyundong Jin and Eunwoo Kim       
-   *European Conference on Computer Vision (**ECCV**)*, Oct. 2022.
+   *European Conference on Computer Vision (**ECCV**)*, Oct. 2022. [[Project page](https://jin0316.github.io/H2_Project_Page/)]
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           

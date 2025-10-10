@@ -15,12 +15,12 @@ author_profile: true
 -----
 [**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
 
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://arxiv.org/abs/2507.22553)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
 
 -----
 [**Dual-Branch Scale Disentanglement for Text-Video Retrieval**](https://www.sciencedirect.com/science/article/pii/S0167865525002430)         
@@ -106,7 +106,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Growing a Brain with Sparsity-Inducing Generation for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2023/html/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.html)         
   Hyundong Jin, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim       
-   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023.
+   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2023. [[Project Page](https://jin0316.github.io/GrowBrain_Project_Page/)]
 
 -----
 [**GhostNeXt: Rethinking Module Configurations for Efficient Model Design**](https://www.mdpi.com/2076-3417/13/5/3301)         
@@ -123,7 +123,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Helpful or Harmful: Inter-Task Association in Continual Learning**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31)       
   Hyundong Jin and Eunwoo Kim       
-   *European Conference on Computer Vision (**ECCV**)*, Oct. 2022.
+   *European Conference on Computer Vision (**ECCV**)*, Oct. 2022. [[Project Page](https://jin0316.github.io/H2_Project_Page/)]
 
 -----
 [**Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network**](https://ieeexplore.ieee.org/abstract/document/9740124)       

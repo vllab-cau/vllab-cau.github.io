@@ -13,12 +13,12 @@ author_profile: true
 
 ## 2025
 -----
-[**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://arxiv.org/abs/2508.00260)           
+[**Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models**](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_Instruction-Grounded_Visual_Projectors_for_Continual_Learning_of_Generative_Vision-Language_Models_ICCV_2025_paper.html)           
   Hyundong Jin, Hyung Jin Chang, and Eunwoo Kim           
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Project Page](https://jin0316.github.io/MVP_Project_Page/)]
 
 -----
-[**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://arxiv.org/abs/2507.22553)           
+[**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
   *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
 

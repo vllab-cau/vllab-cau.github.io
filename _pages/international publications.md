@@ -36,7 +36,7 @@ author_profile: true
 [**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
 for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
   Jian Son, Jiho Lee, and Eunwoo Kim       
-  *Computer Vision and Image Understanding (CVIU)*, vol. 257, June 2025.
+  *Computer Vision and Image Understanding (**CVIU**)*, vol. 257, June 2025.
 
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        

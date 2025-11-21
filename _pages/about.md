@@ -5,7 +5,7 @@ excerpt: "About"
 carousels:
   - images:
     - image: /images/lab_pic_250822_2.jpg
-    - image: /images/IMG_7515.jpg
+    - image: /images/IMG_7513.jpg
     - image: /images/cvpr25_poster_session1.jpg
     - image: /images/lab_202409.jpg
     - image: /images/20240531_vllab.jpg

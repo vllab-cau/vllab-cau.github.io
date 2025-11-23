@@ -19,7 +19,7 @@ author_profile: true
 -----
 [**RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning**](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_RainbowPrompt_Diversity-Enhanced_Prompt-Evolving_for_Continual_Learning_ICCV_2025_paper.html)           
   Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim           
-  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025. [[Code](https://github.com/Kiseong0753/RainbowPrompt)]
+  *IEEE International Conference on Computer Vision (**ICCV**)*, Oct. 2025.
 
 -----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         

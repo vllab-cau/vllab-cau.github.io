@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Patents"
-permalink: /patents/
+title: "News"
+permalink: /news/
 author_profile: true
 ---
 

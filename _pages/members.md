@@ -121,7 +121,7 @@ Email: seojing2001 (at) gmail.com <br><br>
 
 -----
 ## Undergraduate Students
-<img src='/images/yeonwoopark2.jpg' width="140" align="left" style="margin-right:40px">
+<img src='/images/yeonwoopark.jpg' width="140" align="left" style="margin-right:40px">
 **Yeonwoo Park**  
 B.S. Student      
 Research Area: Deep Learning, Robotics          

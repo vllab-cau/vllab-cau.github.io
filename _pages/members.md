@@ -65,7 +65,7 @@ Email: ghdrltjd (at) cau.ac.kr
 -----
 <img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">
 **Hayun Lee**   
-M.S. Student      
+Ph.D. Student      
 Research Area: Continual Learning, Robotics           
 Email: hayun0406 (at) cau.ac.kr       
 

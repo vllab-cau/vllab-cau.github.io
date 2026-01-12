@@ -5,8 +5,9 @@ permalink: /alumni/
 author_profile: true
 ---
 
-## Graduate Students
+## Former Ph.D. Students
 
+## Former M.S. Students
 
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son (M.S., 2025)**  

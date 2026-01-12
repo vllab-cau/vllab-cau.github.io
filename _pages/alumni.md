@@ -78,7 +78,7 @@ Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*
 -----
 ## Undergraduate Students
 
-* 2025: Jingyeong Yi, Younhun Ahn
+* 2025: Jingyeong Yi, Younhun Ahn, Seongmin Kim, Seojin Lee
 * 2024: Heayoun Choi, Eunbee Lee, Seungjin Han, Yina Kim
 * 2023: Sangmin Kim, Minki Kang, Sangyun Lee, Hayun Lee, SeungHyun Kim
 * 2022: Bolim Lee, Suhyun Shin, Younggwang Park, Jonguk Han, Hyunjoon Koo, Jian Son, Sumin Lee

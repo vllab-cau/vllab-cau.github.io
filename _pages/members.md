@@ -107,23 +107,27 @@ Email: yina99 (at) cau.ac.kr
 **Younhun Ahn**  
 M.S. Student      
 Research Area: Deep Learning, Computer Vision           
-Email: kmchu1921 (at) cau.ac.kr  <br><br>
+Email: kmchu1921 (at) cau.ac.kr  
 
-
------
-## Undergraduate Students
-<img src='/images/seongmin kim1.jpg' width="140" align="left" style="margin-right:40px">
-**Seongmin Kim**  
-B.S. Student      
-Research Area: Deep Learning, Computer Vision           
-Email: alsalslove10 (at) naver.com
 
 -----
 <img src='/images/Seojin Lee.png' width="140" align="left" style="margin-right:40px">
 **Seojin Lee**  
-B.S. Student      
+M.S. Student      
 Research Area: Deep Learning, Robotics           
-Email: seojing2001 (at) gmail.com
+Email: seojing2001 (at) gmail.com <br><br>
+
+
+
+-----
+## Undergraduate Students
+<img src='/images/yeonwoopark.jpg' width="140" align="left" style="margin-right:40px">
+**Yeonwoo Park**  
+B.S. Student      
+Research Area: Deep Learning, Robotics          
+Email: orchidbyw1 (at) cau.ac.kr
+
+
 
 
 ------

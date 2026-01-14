@@ -9,6 +9,12 @@ author_profile: true
 
 ## Former M.S. Students
 
+<img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">
+**Hayun Lee (M.S., 2026)**   
+Research Area: Continual Learning, Robotics           
+Thesis: *Learning When to Learn: Complexity-Aware Learning Scheduling for Continual Learning* <br><br>
+
+-----
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son (M.S., 2025)**  
 Research Area: Human Pose Estimation, Multi-Modal Learning           

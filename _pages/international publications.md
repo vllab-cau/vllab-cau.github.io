@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2026
 -----
+**XIL: Cross-Expanding Incremental Learning**         
+  Heayoun Choi, Hyundong Jin, and Eunwoo Kim         
+  *International Conference on Learning Representations (**ICLR**)*, Apr. 2026.
+
+-----
 [**Dynamic Scale Position Embedding for Cross-Modal Representation Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025009670)         
   Jungkyoo Shin, Sungmin Kang, Yoonsik Cho, and Eunwoo Kim         
   *Neural Networks (**NN**)*, vol. 193, Jan. 2026.

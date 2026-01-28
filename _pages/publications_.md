@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
-**XIL: Cross-Expanding Incremental Learning**         
+[**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
   Heayoun Choi, Hyundong Jin, and Eunwoo Kim         
   *International Conference on Learning Representations (**ICLR**)*, Apr. 2026.
 

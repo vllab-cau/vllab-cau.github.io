@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2026
 -----
-**XIL: Cross-Expanding Incremental Learning**         
+[**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
   Heayoun Choi, Hyundong Jin, and Eunwoo Kim         
   *International Conference on Learning Representations (**ICLR**)*, Apr. 2026.
 

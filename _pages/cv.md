@@ -44,7 +44,6 @@ Eunwoo Kim is an associate professor in the School of Computer Science and Engin
 * Honor Prize, Samsung HumanTech Paper Award, Samsung, 2016.
 * Microsoft Autonomous Mobile Robot Navigation Contest, Microsoft, 2014.
 * Distinguished Master’s Dissertation Award, EECS, Seoul National University, 2013.
-* Full Funded Scholarship, Samsung, 2011-2015.
 
 
 ## Professional Activities

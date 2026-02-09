@@ -9,7 +9,7 @@ author_profile: true
 - Machine Learning: Representation Learning, Versatile Machine Learning, Active Learning
 - Deep Learning: Multi-Modal Learning, Continual Learning, Machine Unlearning, Neural Architecture Search
 - Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Models, Robot Vision
-- Computer Vision: Video Understanding, Action Segmentation, Pose Estimation
+- Computer Vision: Video Understanding, Action Segmentation, Human Pose Estimation
 
 
 ## Projects

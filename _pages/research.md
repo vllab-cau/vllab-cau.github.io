@@ -8,8 +8,8 @@ author_profile: true
 ## Research Interests
 - Machine Learning: Representation Learning, Versatile Machine Learning, Active Learning
 - Deep Learning: Multi-Modal Learning, Continual Learning, Machine Unlearning, Neural Architecture Search
-- Computer Vision: Video Understanding, Action Segmentation, Pose Estimation
 - Robotics: Robot Task Planning, Human-Robot Interaction, Robot Foundation Models, Robot Vision
+- Computer Vision: Video Understanding, Action Segmentation, Pose Estimation
 
 
 ## Projects

@@ -33,6 +33,11 @@ author_profile: true
   *Pattern Recognition Letters (PRL)*, vol. 196, pp. 296-302, Oct. 2025.
 
 -----
+[**Contrastive In-Context Learning with Active Memory for Task Planning**](https://openreview.net/forum?id=NaayWmHgL1)         
+  Jiho Lee, Kyungjae Lee, and Eunwoo Kim       
+  *CoRL 2025 Workshop on Making Sense of Data in Robotics*, Sep. 2025.
+
+-----
 [**Exploration and Exploitation in Continual Learning**](https://www.sciencedirect.com/science/article/pii/S0893608025003235)         
   Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim       
   *Neural Networks (**NN**)*, vol. 188, Aug. 2025.

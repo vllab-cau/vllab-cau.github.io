@@ -9,12 +9,12 @@ author_profile: true
 -----
 **Stake the Points: Structure-Faithful Instance Unlearning**        
   Kiseong Hong, JungKyoo Shin and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----
 **Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
@@ -44,7 +44,7 @@ author_profile: true
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2025.         
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.         
   **(Highlight, Acceptance Rate: 3%)**
 
 -----
@@ -81,12 +81,12 @@ author_profile: true
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
    Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2019.
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2019.
    
 -----
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh      
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2018.   
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2018.   
    **(Spotlight Presentation)**   
 
 -----
@@ -97,7 +97,7 @@ author_profile: true
 -----
 [**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2015.
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2015.
 
 -----
 [**Structured Low-Rank Matrix Approximation in Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7138982)        

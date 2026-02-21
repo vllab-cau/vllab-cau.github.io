@@ -9,12 +9,12 @@ author_profile: true
 -----
 **Stake the Points: Structure-Faithful Instance Unlearning**        
   Kiseong Hong, JungKyoo Shin and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----
 **Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**       
   Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         
@@ -56,12 +56,12 @@ author_profile: true
 [**STELA: Spatial-Temporal Enhanced Learning with an Anatomical Graph Transformer
 for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001043)          
   Jian Son, Jiho Lee, and Eunwoo Kim       
-  *Computer Vision and Image Understanding (**CVIU**)*, vol. 257, June 2025.
+  *Computer Vision and Image Understanding (**CVIU**)*, vol. 257, Jun. 2025.
 
 -----
 [**Generative Modeling of Class Probability for Multi Modal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Generative_Modeling_of_Class_Probability_for_Multi-Modal_Representation_Learning_CVPR_2025_paper.html)        
   Jungkyoo Shin, Bumsoo Kim, and Eunwoo Kim           
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2025.          
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2025.          
   **(Highlight, Acceptance Rate: 3%)**
 
 -----
@@ -104,7 +104,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Active Learning with Long-Range Observation**](https://ieeexplore.ieee.org/document/10614786)         
   Jiho Lee and Eunwoo Kim      
-   *IEEE Signal Processing Letters (SPL)*, vol. 31, pp.1990-1994, July 2024.
+   *IEEE Signal Processing Letters (SPL)*, vol. 31, pp.1990-1994, Jul. 2024.
 
 -----
 [**Mitigating Search Interference with Task-Aware Nested Search**](https://ieeexplore.ieee.org/document/10508322)         
@@ -170,12 +170,12 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Auto-VirtualNet: Cost-Adaptive Dynamic Architecture Search for Multi-Task Learning**](https://www.sciencedirect.com/science/article/pii/S0925231221003040?dgcid=coauthor)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh       
-   *Neurocomputing*, vol. 442, pp. 116-124, June 2021.
+   *Neurocomputing*, vol. 442, pp. 116-124, Jun. 2021.
 
 -----
 [**Nonconvex Sparse Representation with Slowly Vanishing Gradient Regularizers**](https://ieeexplore.ieee.org/document/9143086)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh       
-   *IEEE Access*, vol. 8, pp. 132489-132501, July 2020.
+   *IEEE Access*, vol. 8, pp. 132489-132501, Jul. 2020.
 
 -----
 [**Deep Elastic Networks with Model Selection for Multi-Task Learning**](https://arxiv.org/abs/1909.04860)           
@@ -185,17 +185,17 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**A Scalable Framework for Data-Driven Subspace Representation and Clustering**](https://www.sciencedirect.com/science/article/pii/S0167865519302107)        
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *Pattern Recognition Letters (PRL)*, vol. 125, pp. 742-749, July 2019.
+   *Pattern Recognition Letters (PRL)*, vol. 125, pp. 742-749, Jul. 2019.
 
 -----
 [**Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks**](https://arxiv.org/abs/1904.04562)      
    Eunwoo Kim, Chanho Ahn, Philip H.S. Torr, and Songhwai Oh     
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2019.
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2019.
    
 -----
 [**NestedNet: Learning Nested Sparse Structures in Deep Neural Networks**](https://arxiv.org/abs/1712.03781)       
    Eunwoo Kim, Chanho Ahn, and Songhwai Oh      
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2018.   
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2018.   
    **(Spotlight Presentation)**   
    
 -----
@@ -216,7 +216,7 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
 -----
 [**Elastic-Net Regularization of Singular Values for Robust Subspace Learning**](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kim_Elastic-Net_Regularization_of_2015_CVPR_paper.pdf)       
    Eunwoo Kim, Minsik Lee, and Songhwai Oh      
-   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June  2015.
+   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun.  2015.
 
 -----
 [**Leveraged Non-Stationary Gaussian Process Regression for Autonomous Robot Navigation**](https://ieeexplore.ieee.org/document/7139222)       

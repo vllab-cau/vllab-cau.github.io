@@ -27,6 +27,7 @@ Our research interests include efficient machine learning, automated machine lea
 {% include carousel.html height="75" unit="%" duration="8" number="1" %}
 
 ## NEWS ([More news...](http://vllab-cau.github.io/news))
+* [02/2026] Two papers on machine unlearning are accepted to **CVPR 2026**.
 * [01/2026] A paper on cross-expanding incremental learning is accepted to **ICLR 2026**.
 * [09/2025] A paper on in-context learning agents is accepted to **CoRL 2025** Workshop.
 * [09/2025] A paper on cross-modal learning is accepted to **Neural Networks**.

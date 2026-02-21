@@ -7,13 +7,13 @@ author_profile: true
 
 ## 2026
 -----
-**Stake the Points: Structure-Faithful Instance Unlearning**
-  Kiseong Hong, JungKyoo Shin and Eunwoo Kim
+**Stake the Points: Structure-Faithful Instance Unlearning**        
+  Kiseong Hong, JungKyoo Shin and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
 
 -----
-**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**
-  Hyundong Jin, Dongyoon Han, and Eunwoo Kim
+**Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models**       
+  Hyundong Jin, Dongyoon Han, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, June 2026.
 
 -----

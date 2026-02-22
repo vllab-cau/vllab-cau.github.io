@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* [02/2026] Two papers on machine unlearning are accepted to **CVPR 2026**.
+* [02/2026] Three papers are accepted to **CVPR 2026** (2 Main, 1 Findings).
 * [01/2026] A paper on cross-expanding incremental learning is accepted to **ICLR 2026**.
 * [09/2025] A paper on in-context learning agents is accepted to **CoRL 2025** Workshop.
 * [09/2025] A paper on cross-modal learning is accepted to **Neural Networks**.

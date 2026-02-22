@@ -8,7 +8,7 @@ author_profile: true
 ## 2026
 -----
 **Stake the Points: Structure-Faithful Instance Unlearning**        
-  Kiseong Hong, JungKyoo Shin and Eunwoo Kim        
+  Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----

@@ -8,7 +8,7 @@ author_profile: true
 ## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
 -----
 **Stake the Points: Structure-Faithful Instance Unlearning**        
-  Kiseong Hong, JungKyoo Shin and Eunwoo Kim        
+  Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        
   *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)*, Jun. 2026.
 
 -----

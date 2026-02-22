@@ -19,7 +19,7 @@ author_profile: true
 -----
 **Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**       
   Jeongwon Choi and Eunwoo Kim        
-  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)* (Findings), Jun. 2026.
+  *IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) (Findings)*, Jun. 2026.
 
 -----
 [**XIL: Cross-Expanding Incremental Learning**](https://openreview.net/forum?id=eaAGI1lIb4)         

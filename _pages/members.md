@@ -15,14 +15,7 @@ Email: eunwoo (at) cau.ac.kr
 
 -----
 ## Graduate Students
-<img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
-**[Hyundong Jin](https://jin0316.github.io/HyundongJin.io/){:target="_blank"}**     
-Ph.D. Student       
-Research Area: Continual Learning, Multi-Modal Learning       
-Email: jude0316 (at) cau.ac.kr    
 
-
------
 <img src='/images/Jung Kyoo Shin.jpg' width="140" align="left" style="margin-right:40px">
 **Jungkyoo Shin**      
 Ph.D. Student       

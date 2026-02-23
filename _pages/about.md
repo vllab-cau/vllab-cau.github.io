@@ -38,4 +38,4 @@ Our research interests include efficient machine learning, automated machine lea
 * [01/2025] A paper on self-corrective robot task planning is accepted to **ICRA 2025**.
 * [10/2024] A paper on continual learning is accepted to **NeurIPS 2024** Workshop.
 * [06/2024] A paper on task planning based on LLMs is accepted to **IROS 2024**.
-* [04/2024] A paper on neural architecture search is accepted to **IEEE Trans. on Image Processing**.
+* [04/2024] A paper on neural architecture search is accepted to **IEEE TIP**.

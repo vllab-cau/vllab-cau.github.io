@@ -13,6 +13,7 @@ Research Area: Continual Learning, Multi-Modal Learning
 Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*  <br><br>    
 
 
+-----
 ## Former M.S. Students
 
 <img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">

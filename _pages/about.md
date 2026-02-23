@@ -39,4 +39,3 @@ Our research interests include efficient machine learning, automated machine lea
 * [10/2024] A paper on continual learning is accepted to **NeurIPS 2024** Workshop.
 * [06/2024] A paper on task planning based on LLMs is accepted to **IROS 2024**.
 * [04/2024] A paper on neural architecture search is accepted to **IEEE Trans. on Image Processing**.
-* [07/2023] A paper on generation-based continual learning is accepted to **ICCV 2023**.

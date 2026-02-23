@@ -7,6 +7,12 @@ author_profile: true
 
 ## Former Ph.D. Students
 
+<img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
+**[Hyundong Jin](https://jin0316.github.io/HyundongJin.io/){:target="_blank"} (Ph.D., 2026)**     
+Research Area: Continual Learning, Multi-Modal Learning       
+Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*    
+
+
 ## Former M.S. Students
 
 <img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">

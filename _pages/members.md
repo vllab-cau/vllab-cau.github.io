@@ -99,7 +99,7 @@ Email: yina99 (at) cau.ac.kr
 <img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
 **Younhun Ahn**  
 M.S. Student      
-Research Area: Multi-Modal Learning           
+Research Area: Multi-Modal Learning, Computer Vision           
 Email: kmchu1921 (at) cau.ac.kr  
 
 

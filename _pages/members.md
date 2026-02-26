@@ -83,7 +83,7 @@ Email: severe0713 (at) cau.ac.kr
 <img src='/images/Seungjin Han.png' width="140" align="left" style="margin-right:40px">
 **Seungjin Han**  
 M.S. Student      
-Research Area: Deep Learning, Action Segmentation           
+Research Area: Multi-Modal Learning, Video Understanding           
 Email: hsj7486 (at) cau.ac.kr          
 
 
@@ -99,7 +99,7 @@ Email: yina99 (at) cau.ac.kr
 <img src='/images/younhun ahn.jpg' width="140" align="left" style="margin-right:40px">
 **Younhun Ahn**  
 M.S. Student      
-Research Area: Deep Learning, Computer Vision           
+Research Area: Multi-Modal Learning           
 Email: kmchu1921 (at) cau.ac.kr  
 
 

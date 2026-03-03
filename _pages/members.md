@@ -56,6 +56,14 @@ Email: ghdrltjd (at) cau.ac.kr
 
 
 -----
+<img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
+**Jian Son**  
+Ph.D. Student
+Research Area: Multi-Modal Learning, Robotics           
+Email: jianie1017 (at) cau.ac.kr            
+
+
+-----
 <img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">
 **[Hayun Lee](https://sksmslhy.github.io/){:target="_blank"}**   
 Ph.D. Student      

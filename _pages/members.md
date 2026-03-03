@@ -27,7 +27,7 @@ Email: neo293 (at) cau.ac.kr
 <img src='/images/Jiho Lee.PNG' width="140" align="left" style="margin-right:40px">
 **[Jiho Lee](https://jiho-e.notion.site/){:target="_blank"}**       
 Ph.D. Student      
-Research Area: Active Learning, Robotics                
+Research Area: Robotics, Active Learning                 
 Email: j2hoooo (at) cau.ac.kr
 
 

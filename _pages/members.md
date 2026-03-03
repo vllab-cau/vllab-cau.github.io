@@ -58,7 +58,7 @@ Email: ghdrltjd (at) cau.ac.kr
 -----
 <img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son**  
-Ph.D. Student
+Ph.D. Student          
 Research Area: Multi-Modal Learning, Robotics           
 Email: jianie1017 (at) cau.ac.kr            
 

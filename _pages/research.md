@@ -100,7 +100,7 @@ author_profile: true
    Funded by National Research Foundation (Basic Research Lab). <br>
    
 -----
-**Pose Estimation for Bin-Picking with a 3D Model**
+**Pose Estimation for Bin-Picking of a Robot**
 <img src='/images/pose.png' width="310" align="left" style="margin-right:30px"> 
 
    This project develops exact 6D pose estimation and 

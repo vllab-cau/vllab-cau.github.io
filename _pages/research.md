@@ -129,7 +129,7 @@ author_profile: true
   
 -----  
 **Human-Level Lifelong Machine Learning** 
-<img src='/images/ml2.png' width="290" align="left" style="margin-right:50px">      
+<img src='/images/ml_center.jpeg' width="290" align="left" style="margin-right:50px">      
    
    This project develops novel algorithms and methods for real-time nonparametric
    learning and prediction of time-varying stochastic processes.  

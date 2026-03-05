@@ -115,7 +115,7 @@ Email: kmchu1921 (at) cau.ac.kr
 <img src='/images/Seojin Lee.png' width="140" align="left" style="margin-right:40px">
 **Seojin Lee**  
 M.S. Student      
-Research Area: Deep Learning, Human-Robot Interaction           
+Research Area: Robotics, Human-Robot Interaction           
 Email: seojing (at) cau.ac.kr <br><br>
 
 

@@ -43,15 +43,6 @@ author_profile: true
 
 
 -----
-**Time-Series Action Prediction and Segmentation** 
-<img src='/images/hd_project2.png' width="310" align="left" style="margin-right:30px">        
-        
-   This project aims to develop high-performing deep learning models
-   to learn and segment time-series actions for heavy equipments. 
-   
-   Funded by HD Hyundai Construction Equipment. <br>
-
------
 **Learning Transferable Task Knowledge and Planner for Service Robots**
 <img src='/images/samsung_robot_exp2.png' width="290" align="left" style="margin-right:50px">
 
@@ -59,6 +50,16 @@ author_profile: true
    to learn transferable knowledge and task hierarchy for task planning of a robot.    
    
    Funded by Samsung Research Funding & Incubation Center.  <br>   
+
+
+-----
+**Time-Series Action Prediction and Segmentation** 
+<img src='/images/hd_project2.png' width="310" align="left" style="margin-right:30px">        
+        
+   This project aims to develop high-performing deep learning models
+   to learn and segment time-series actions for heavy equipments. 
+   
+   Funded by HD Hyundai Construction Equipment. <br>
 
 
 -----

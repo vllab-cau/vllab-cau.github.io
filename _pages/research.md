@@ -91,6 +91,15 @@ author_profile: true
    Funded by ETRI. <br>
    
 -----
+**Pose Estimation for Bin-Picking of a Robot**
+<img src='/images/pose.png' width="310" align="left" style="margin-right:30px"> 
+
+   This project develops exact 6D pose estimation and 
+   instance segmentation algorithms for a bin-picking problem of a robot.   
+   
+   Funded by Doosan Digital Innovation. <br>
+
+-----
 **Vision Intelligence based Construction Safety Management System** 
 <img src='/images/brl.PNG' width="290" align="left" style="margin-right:50px">        
         
@@ -100,15 +109,6 @@ author_profile: true
    
    Funded by National Research Foundation (Basic Research Lab). <br>
    
------
-**Pose Estimation for Bin-Picking of a Robot**
-<img src='/images/pose.png' width="310" align="left" style="margin-right:30px"> 
-
-   This project develops exact 6D pose estimation and 
-   instance segmentation algorithms for a bin-picking problem of a robot.   
-   
-   Funded by Doosan Digital Innovation. <br>
-
 -----
 **StreetWise**
 <img src='/images/streetwise5.png' width="290" align="left" style="margin-right:50px">    

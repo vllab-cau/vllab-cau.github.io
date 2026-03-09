@@ -254,6 +254,6 @@ for 3D Human Pose Estimation**](https://www.sciencedirect.com/science/article/ab
    *IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Aug. 2013.
 
 ----- 
-## [Domestic Publications](http://vllab-cau.github.io/publications/domestic-publications)
+## [Domestic Publications](http://ai-robotics-lab.github.io/publications/domestic-publications)
 -----
 

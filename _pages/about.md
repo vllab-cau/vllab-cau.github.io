@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-# AI & ROBOTICS LABORATORY
+# AI & ROBOTICS LABORATORY @ CAU
 
 The laboratory (formerly known as Vision & Learning Lab) was formed in Mar. 2020.  
 

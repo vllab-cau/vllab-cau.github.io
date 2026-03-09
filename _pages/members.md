@@ -132,5 +132,5 @@ Email: orchidbyw1 (at) cau.ac.kr
 
 
 ------
-## [Former Members](https://vllab-cau.github.io/alumni/)
+## [Former Members](https://ai-robotics-lab.github.io/alumni/)
 

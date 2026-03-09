@@ -92,7 +92,7 @@ author_profile: true
    
 -----
 **Pose Estimation for Bin-Picking of a Robot**
-<img src='/images/bin-picking3.png' width="290" align="left" style="margin-right:50px"> 
+<img src='/images/bin-picking4.png' width="290" align="left" style="margin-right:50px"> 
 
    This project develops exact 6D pose estimation and 
    instance segmentation algorithms for a bin-picking problem of a robot.   

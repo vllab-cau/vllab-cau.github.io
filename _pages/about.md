@@ -23,7 +23,7 @@ We engage in research to explore methods that understand and learn any intellect
 
 Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
 
-{% include carousel.html height="75" unit="%" duration="8" number="1" %}
+{% include carousel.html height="50" unit="%" duration="8" number="1" %}
 
 ## NEWS ([More news...](http://ai-robotics-lab.github.io/news))
 * [02/2026] Three papers are accepted to **CVPR 2026** (2 Main, 1 Findings).

@@ -24,4 +24,4 @@ We engage in research to explore methods that understand and learn any intellect
 
 Our research interests include efficient machine learning, automated machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, representation learning, and their applications to robotics and computer vision, but not limited to.
 
-NOTE: Please visit our new website: [AI & Robotics Lab](https://ai-robotics-lab.github.io/)
+Please visit our new website: [AI & Robotics Lab](https://ai-robotics-lab.github.io/)

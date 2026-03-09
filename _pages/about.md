@@ -18,8 +18,8 @@ redirect_from:
 
 The laboratory (formerly known as Vision & Learning Lab) was formed in Mar. 2020.  
 
-The AI & Robotics Laboratory aims to push the boundary of robot learning research by developing efficient, versatile, and scalable models, towards general-purpose artificial intelligence.
-Our research explores methods that enables robots to perceive, reason about, learn diverse real-world tasks through interaction with the physical world.
+The AI & Robotics Laboratory aims to push the boundary of robot learning research by developing efficient, versatile, and scalable models, towards general-purpose AI.
+Our research explores methods that enables robots to perceive, reason about, and learn diverse real-world tasks through interaction with the physical world.
 
 Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
 

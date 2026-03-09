@@ -14,11 +14,11 @@ redirect_from:
 
 
 
-# AI & ROBOTICS LABORATORY
+# AI & Robotics LABORATORY
 
 The laboratory was formed in Mar. 2020 and is led by Prof. Eunwoo Kim.  
 
-The aim of AI & ROBOTICS LABORATORY at Chung-Ang University is to push the boundary of machine learning research by developing efficient, versatile, and optimal machine learning models, towards general-purpose artificial intelligence.
+The aim of AI & Rototics LABORATORY at Chung-Ang University is to push the boundary of machine learning research by developing efficient, versatile, and optimal machine learning models, towards general-purpose artificial intelligence.
 We engage in research to explore methods that understand and learn any intellectual task that human beings can do.
 
 Our research interests include efficient machine learning, automated machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, representation learning, and their applications to robotics and computer vision, but not limited to.

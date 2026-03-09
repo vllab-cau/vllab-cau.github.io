@@ -137,3 +137,11 @@ author_profile: true
    
    Funded by Ministry of Science, ICT, and Future Planning (MSIP).  <br>   
    
+-----  
+**Human-Centric Networked Robotics Technology** 
+<img src='/images/hcn.jpeg' width="290" align="left" style="margin-right:50px">      
+   
+   This project develops new methods and prototype applications for human-centric 
+   networked robots for seamless operations of service robots in our daily lives. 
+   
+   Funded by National Research Foundation (NRF).  <br>   

@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VISION & LEARNING LAB"
+title                    : "AI & Robotics LAB"
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"
-url                      : https://vllab.cau.ac.kr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ai-robotics-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vllab-cau/vllab-cau.github.io"
+repository               : "ai-robotics-lab/ai-robotics-lab.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "VISION & LEARNING LABORATORY"  
+  name             : "AI & ROBOTICS LABORATORY"  
   avatar           : "vllab_logo_5.png"
   bio              : "Chung-Ang University"
   location         : "Seoul, Korea"

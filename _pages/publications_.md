@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications ([Full List of Publications](http://vllab-cau.github.io/publications/international-publications))
+## Selected Publications ([Full List of Publications](http://ai-robotics-lab.github.io/publications/international-publications))
 -----
 **Stake the Points: Structure-Faithful Instance Unlearning**        
   Kiseong Hong, JungKyoo Shin, and Eunwoo Kim        

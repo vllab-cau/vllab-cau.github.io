@@ -7,8 +7,8 @@ author_profile: True
 
 -----
 # 2026
-* Machine Learning (54616-02, 54616-03, Spring)
 * AI Robotics (59391-01, Spring)
+* Machine Learning (54616-02, 54616-03, Spring)
 
 # 2025
 * Discrete Mathematics (17086-02, 17086-03, Fall)

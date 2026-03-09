@@ -18,8 +18,8 @@ redirect_from:
 
 The laboratory (formerly known as Vision & Learning Lab) was formed in Mar. 2020.  
 
-The aim of AI & Robotics Laboratory at Chung-Ang University is to push the boundary of machine learning research by developing efficient, versatile, and optimal machine learning models, towards general-purpose artificial intelligence.
-We engage in research to explore methods that understand and learn any real-world task that human beings can do.
+The AI & Robotics Laboratory aims to push the boundary of machine learning research by developing efficient, versatile, and scalable models, towards general-purpose artificial intelligence.
+Our research focuses on methods that enables machines to understand and learn a wide range of real-world tasks that humans can perform.
 
 Our research interests include efficient machine learning, multi-modal learning, multi-task learning, continual learning, machine unlearning, and their applications to robotics and computer vision, but not limited to.
 

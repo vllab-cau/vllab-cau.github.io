@@ -13,8 +13,8 @@ redirect_from:
 <img src='/images/Eunwoo Kim4.jpg' width="220" align="left" style="margin-right:40px">
 
 Associate Professor      
-[School of Computer Science and Engineering](https://cse.cau.ac.kr/eng/main.php){:target="_blank"}        
-[Graduate School of Artificial Intelligence](http://ai.cau.ac.kr/main.php?lang=en){:target="_blank"}            
+School of Computer Science and Engineering        
+Graduate School of Artificial Intelligence            
 Chung-Ang University    
 84, Heukseok-ro, Dongjak-gu, Seoul 06974, Republic of Korea     
 

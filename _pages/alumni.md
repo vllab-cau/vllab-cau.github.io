@@ -7,86 +7,73 @@ author_profile: true
 
 ## Former Ph.D. Students
 
-<img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
 **[Hyundong Jin](https://jin0316.github.io/hyundong-jin/){:target="_blank"} (Ph.D., 2026)**     
 Research Area: Continual Learning, Multi-Modal Learning       
-Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*  <br><br>    
+Thesis: *Knowledge Association and Differentiation for Efficient Continual Learning*     
 
 
 -----
 ## Former M.S. Students
 
-<img src='/images/hayunlee2.jpg' width="140" align="left" style="margin-right:40px">
 **Hayun Lee (M.S., 2026)**   
 Research Area: Continual Learning, Robotics           
-Thesis: *Learning When to Learn: Complexity-Aware Learning Scheduling for Continual Learning* <br><br>
+Thesis: *Learning When to Learn: Complexity-Aware Learning Scheduling for Continual Learning* 
 
 -----
-<img src='/images/Jian Son.PNG' width="140" align="left" style="margin-right:40px">
 **Jian Son (M.S., 2025)**  
 Research Area: Human Pose Estimation, Multi-Modal Learning           
-Thesis: *3D Human Pose Estimation with an Anatomical Graph Transformer* <br><br>
+Thesis: *3D Human Pose Estimation with an Anatomical Graph Transformer* 
 
 -----
-<img src='/images/Nayoung Ko2.jpg' width="140" align="left" style="margin-right:40px">
 **Nayoung Ko (M.S., 2025)**  
 Research Area: Continual Learning, Semantic Segmentation           
-Thesis: *MC-Seg: Mitigating Class Confusion in Class-incremental Semantic Segmentation* <br><br>
+Thesis: *MC-Seg: Mitigating Class Confusion in Class-incremental Semantic Segmentation* 
 
 -----
-<img src='/images/Hyunjoon Koo.jpg' width="140" align="left" style="margin-right:40px">
 **Hyunjoon Koo (M.S., 2025)**  
 Research Area: Multi-Modal Learning, Video Understanding           
-Thesis: *Dual-Branch Scale Disentanglement for Text-Video Retrieval* <br><br>
+Thesis: *Dual-Branch Scale Disentanglement for Text-Video Retrieval* 
 
 -----
-<img src='/images/Sejun Hong.jpg' width="140" align="left" style="margin-right:40px">
 **Sejun Hong (M.S., 2024)**    
 Research Area: Deep Learning, 3D Vision           
-Thesis: *NeRF-DA: Neural Radiance Fields Deblurring with Active Learning* <br><br>
+Thesis: *NeRF-DA: Neural Radiance Fields Deblurring with Active Learning* 
 
 -----
-<img src='/images/Sujin Choi.jpg' width="140" align="left" style="margin-right:40px">
 **Sujin Choi (M.S., 2023)**      
 Research Area: Deep Learning, Multi-Task Learning           
-Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning* <br><br>    
+Thesis: *Task-Specific Dynamic Model Compression for Multi-Task Learning*     
 
 -----
-<img src='/images/Chanjong Park2.jpg' width="140" align="left" style="margin-right:40px">
 **Chanjong Park (M.S., 2023)**      
 Research Area: Deep Learning, Contrastive Learning           
-Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation* <br><br>
+Thesis: *Self-Supervised Learning with Automatic Data Augmentation for Enhancing Representation* 
 
 
 -----
-<img src='/images/Changseong Kim.jpg' width="140" align="left" style="margin-right:40px">
 **Changseong Kim (M.S., 2023)**      
 Research Area: Deep Learning, Multi-Task Learning           
-Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*  <br><br>
+Thesis: *Task-specific Gating Mechanism for Heterogeneous Tasks*  
 
 -----
-<img src='/images/Gyeonghyeon Kim.png' width="140" align="left" style="margin-right:40px">
 **Gyeonghyeon Kim (M.S., 2023)**     
 Research Area: Neural Architecture Search, Computer Vision             
-Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*  <br><br>
+Thesis: *Temporal Action Segmentation with Alleviating Local Context Fading*  
 
 -----
-<img src='/images/Hyundong Jin3.png' width="140" align="left" style="margin-right:40px">
 **Hyundong Jin (M.S., 2022)**     
 Research Area: Deep Learning, Continual Learning             
-Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*  <br><br>
+Thesis: *Continual Learning without Negative Interference in a Deep Neural Network*  
 
 -----
-<img src='/images/wonhee300.jpg' width="140" align="left" style="margin-right:40px">
 **Wonhee Cho (M.S., 2022)**      
 Research Area: Deep Learning, Few-Shot Learning       
-Thesis: *Improving Augmentation Efficiency for Few-Shot Learning* <br><br>
+Thesis: *Improving Augmentation Efficiency for Few-Shot Learning* 
 
 ----
-<img src='/images/Soyeon Park.jpg' width="140" align="left" style="margin-right:40px"> 
 **Soyeon Park (M.S., 2022)**      
 Research Area: Deep Learning, Multi-Task Learning       
-Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*  <br><br>
+Thesis: *Resource-Efficient Multi-Task Deep Learning Using a Multi-Path Network*  
 
 
 -----
